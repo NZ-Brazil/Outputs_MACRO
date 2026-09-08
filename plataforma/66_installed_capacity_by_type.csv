@@ -1,0 +1,1321 @@
+Variable_group,Variable name,Class_1,Class_2,Class_3,Class_4,Class_5,Unit,Territory,Year,Value
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,BR,2025,2.81893
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,BR,2030,3.7162
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,BR,2035,6.18685
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,BR,2040,8.18679
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,BR,2045,10.04982
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,BR,2050,10.28071
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,BR,2025,2.93757
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,BR,2030,2.89774
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,BR,2035,2.89819
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,BR,2040,1.85496
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,BR,2045,0.40669
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,BR,2050,0.028
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,BR,2025,0.17295
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,BR,2030,0.03359
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,BR,2035,0.03057
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,BR,2040,0.26895
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,BR,2045,0.06209
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,BR,2050,0.22022
+Power,Installed capacity by type,Energy,Electricity generation,Amazonas,Hydropower,Reservoir,GW,BR,2025,0.98468
+Power,Installed capacity by type,Energy,Electricity generation,Amazonas,Hydropower,Reservoir,GW,BR,2030,0.98468
+Power,Installed capacity by type,Energy,Electricity generation,Amazonas,Hydropower,Reservoir,GW,BR,2035,0.98468
+Power,Installed capacity by type,Energy,Electricity generation,Amazonas,Hydropower,Reservoir,GW,BR,2040,0.98468
+Power,Installed capacity by type,Energy,Electricity generation,Amazonas,Hydropower,Reservoir,GW,BR,2045,0.98468
+Power,Installed capacity by type,Energy,Electricity generation,Amazonas,Hydropower,Reservoir,GW,BR,2050,0.98468
+Power,Installed capacity by type,Energy,Electricity generation,Doce,Hydropower,Reservoir,GW,BR,2025,0.112
+Power,Installed capacity by type,Energy,Electricity generation,Doce,Hydropower,Reservoir,GW,BR,2030,0.112
+Power,Installed capacity by type,Energy,Electricity generation,Doce,Hydropower,Reservoir,GW,BR,2035,0.112
+Power,Installed capacity by type,Energy,Electricity generation,Doce,Hydropower,Reservoir,GW,BR,2040,0.112
+Power,Installed capacity by type,Energy,Electricity generation,Doce,Hydropower,Reservoir,GW,BR,2045,0.112
+Power,Installed capacity by type,Energy,Electricity generation,Doce,Hydropower,Reservoir,GW,BR,2050,0.112
+Power,Installed capacity by type,Energy,Electricity generation,Grande,Hydropower,Reservoir,GW,BR,2025,4.1786
+Power,Installed capacity by type,Energy,Electricity generation,Grande,Hydropower,Reservoir,GW,BR,2030,4.1786
+Power,Installed capacity by type,Energy,Electricity generation,Grande,Hydropower,Reservoir,GW,BR,2035,4.1786
+Power,Installed capacity by type,Energy,Electricity generation,Grande,Hydropower,Reservoir,GW,BR,2040,4.1786
+Power,Installed capacity by type,Energy,Electricity generation,Grande,Hydropower,Reservoir,GW,BR,2045,4.1786
+Power,Installed capacity by type,Energy,Electricity generation,Grande,Hydropower,Reservoir,GW,BR,2050,4.1786
+Power,Installed capacity by type,Energy,Electricity generation,Iguaçu,Hydropower,Reservoir,GW,BR,2025,4.47617
+Power,Installed capacity by type,Energy,Electricity generation,Iguaçu,Hydropower,Reservoir,GW,BR,2030,4.47617
+Power,Installed capacity by type,Energy,Electricity generation,Iguaçu,Hydropower,Reservoir,GW,BR,2035,4.47617
+Power,Installed capacity by type,Energy,Electricity generation,Iguaçu,Hydropower,Reservoir,GW,BR,2040,4.47617
+Power,Installed capacity by type,Energy,Electricity generation,Iguaçu,Hydropower,Reservoir,GW,BR,2045,4.47617
+Power,Installed capacity by type,Energy,Electricity generation,Iguaçu,Hydropower,Reservoir,GW,BR,2050,4.47617
+Power,Installed capacity by type,Energy,Electricity generation,Jacuí-Capivari,Hydropower,Reservoir,GW,BR,2025,0.418
+Power,Installed capacity by type,Energy,Electricity generation,Jacuí-Capivari,Hydropower,Reservoir,GW,BR,2030,0.418
+Power,Installed capacity by type,Energy,Electricity generation,Jacuí-Capivari,Hydropower,Reservoir,GW,BR,2035,0.418
+Power,Installed capacity by type,Energy,Electricity generation,Jacuí-Capivari,Hydropower,Reservoir,GW,BR,2040,0.418
+Power,Installed capacity by type,Energy,Electricity generation,Jacuí-Capivari,Hydropower,Reservoir,GW,BR,2045,0.418
+Power,Installed capacity by type,Energy,Electricity generation,Jacuí-Capivari,Hydropower,Reservoir,GW,BR,2050,0.418
+Power,Installed capacity by type,Energy,Electricity generation,Jequitinhonha,Hydropower,Reservoir,GW,BR,2025,0.399
+Power,Installed capacity by type,Energy,Electricity generation,Jequitinhonha,Hydropower,Reservoir,GW,BR,2030,0.399
+Power,Installed capacity by type,Energy,Electricity generation,Jequitinhonha,Hydropower,Reservoir,GW,BR,2035,0.399
+Power,Installed capacity by type,Energy,Electricity generation,Jequitinhonha,Hydropower,Reservoir,GW,BR,2040,0.399
+Power,Installed capacity by type,Energy,Electricity generation,Jequitinhonha,Hydropower,Reservoir,GW,BR,2045,0.399
+Power,Installed capacity by type,Energy,Electricity generation,Jequitinhonha,Hydropower,Reservoir,GW,BR,2050,0.399
+Power,Installed capacity by type,Energy,Electricity generation,Paranapanema,Hydropower,Reservoir,GW,BR,2025,1.51896
+Power,Installed capacity by type,Energy,Electricity generation,Paranapanema,Hydropower,Reservoir,GW,BR,2030,1.51896
+Power,Installed capacity by type,Energy,Electricity generation,Paranapanema,Hydropower,Reservoir,GW,BR,2035,1.51896
+Power,Installed capacity by type,Energy,Electricity generation,Paranapanema,Hydropower,Reservoir,GW,BR,2040,1.51896
+Power,Installed capacity by type,Energy,Electricity generation,Paranapanema,Hydropower,Reservoir,GW,BR,2045,1.51896
+Power,Installed capacity by type,Energy,Electricity generation,Paranapanema,Hydropower,Reservoir,GW,BR,2050,1.51896
+Power,Installed capacity by type,Energy,Electricity generation,Paranaíba,Hydropower,Reservoir,GW,BR,2025,7.10473
+Power,Installed capacity by type,Energy,Electricity generation,Paranaíba,Hydropower,Reservoir,GW,BR,2030,7.10473
+Power,Installed capacity by type,Energy,Electricity generation,Paranaíba,Hydropower,Reservoir,GW,BR,2035,7.10473
+Power,Installed capacity by type,Energy,Electricity generation,Paranaíba,Hydropower,Reservoir,GW,BR,2040,7.10473
+Power,Installed capacity by type,Energy,Electricity generation,Paranaíba,Hydropower,Reservoir,GW,BR,2045,7.10473
+Power,Installed capacity by type,Energy,Electricity generation,Paranaíba,Hydropower,Reservoir,GW,BR,2050,7.10473
+Power,Installed capacity by type,Energy,Electricity generation,Paraná,Hydropower,Reservoir,GW,BR,2025,3.444
+Power,Installed capacity by type,Energy,Electricity generation,Paraná,Hydropower,Reservoir,GW,BR,2030,3.444
+Power,Installed capacity by type,Energy,Electricity generation,Paraná,Hydropower,Reservoir,GW,BR,2035,3.444
+Power,Installed capacity by type,Energy,Electricity generation,Paraná,Hydropower,Reservoir,GW,BR,2040,3.444
+Power,Installed capacity by type,Energy,Electricity generation,Paraná,Hydropower,Reservoir,GW,BR,2045,3.444
+Power,Installed capacity by type,Energy,Electricity generation,Paraná,Hydropower,Reservoir,GW,BR,2050,3.444
+Power,Installed capacity by type,Energy,Electricity generation,Paraíba do Sul,Hydropower,Reservoir,GW,BR,2025,0.56667
+Power,Installed capacity by type,Energy,Electricity generation,Paraíba do Sul,Hydropower,Reservoir,GW,BR,2030,0.56667
+Power,Installed capacity by type,Energy,Electricity generation,Paraíba do Sul,Hydropower,Reservoir,GW,BR,2035,0.56667
+Power,Installed capacity by type,Energy,Electricity generation,Paraíba do Sul,Hydropower,Reservoir,GW,BR,2040,0.56667
+Power,Installed capacity by type,Energy,Electricity generation,Paraíba do Sul,Hydropower,Reservoir,GW,BR,2045,0.56667
+Power,Installed capacity by type,Energy,Electricity generation,Paraíba do Sul,Hydropower,Reservoir,GW,BR,2050,0.56667
+Power,Installed capacity by type,Energy,Electricity generation,Parnaíba,Hydropower,Reservoir,GW,BR,2025,0.2373
+Power,Installed capacity by type,Energy,Electricity generation,Parnaíba,Hydropower,Reservoir,GW,BR,2030,0.2373
+Power,Installed capacity by type,Energy,Electricity generation,Parnaíba,Hydropower,Reservoir,GW,BR,2035,0.2373
+Power,Installed capacity by type,Energy,Electricity generation,Parnaíba,Hydropower,Reservoir,GW,BR,2040,0.2373
+Power,Installed capacity by type,Energy,Electricity generation,Parnaíba,Hydropower,Reservoir,GW,BR,2045,0.2373
+Power,Installed capacity by type,Energy,Electricity generation,Parnaíba,Hydropower,Reservoir,GW,BR,2050,0.2373
+Power,Installed capacity by type,Energy,Electricity generation,São Francisco,Hydropower,Reservoir,GW,BR,2025,3.11456
+Power,Installed capacity by type,Energy,Electricity generation,São Francisco,Hydropower,Reservoir,GW,BR,2030,3.11456
+Power,Installed capacity by type,Energy,Electricity generation,São Francisco,Hydropower,Reservoir,GW,BR,2035,3.11456
+Power,Installed capacity by type,Energy,Electricity generation,São Francisco,Hydropower,Reservoir,GW,BR,2040,3.11456
+Power,Installed capacity by type,Energy,Electricity generation,São Francisco,Hydropower,Reservoir,GW,BR,2045,3.11456
+Power,Installed capacity by type,Energy,Electricity generation,São Francisco,Hydropower,Reservoir,GW,BR,2050,3.11456
+Power,Installed capacity by type,Energy,Electricity generation,Tietê,Hydropower,Reservoir,GW,BR,2025,1.21226
+Power,Installed capacity by type,Energy,Electricity generation,Tietê,Hydropower,Reservoir,GW,BR,2030,1.21226
+Power,Installed capacity by type,Energy,Electricity generation,Tietê,Hydropower,Reservoir,GW,BR,2035,1.21226
+Power,Installed capacity by type,Energy,Electricity generation,Tietê,Hydropower,Reservoir,GW,BR,2040,1.21226
+Power,Installed capacity by type,Energy,Electricity generation,Tietê,Hydropower,Reservoir,GW,BR,2045,1.21226
+Power,Installed capacity by type,Energy,Electricity generation,Tietê,Hydropower,Reservoir,GW,BR,2050,1.21226
+Power,Installed capacity by type,Energy,Electricity generation,Tocantins,Hydropower,Reservoir,GW,BR,2025,10.30875
+Power,Installed capacity by type,Energy,Electricity generation,Tocantins,Hydropower,Reservoir,GW,BR,2030,10.30875
+Power,Installed capacity by type,Energy,Electricity generation,Tocantins,Hydropower,Reservoir,GW,BR,2035,10.30875
+Power,Installed capacity by type,Energy,Electricity generation,Tocantins,Hydropower,Reservoir,GW,BR,2040,10.30875
+Power,Installed capacity by type,Energy,Electricity generation,Tocantins,Hydropower,Reservoir,GW,BR,2045,10.30875
+Power,Installed capacity by type,Energy,Electricity generation,Tocantins,Hydropower,Reservoir,GW,BR,2050,10.30875
+Power,Installed capacity by type,Energy,Electricity generation,Uruguai,Hydropower,Reservoir,GW,BR,2025,3.2479
+Power,Installed capacity by type,Energy,Electricity generation,Uruguai,Hydropower,Reservoir,GW,BR,2030,3.2479
+Power,Installed capacity by type,Energy,Electricity generation,Uruguai,Hydropower,Reservoir,GW,BR,2035,3.2479
+Power,Installed capacity by type,Energy,Electricity generation,Uruguai,Hydropower,Reservoir,GW,BR,2040,3.2479
+Power,Installed capacity by type,Energy,Electricity generation,Uruguai,Hydropower,Reservoir,GW,BR,2045,3.2479
+Power,Installed capacity by type,Energy,Electricity generation,Uruguai,Hydropower,Reservoir,GW,BR,2050,3.2479
+Power,Installed capacity by type,Energy,Electricity generation,Amazonas,Hydropower,Run-of-river,GW,BR,2025,22.69385
+Power,Installed capacity by type,Energy,Electricity generation,Amazonas,Hydropower,Run-of-river,GW,BR,2030,22.69385
+Power,Installed capacity by type,Energy,Electricity generation,Amazonas,Hydropower,Run-of-river,GW,BR,2035,22.69385
+Power,Installed capacity by type,Energy,Electricity generation,Amazonas,Hydropower,Run-of-river,GW,BR,2040,22.69385
+Power,Installed capacity by type,Energy,Electricity generation,Amazonas,Hydropower,Run-of-river,GW,BR,2045,22.69385
+Power,Installed capacity by type,Energy,Electricity generation,Amazonas,Hydropower,Run-of-river,GW,BR,2050,22.69385
+Power,Installed capacity by type,Energy,Electricity generation,Doce,Hydropower,Run-of-river,GW,BR,2025,1.604
+Power,Installed capacity by type,Energy,Electricity generation,Doce,Hydropower,Run-of-river,GW,BR,2030,1.604
+Power,Installed capacity by type,Energy,Electricity generation,Doce,Hydropower,Run-of-river,GW,BR,2035,1.604
+Power,Installed capacity by type,Energy,Electricity generation,Doce,Hydropower,Run-of-river,GW,BR,2040,1.604
+Power,Installed capacity by type,Energy,Electricity generation,Doce,Hydropower,Run-of-river,GW,BR,2045,1.604
+Power,Installed capacity by type,Energy,Electricity generation,Doce,Hydropower,Run-of-river,GW,BR,2050,1.604
+Power,Installed capacity by type,Energy,Electricity generation,Grande,Hydropower,Run-of-river,GW,BR,2025,2.5768
+Power,Installed capacity by type,Energy,Electricity generation,Grande,Hydropower,Run-of-river,GW,BR,2030,2.5768
+Power,Installed capacity by type,Energy,Electricity generation,Grande,Hydropower,Run-of-river,GW,BR,2035,2.5768
+Power,Installed capacity by type,Energy,Electricity generation,Grande,Hydropower,Run-of-river,GW,BR,2040,2.5768
+Power,Installed capacity by type,Energy,Electricity generation,Grande,Hydropower,Run-of-river,GW,BR,2045,2.5768
+Power,Installed capacity by type,Energy,Electricity generation,Grande,Hydropower,Run-of-river,GW,BR,2050,2.5768
+Power,Installed capacity by type,Energy,Electricity generation,Iguaçu,Hydropower,Run-of-river,GW,BR,2025,2.78837
+Power,Installed capacity by type,Energy,Electricity generation,Iguaçu,Hydropower,Run-of-river,GW,BR,2030,2.78837
+Power,Installed capacity by type,Energy,Electricity generation,Iguaçu,Hydropower,Run-of-river,GW,BR,2035,2.78837
+Power,Installed capacity by type,Energy,Electricity generation,Iguaçu,Hydropower,Run-of-river,GW,BR,2040,2.78837
+Power,Installed capacity by type,Energy,Electricity generation,Iguaçu,Hydropower,Run-of-river,GW,BR,2045,2.78837
+Power,Installed capacity by type,Energy,Electricity generation,Iguaçu,Hydropower,Run-of-river,GW,BR,2050,2.78837
+Power,Installed capacity by type,Energy,Electricity generation,Jacuí-Capivari,Hydropower,Run-of-river,GW,BR,2025,1.1654
+Power,Installed capacity by type,Energy,Electricity generation,Jacuí-Capivari,Hydropower,Run-of-river,GW,BR,2030,1.1654
+Power,Installed capacity by type,Energy,Electricity generation,Jacuí-Capivari,Hydropower,Run-of-river,GW,BR,2035,1.1654
+Power,Installed capacity by type,Energy,Electricity generation,Jacuí-Capivari,Hydropower,Run-of-river,GW,BR,2040,1.1654
+Power,Installed capacity by type,Energy,Electricity generation,Jacuí-Capivari,Hydropower,Run-of-river,GW,BR,2045,1.1654
+Power,Installed capacity by type,Energy,Electricity generation,Jacuí-Capivari,Hydropower,Run-of-river,GW,BR,2050,1.1654
+Power,Installed capacity by type,Energy,Electricity generation,Jequitinhonha,Hydropower,Run-of-river,GW,BR,2025,0.46201
+Power,Installed capacity by type,Energy,Electricity generation,Jequitinhonha,Hydropower,Run-of-river,GW,BR,2030,0.46201
+Power,Installed capacity by type,Energy,Electricity generation,Jequitinhonha,Hydropower,Run-of-river,GW,BR,2035,0.46201
+Power,Installed capacity by type,Energy,Electricity generation,Jequitinhonha,Hydropower,Run-of-river,GW,BR,2040,0.46201
+Power,Installed capacity by type,Energy,Electricity generation,Jequitinhonha,Hydropower,Run-of-river,GW,BR,2045,0.46201
+Power,Installed capacity by type,Energy,Electricity generation,Jequitinhonha,Hydropower,Run-of-river,GW,BR,2050,0.46201
+Power,Installed capacity by type,Energy,Electricity generation,Paranapanema,Hydropower,Run-of-river,GW,BR,2025,1.2213
+Power,Installed capacity by type,Energy,Electricity generation,Paranapanema,Hydropower,Run-of-river,GW,BR,2030,1.2213
+Power,Installed capacity by type,Energy,Electricity generation,Paranapanema,Hydropower,Run-of-river,GW,BR,2035,1.2213
+Power,Installed capacity by type,Energy,Electricity generation,Paranapanema,Hydropower,Run-of-river,GW,BR,2040,1.2213
+Power,Installed capacity by type,Energy,Electricity generation,Paranapanema,Hydropower,Run-of-river,GW,BR,2045,1.2213
+Power,Installed capacity by type,Energy,Electricity generation,Paranapanema,Hydropower,Run-of-river,GW,BR,2050,1.2213
+Power,Installed capacity by type,Energy,Electricity generation,Paranaíba,Hydropower,Run-of-river,GW,BR,2025,1.2354
+Power,Installed capacity by type,Energy,Electricity generation,Paranaíba,Hydropower,Run-of-river,GW,BR,2030,1.2354
+Power,Installed capacity by type,Energy,Electricity generation,Paranaíba,Hydropower,Run-of-river,GW,BR,2035,1.2354
+Power,Installed capacity by type,Energy,Electricity generation,Paranaíba,Hydropower,Run-of-river,GW,BR,2040,1.2354
+Power,Installed capacity by type,Energy,Electricity generation,Paranaíba,Hydropower,Run-of-river,GW,BR,2045,1.2354
+Power,Installed capacity by type,Energy,Electricity generation,Paranaíba,Hydropower,Run-of-river,GW,BR,2050,1.2354
+Power,Installed capacity by type,Energy,Electricity generation,Paraná,Hydropower,Run-of-river,GW,BR,2025,10.1512
+Power,Installed capacity by type,Energy,Electricity generation,Paraná,Hydropower,Run-of-river,GW,BR,2030,10.1512
+Power,Installed capacity by type,Energy,Electricity generation,Paraná,Hydropower,Run-of-river,GW,BR,2035,10.1512
+Power,Installed capacity by type,Energy,Electricity generation,Paraná,Hydropower,Run-of-river,GW,BR,2040,10.1512
+Power,Installed capacity by type,Energy,Electricity generation,Paraná,Hydropower,Run-of-river,GW,BR,2045,10.1512
+Power,Installed capacity by type,Energy,Electricity generation,Paraná,Hydropower,Run-of-river,GW,BR,2050,10.1512
+Power,Installed capacity by type,Energy,Electricity generation,Paraíba do Sul,Hydropower,Run-of-river,GW,BR,2025,1.28179
+Power,Installed capacity by type,Energy,Electricity generation,Paraíba do Sul,Hydropower,Run-of-river,GW,BR,2030,1.28179
+Power,Installed capacity by type,Energy,Electricity generation,Paraíba do Sul,Hydropower,Run-of-river,GW,BR,2035,1.28179
+Power,Installed capacity by type,Energy,Electricity generation,Paraíba do Sul,Hydropower,Run-of-river,GW,BR,2040,1.28179
+Power,Installed capacity by type,Energy,Electricity generation,Paraíba do Sul,Hydropower,Run-of-river,GW,BR,2045,1.28179
+Power,Installed capacity by type,Energy,Electricity generation,Paraíba do Sul,Hydropower,Run-of-river,GW,BR,2050,1.28179
+Power,Installed capacity by type,Energy,Electricity generation,São Francisco,Hydropower,Run-of-river,GW,BR,2025,7.4416
+Power,Installed capacity by type,Energy,Electricity generation,São Francisco,Hydropower,Run-of-river,GW,BR,2030,7.4416
+Power,Installed capacity by type,Energy,Electricity generation,São Francisco,Hydropower,Run-of-river,GW,BR,2035,7.4416
+Power,Installed capacity by type,Energy,Electricity generation,São Francisco,Hydropower,Run-of-river,GW,BR,2040,7.4416
+Power,Installed capacity by type,Energy,Electricity generation,São Francisco,Hydropower,Run-of-river,GW,BR,2045,7.4416
+Power,Installed capacity by type,Energy,Electricity generation,São Francisco,Hydropower,Run-of-river,GW,BR,2050,7.4416
+Power,Installed capacity by type,Energy,Electricity generation,Tietê,Hydropower,Run-of-river,GW,BR,2025,1.51099
+Power,Installed capacity by type,Energy,Electricity generation,Tietê,Hydropower,Run-of-river,GW,BR,2030,1.51099
+Power,Installed capacity by type,Energy,Electricity generation,Tietê,Hydropower,Run-of-river,GW,BR,2035,1.51099
+Power,Installed capacity by type,Energy,Electricity generation,Tietê,Hydropower,Run-of-river,GW,BR,2040,1.51099
+Power,Installed capacity by type,Energy,Electricity generation,Tietê,Hydropower,Run-of-river,GW,BR,2045,1.51099
+Power,Installed capacity by type,Energy,Electricity generation,Tietê,Hydropower,Run-of-river,GW,BR,2050,1.51099
+Power,Installed capacity by type,Energy,Electricity generation,Tocantins,Hydropower,Run-of-river,GW,BR,2025,2.6827
+Power,Installed capacity by type,Energy,Electricity generation,Tocantins,Hydropower,Run-of-river,GW,BR,2030,2.6827
+Power,Installed capacity by type,Energy,Electricity generation,Tocantins,Hydropower,Run-of-river,GW,BR,2035,2.6827
+Power,Installed capacity by type,Energy,Electricity generation,Tocantins,Hydropower,Run-of-river,GW,BR,2040,2.6827
+Power,Installed capacity by type,Energy,Electricity generation,Tocantins,Hydropower,Run-of-river,GW,BR,2045,2.6827
+Power,Installed capacity by type,Energy,Electricity generation,Tocantins,Hydropower,Run-of-river,GW,BR,2050,2.6827
+Power,Installed capacity by type,Energy,Electricity generation,Uruguai,Hydropower,Run-of-river,GW,BR,2025,2.5076
+Power,Installed capacity by type,Energy,Electricity generation,Uruguai,Hydropower,Run-of-river,GW,BR,2030,2.5076
+Power,Installed capacity by type,Energy,Electricity generation,Uruguai,Hydropower,Run-of-river,GW,BR,2035,2.5076
+Power,Installed capacity by type,Energy,Electricity generation,Uruguai,Hydropower,Run-of-river,GW,BR,2040,2.5076
+Power,Installed capacity by type,Energy,Electricity generation,Uruguai,Hydropower,Run-of-river,GW,BR,2045,2.5076
+Power,Installed capacity by type,Energy,Electricity generation,Uruguai,Hydropower,Run-of-river,GW,BR,2050,2.5076
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,With CCS,GW,BR,2025,0.0
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,With CCS,GW,BR,2030,0.0
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,With CCS,GW,BR,2035,0.0002
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,With CCS,GW,BR,2040,0.00248
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,With CCS,GW,BR,2045,0.00073
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,With CCS,GW,BR,2050,0.00076
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,BR,2025,18.25093
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,BR,2030,10.87765
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,BR,2035,10.37558
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,BR,2040,10.38774
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,BR,2045,6.88738
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,BR,2050,17.30501
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Nuclear,N/A,GW,BR,2025,1.99
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Nuclear,N/A,GW,BR,2030,1.99
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Nuclear,N/A,GW,BR,2035,1.99
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Nuclear,N/A,GW,BR,2040,1.98972
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Nuclear,N/A,GW,BR,2045,1.98967
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Nuclear,N/A,GW,BR,2050,1.98966
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,BR,2025,7.09828
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,BR,2030,7.09836
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,BR,2035,7.09843
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,BR,2040,7.09585
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,BR,2045,7.09577
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,BR,2050,7.07403
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,BR,2025,19.70288
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,BR,2030,21.62973
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,BR,2035,40.73192
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,BR,2040,50.95411
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,BR,2045,62.225
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,BR,2050,92.67211
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Offshore,GW,BR,2025,0.00229
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Offshore,GW,BR,2030,0.0023
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Offshore,GW,BR,2035,0.00232
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Offshore,GW,BR,2040,0.00505
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Offshore,GW,BR,2045,0.00279
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Offshore,GW,BR,2050,0.00282
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,BR,2025,37.36062
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,BR,2030,40.91882
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,BR,2035,43.01913
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,BR,2040,44.52895
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,BR,2045,54.49292
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,BR,2050,56.33578
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,AC,2025,0.06663
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,AC,2030,0.07739
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,AC,2035,0.07769
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,AC,2040,0.14756
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,AC,2045,0.2194
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,AC,2050,0.22139
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,AL,2025,0.04858
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,AL,2030,0.05153
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,AL,2035,0.05265
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,AL,2040,0.11891
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,AL,2045,0.20158
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,AL,2050,0.20174
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,AM,2025,0.06414
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,AM,2030,0.06388
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,AM,2035,0.09008
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,AM,2040,0.1747
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,AM,2045,0.39128
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,AM,2050,0.39137
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,AP,2025,0.04218
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,AP,2030,0.04692
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,AP,2035,0.02532
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,AP,2040,0.09734
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,AP,2045,0.09945
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,AP,2050,0.0999
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,BA,2025,0.04788
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,BA,2030,0.27789
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,BA,2035,0.59317
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,BA,2040,0.78963
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,BA,2045,0.85858
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,BA,2050,0.85871
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,CE,2025,0.05266
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,CE,2030,0.07171
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,CE,2035,0.43756
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,CE,2040,0.43877
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,CE,2045,0.43903
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,CE,2050,0.43913
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,DF,2025,0.04115
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,DF,2030,0.07502
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,DF,2035,0.12489
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,DF,2040,0.16397
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,DF,2045,0.16424
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,DF,2050,0.16445
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,ES,2025,0.10434
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,ES,2030,0.16653
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,ES,2035,0.16991
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,ES,2040,0.26474
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,ES,2045,0.32646
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,ES,2050,0.32656
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,GO,2025,0.0674
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,GO,2030,0.07744
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,GO,2035,0.04447
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,GO,2040,0.0964
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,GO,2045,0.07769
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,GO,2050,0.07799
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,MA,2025,0.05411
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,MA,2030,0.06837
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,MA,2035,0.20252
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,MA,2040,0.22538
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,MA,2045,0.40148
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,MA,2050,0.40159
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,MG,2025,0.15358
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,MG,2030,0.15415
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,MG,2035,0.15833
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,MG,2040,0.18953
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,MG,2045,0.18968
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,MG,2050,0.18995
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,MS,2025,0.04635
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,MS,2030,0.05167
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,MS,2035,0.03311
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,MS,2040,0.10436
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,MS,2045,0.10587
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,MS,2050,0.07048
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,MT,2025,0.05541
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,MT,2030,0.06777
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,MT,2035,0.0688
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,MT,2040,0.14214
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,MT,2045,0.1431
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,MT,2050,0.14325
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,PA,2025,0.08196
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,PA,2030,0.09029
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,PA,2035,0.51028
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,PA,2040,0.52976
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,PA,2045,0.55442
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,PA,2050,0.55441
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,PB,2025,0.05218
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,PB,2030,0.05279
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,PB,2035,0.07582
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,PB,2040,0.31064
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,PB,2045,0.31417
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,PB,2050,0.31421
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,PE,2025,0.07492
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,PE,2030,0.08926
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,PE,2035,0.0906
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,PE,2040,0.1569
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,PE,2045,0.8226
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,PE,2050,1.08931
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,PI,2025,0.04268
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,PI,2030,0.04276
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,PI,2035,0.0446
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,PI,2040,0.11812
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,PI,2045,0.11911
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,PI,2050,0.12058
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,PR,2025,0.12883
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,PR,2030,0.13356
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,PR,2035,0.44363
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,PR,2040,0.59241
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,PR,2045,0.59695
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,PR,2050,0.59696
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,RJ,2025,0.19535
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,RJ,2030,0.19507
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,RJ,2035,0.67377
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,RJ,2040,0.68535
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,RJ,2045,1.00443
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,RJ,2050,1.01296
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,RN,2025,0.05547
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,RN,2030,0.08586
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,RN,2035,0.05221
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,RN,2040,0.13847
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,RN,2045,0.13914
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,RN,2050,0.13914
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,RO,2025,0.05768
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,RO,2030,0.05945
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,RO,2035,0.06119
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,RO,2040,0.14815
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,RO,2045,0.14977
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,RO,2050,0.14996
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,RR,2025,0.04601
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,RR,2030,0.0455
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,RR,2035,0.02515
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,RR,2040,0.09316
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,RR,2045,0.09371
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,RR,2050,0.09413
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,RS,2025,0.09116
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,RS,2030,0.09555
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,RS,2035,0.09784
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,RS,2040,0.23908
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,RS,2045,0.24247
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,RS,2050,0.24256
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,SC,2025,0.04149
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,SC,2030,0.05164
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,SC,2035,0.0385
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,SC,2040,0.07745
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,SC,2045,0.05935
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,SC,2050,0.03347
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,SE,2025,0.04261
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,SE,2030,0.05387
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,SE,2035,0.05445
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,SE,2040,0.10132
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,SE,2045,0.10211
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,SE,2050,0.1058
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,SP,2025,1.02688
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,SP,2030,1.42645
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,SP,2035,1.91918
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,SP,2040,1.94348
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,SP,2045,2.13464
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,SP,2050,2.14111
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,TO,2025,0.0373
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,TO,2030,0.04388
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,TO,2035,0.02112
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,TO,2040,0.09909
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,TO,2045,0.09912
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Battery storage,N/A,GW,TO,2050,0.09959
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,AC,2025,0.00211
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,AC,2030,0.00076
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,AC,2035,0.00077
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,AC,2040,0.00224
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,AC,2045,0.00225
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,AC,2050,0.00121
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,AL,2025,0.00196
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,AL,2030,0.00068
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,AL,2035,0.0007
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,AL,2040,0.00213
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,AL,2045,0.00213
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,AL,2050,0.00115
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,AM,2025,0.00202
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,AM,2030,0.00071
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,AM,2035,0.00073
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,AM,2040,0.00214
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,AM,2045,0.00214
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,AM,2050,0.00116
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,AP,2025,0.00199
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,AP,2030,0.00065
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,AP,2035,0.00067
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,AP,2040,0.00209
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,AP,2045,0.00177
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,AP,2050,0.00071
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,BA,2025,0.00202
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,BA,2030,0.00076
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,BA,2035,0.00077
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,BA,2040,0.00223
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,BA,2045,0.00223
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,BA,2050,0.00109
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,CE,2025,1.08702
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,CE,2030,1.08573
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,CE,2035,1.08575
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,CE,2040,1.08718
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,CE,2045,0.00694
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,CE,2050,0.00181
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,DF,2025,0.0022
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,DF,2030,0.00083
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,DF,2035,0.00084
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,DF,2040,0.00225
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,DF,2045,0.00226
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,DF,2050,0.00128
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,ES,2025,0.00237
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,ES,2030,0.00086
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,ES,2035,0.00087
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,ES,2040,0.00226
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,ES,2045,0.00226
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,ES,2050,0.00118
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,GO,2025,0.00232
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,GO,2030,0.00069
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,GO,2035,0.0007
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,GO,2040,0.00211
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,GO,2045,0.00152
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,GO,2050,0.00082
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,MA,2025,0.36218
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,MA,2030,0.36071
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,MA,2035,0.36073
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,MA,2040,0.3621
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,MA,2045,0.0055
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,MA,2050,0.00166
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,MG,2025,0.00234
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,MG,2030,0.00074
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,MG,2035,0.00075
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,MG,2040,0.00217
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,MG,2045,0.00216
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,MG,2050,0.00093
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,MS,2025,0.00226
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,MS,2030,0.00065
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,MS,2035,0.00067
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,MS,2040,0.00205
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,MS,2045,0.00126
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,MS,2050,0.00078
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,MT,2025,0.00227
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,MT,2030,0.00071
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,MT,2035,0.00073
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,MT,2040,0.00212
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,MT,2045,0.00172
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,MT,2050,0.0008
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,PA,2025,0.00228
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,PA,2030,0.00079
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,PA,2035,0.00082
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,PA,2040,0.0022
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,PA,2045,0.0022
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,PA,2050,0.00114
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,PB,2025,0.00192
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,PB,2030,0.00068
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,PB,2035,0.0007
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,PB,2040,0.00223
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,PB,2045,0.00223
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,PB,2050,0.00131
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,PE,2025,0.00222
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,PE,2030,0.0008
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,PE,2035,0.00081
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,PE,2040,0.00205
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,PE,2045,0.00206
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,PE,2050,0.00106
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,PI,2025,0.00202
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,PI,2030,0.00061
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,PI,2035,0.00063
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,PI,2040,0.0021
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,PI,2045,0.00177
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,PI,2050,0.00078
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,PR,2025,0.00221
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,PR,2030,0.00017
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,PR,2035,0.00018
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,PR,2040,0.00225
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,PR,2045,0.00225
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,PR,2050,0.00092
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,RJ,2025,0.00197
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,RJ,2030,0.00073
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,RJ,2035,0.00074
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,RJ,2040,0.00221
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,RJ,2045,0.00221
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,RJ,2050,0.00092
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,RN,2025,0.00175
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,RN,2030,0.00065
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,RN,2035,0.00067
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,RN,2040,0.00206
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,RN,2045,0.0013
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,RN,2050,0.00079
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,RO,2025,0.00223
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,RO,2030,0.00072
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,RO,2035,0.00074
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,RO,2040,0.00225
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,RO,2045,0.00225
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,RO,2050,0.00121
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,RR,2025,0.00194
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,RR,2030,0.00067
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,RR,2035,0.00069
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,RR,2040,0.00208
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,RR,2045,0.00176
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,RR,2050,0.00071
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,RS,2025,0.69719
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,RS,2030,0.69516
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,RS,2035,0.69518
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,RS,2040,0.35074
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,RS,2045,0.3474
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,RS,2050,0.00123
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,SC,2025,0.74215
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,SC,2030,0.74016
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,SC,2035,0.74017
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,SC,2040,0.00524
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,SC,2045,0.00161
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,SC,2050,0.00082
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,SE,2025,0.00215
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,SE,2030,0.00065
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,SE,2035,0.00066
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,SE,2040,0.00211
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,SE,2045,0.00146
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,SE,2050,0.00087
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,SP,2025,0.00237
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,SP,2030,0.00084
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,SP,2035,0.00086
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,SP,2040,0.0023
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,SP,2045,0.0023
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,SP,2050,0.001
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,TO,2025,0.00212
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,TO,2030,0.00064
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,TO,2035,0.00065
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,TO,2040,0.00208
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,TO,2045,0.00176
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Coal,N/A,GW,TO,2050,0.00069
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,AC,2025,0.0083
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,AC,2030,0.00177
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,AC,2035,0.00141
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,AC,2040,0.01127
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,AC,2045,0.00289
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,AC,2050,0.00301
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,AL,2025,0.0073
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,AL,2030,0.00106
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,AL,2035,0.0011
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,AL,2040,0.00931
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,AL,2045,0.00134
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,AL,2050,0.00142
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,AM,2025,0.00665
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,AM,2030,0.001
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,AM,2035,0.001
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,AM,2040,0.00862
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,AM,2045,0.00096
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,AM,2050,0.00099
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,AP,2025,0.0079
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,AP,2030,0.0017
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,AP,2035,0.00145
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,AP,2040,0.0106
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,AP,2045,0.00167
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,AP,2050,0.00185
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,BA,2025,0.00516
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,BA,2030,0.00124
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,BA,2035,0.00095
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,BA,2040,0.01003
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,BA,2045,0.00209
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,BA,2050,0.00292
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,CE,2025,0.00591
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,CE,2030,0.00113
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,CE,2035,0.00122
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,CE,2040,0.00917
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,CE,2045,0.00145
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,CE,2050,0.00159
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,DF,2025,0.00705
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,DF,2030,0.00167
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,DF,2035,0.00132
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,DF,2040,0.01183
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,DF,2045,0.00386
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,DF,2050,0.00414
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,ES,2025,0.00619
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,ES,2030,0.0012
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,ES,2035,0.00103
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,ES,2040,0.01021
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,ES,2045,0.00198
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,ES,2050,0.00463
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,GO,2025,0.00572
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,GO,2030,0.001
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,GO,2035,0.00105
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,GO,2040,0.01037
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,GO,2045,0.00208
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,GO,2050,0.00534
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,MA,2025,0.00627
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,MA,2030,0.001
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,MA,2035,0.00097
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,MA,2040,0.00786
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,MA,2045,0.00135
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,MA,2050,0.00166
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,MG,2025,0.0056
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,MG,2030,0.00122
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,MG,2035,0.00097
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,MG,2040,0.01011
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,MG,2045,0.0018
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,MG,2050,0.00784
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,MS,2025,0.00629
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,MS,2030,0.00109
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,MS,2035,0.00109
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,MS,2040,0.01078
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,MS,2045,0.0025
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,MS,2050,0.01401
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,MT,2025,0.00576
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,MT,2030,0.00114
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,MT,2035,0.00101
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,MT,2040,0.01071
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,MT,2045,0.00231
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,MT,2050,0.00282
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,PA,2025,0.00612
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,PA,2030,0.00115
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,PA,2035,0.0011
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,PA,2040,0.00962
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,PA,2045,0.00164
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,PA,2050,0.00168
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,PB,2025,0.00723
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,PB,2030,0.00105
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,PB,2035,0.00111
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,PB,2040,0.01003
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,PB,2045,0.00232
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,PB,2050,0.00243
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,PE,2025,0.00562
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,PE,2030,0.0012
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,PE,2035,0.00084
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,PE,2040,0.00863
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,PE,2045,0.00129
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,PE,2050,0.00137
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,PI,2025,0.00653
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,PI,2030,0.00122
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,PI,2035,0.001
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,PI,2040,0.00868
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,PI,2045,0.00115
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,PI,2050,0.00163
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,PR,2025,0.00555
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,PR,2030,0.00116
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,PR,2035,0.00104
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,PR,2040,0.01072
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,PR,2045,0.00262
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,PR,2050,0.12431
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,RJ,2025,0.00571
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,RJ,2030,0.00103
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,RJ,2035,0.00112
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,RJ,2040,0.0079
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,RJ,2045,0.00109
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,RJ,2050,0.00112
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,RN,2025,0.00747
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,RN,2030,0.00151
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,RN,2035,0.00144
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,RN,2040,0.01047
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,RN,2045,0.00335
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,RN,2050,0.00345
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,RO,2025,0.00709
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,RO,2030,0.00187
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,RO,2035,0.00137
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,RO,2040,0.01159
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,RO,2045,0.00357
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,RO,2050,0.00368
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,RR,2025,0.00783
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,RR,2030,0.00158
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,RR,2035,0.00196
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,RR,2040,0.01101
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,RR,2045,0.00285
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,RR,2050,0.00309
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,RS,2025,0.00553
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,RS,2030,0.00106
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,RS,2035,0.00094
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,RS,2040,0.00996
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,RS,2045,0.00216
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,RS,2050,0.0024
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,SC,2025,0.0056
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,SC,2030,0.00103
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,SC,2035,0.00077
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,SC,2040,0.00911
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,SC,2045,0.00128
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,SC,2050,0.00194
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,SE,2025,0.00637
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,SE,2030,0.00116
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,SE,2035,0.00106
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,SE,2040,0.01016
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,SE,2045,0.00293
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,SE,2050,0.00312
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,SP,2025,0.00557
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,SP,2030,0.00117
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,SP,2035,0.00096
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,SP,2040,0.01098
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,SP,2045,0.00805
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,SP,2050,0.01606
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,TO,2025,0.00662
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,TO,2030,0.00121
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,TO,2035,0.00128
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,TO,2040,0.00922
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,TO,2045,0.00152
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Hydrogen,N/A,GW,TO,2050,0.00173
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,With CCS,GW,SP,2025,0.0
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,With CCS,GW,SP,2030,0.0
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,With CCS,GW,SP,2035,0.0002
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,With CCS,GW,SP,2040,0.00248
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,With CCS,GW,SP,2045,0.00073
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,With CCS,GW,SP,2050,0.00076
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,AM,2025,0.757
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,AM,2030,0.59234
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,AM,2035,0.59233
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,AM,2040,0.59233
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,AM,2045,0.01244
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,AM,2050,0.01243
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,BA,2025,0.19217
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,BA,2030,0.00652
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,BA,2035,0.0063
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,BA,2040,0.00626
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,BA,2045,0.00626
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,BA,2050,0.00626
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,CE,2025,0.547
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,CE,2030,0.00035
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,CE,2035,0.00011
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,CE,2040,0.00011
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,CE,2045,0.00011
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,CE,2050,0.00011
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,MA,2025,3.202
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,MA,2030,3.202
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,MA,2035,3.202
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,MA,2040,3.19981
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,MA,2045,0.18079
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,MA,2050,0.18078
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,MG,2025,0.322
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,MG,2030,0.00816
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,MG,2035,0.00793
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,MG,2040,0.00784
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,MG,2045,0.00784
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,MG,2050,0.00784
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,MS,2025,0.563
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,MS,2030,0.17727
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,MS,2035,0.1771
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,MS,2040,0.1771
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,MS,2045,0.1771
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,MS,2050,0.1771
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,MT,2025,0.529
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,MT,2030,0.529
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,MT,2035,0.529
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,MT,2040,0.529
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,MT,2045,0.529
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,MT,2050,0.529
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,PE,2025,0.55
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,PE,2030,0.00044
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,PE,2035,0.00012
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,PE,2040,0.00012
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,PE,2045,0.00012
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,PE,2050,0.00012
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,PR,2025,0.484
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,PR,2030,0.00029
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,PR,2035,0.0001
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,PR,2040,0.0001
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,PR,2045,0.0001
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,PR,2050,0.0001
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,RJ,2025,7.705
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,RJ,2030,4.60829
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,RJ,2035,4.10828
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,RJ,2040,4.10827
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,RJ,2045,3.57956
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,RJ,2050,2.03326
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,RN,2025,0.11
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,RN,2030,0.00026
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,RN,2035,9e-05
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,RN,2040,9e-05
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,RN,2045,9e-05
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,RN,2050,9e-05
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,RR,2025,0.141
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,RR,2030,0.141
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,RR,2035,0.141
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,RR,2040,0.141
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,RR,2045,0.141
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,RR,2050,0.141
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,RS,2025,0.888
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,RS,2030,0.00038
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,RS,2035,0.00011
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,RS,2040,0.00011
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,RS,2045,0.00011
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,RS,2050,0.00011
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,SE,2025,1.593
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,SE,2030,1.593
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,SE,2035,1.593
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,SE,2040,1.593
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,SE,2045,1.593
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,SE,2050,0.09543
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,SP,2025,0.66776
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,SP,2030,0.01834
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,SP,2035,0.01811
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,SP,2040,0.0326
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,SP,2045,0.65988
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Natural gas,Without CCS,GW,SP,2050,14.12139
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Nuclear,N/A,GW,RJ,2025,1.99
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Nuclear,N/A,GW,RJ,2030,1.99
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Nuclear,N/A,GW,RJ,2035,1.99
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Nuclear,N/A,GW,RJ,2040,1.98972
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Nuclear,N/A,GW,RJ,2045,1.98967
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Nuclear,N/A,GW,RJ,2050,1.98966
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Nuclear,N/A,GW,SP,2025,0.0
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Nuclear,N/A,GW,SP,2030,0.0
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Nuclear,N/A,GW,SP,2035,0.0
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Nuclear,N/A,GW,SP,2040,0.0
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Nuclear,N/A,GW,SP,2045,0.0
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Nuclear,N/A,GW,SP,2050,0.0
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,AC,2025,0.05468
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,AC,2030,0.05468
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,AC,2035,0.05469
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,AC,2040,0.05469
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,AC,2045,0.05469
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,AC,2050,0.05402
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,AL,2025,0.0948
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,AL,2030,0.0948
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,AL,2035,0.09481
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,AL,2040,0.09468
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,AL,2045,0.09468
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,AL,2050,0.09388
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,AM,2025,0.04383
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,AM,2030,0.04383
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,AM,2035,0.04383
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,AM,2040,0.04386
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,AM,2045,0.04386
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,AM,2050,0.04306
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,AP,2025,0.04677
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,AP,2030,0.04677
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,AP,2035,0.04677
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,AP,2040,0.04675
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,AP,2045,0.04675
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,AP,2050,0.04599
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,BA,2025,0.39386
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,BA,2030,0.39386
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,BA,2035,0.39386
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,BA,2040,0.39379
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,BA,2045,0.39379
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,BA,2050,0.39298
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,CE,2025,0.30582
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,CE,2030,0.30582
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,CE,2035,0.30582
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,CE,2040,0.30576
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,CE,2045,0.30576
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,CE,2050,0.30495
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,DF,2025,0.08784
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,DF,2030,0.08784
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,DF,2035,0.08785
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,DF,2040,0.0878
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,DF,2045,0.08779
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,DF,2050,0.08696
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,ES,2025,0.27481
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,ES,2030,0.27482
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,ES,2035,0.27482
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,ES,2040,0.27472
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,ES,2045,0.27472
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,ES,2050,0.27392
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,GO,2025,0.33886
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,GO,2030,0.33887
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,GO,2035,0.33887
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,GO,2040,0.33869
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,GO,2045,0.33868
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,GO,2050,0.33784
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,MA,2025,0.14585
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,MA,2030,0.14585
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,MA,2035,0.14585
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,MA,2040,0.14588
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,MA,2045,0.14588
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,MA,2050,0.14507
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,MG,2025,0.48487
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,MG,2030,0.48487
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,MG,2035,0.48487
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,MG,2040,0.48478
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,MG,2045,0.48478
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,MG,2050,0.48395
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,MS,2025,0.25684
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,MS,2030,0.25685
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,MS,2035,0.25685
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,MS,2040,0.25677
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,MS,2045,0.25677
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,MS,2050,0.25596
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,MT,2025,0.46387
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,MT,2030,0.46387
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,MT,2035,0.46387
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,MT,2040,0.46378
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,MT,2045,0.46378
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,MT,2050,0.46295
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,PA,2025,0.26992
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,PA,2030,0.26992
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,PA,2035,0.26993
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,PA,2040,0.26961
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,PA,2045,0.26959
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,PA,2050,0.2687
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,PB,2025,0.11082
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,PB,2030,0.11082
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,PB,2035,0.11082
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,PB,2040,0.11084
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,PB,2045,0.11084
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,PB,2050,0.11003
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,PE,2025,0.31487
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,PE,2030,0.31487
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,PE,2035,0.31487
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,PE,2040,0.31469
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,PE,2045,0.31468
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,PE,2050,0.31384
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,PI,2025,0.1278
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,PI,2030,0.1278
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,PI,2035,0.1278
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,PI,2040,0.12773
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,PI,2045,0.12773
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,PI,2050,0.12694
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,PR,2025,0.69684
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,PR,2030,0.69685
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,PR,2035,0.69685
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,PR,2040,0.69676
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,PR,2045,0.69676
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,PR,2050,0.69594
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,RJ,2025,0.31584
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,RJ,2030,0.31585
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,RJ,2035,0.31585
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,RJ,2040,0.31577
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,RJ,2045,0.31577
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,RJ,2050,0.31499
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,RN,2025,0.09481
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,RN,2030,0.09481
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,RN,2035,0.09481
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,RN,2040,0.09477
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,RN,2045,0.09477
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,RN,2050,0.09397
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,RO,2025,0.16481
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,RO,2030,0.16481
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,RO,2035,0.16481
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,RO,2040,0.16464
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,RO,2045,0.16464
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,RO,2050,0.16384
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,RR,2025,0.02971
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,RR,2030,0.02971
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,RR,2035,0.02972
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,RR,2040,0.02967
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,RR,2045,0.02967
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,RR,2050,0.02896
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,RS,2025,0.38086
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,RS,2030,0.38087
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,RS,2035,0.38087
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,RS,2040,0.38069
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,RS,2045,0.38068
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,RS,2050,0.37984
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,SC,2025,0.35983
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,SC,2030,0.35984
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,SC,2035,0.35984
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,SC,2040,0.35966
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,SC,2045,0.35966
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,SC,2050,0.35885
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,SE,2025,0.0608
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,SE,2030,0.0608
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,SE,2035,0.0608
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,SE,2040,0.06072
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,SE,2045,0.06072
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,SE,2050,0.05992
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,SP,2025,1.04288
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,SP,2030,1.04288
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,SP,2035,1.04288
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,SP,2040,1.04274
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,SP,2045,1.04273
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,SP,2050,1.04188
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,TO,2025,0.13581
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,TO,2030,0.13581
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,TO,2035,0.13581
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,TO,2040,0.13562
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,TO,2045,0.13562
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Rooftop,GW,TO,2050,0.13481
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,AC,2025,0.00722
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,AC,2030,0.01241
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,AC,2035,1.48542
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,AC,2040,1.58397
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,AC,2045,1.85354
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,AC,2050,2.04072
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,AL,2025,0.00387
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,AL,2030,0.0039
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,AL,2035,0.00416
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,AL,2040,0.03405
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,AL,2045,0.03414
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,AL,2050,0.03068
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,AM,2025,0.00981
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,AM,2030,0.0099
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,AM,2035,0.11828
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,AM,2040,0.32337
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,AM,2045,0.32347
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,AM,2050,0.31388
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,AP,2025,0.00445
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,AP,2030,0.00453
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,AP,2035,0.00481
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,AP,2040,0.03419
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,AP,2045,0.03434
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,AP,2050,0.03002
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,BA,2025,2.53551
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,BA,2030,2.53559
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,BA,2035,2.53604
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,BA,2040,2.56094
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,BA,2045,2.56104
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,BA,2050,2.5838
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,CE,2025,2.32622
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,CE,2030,2.32668
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,CE,2035,2.65334
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,CE,2040,3.84365
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,CE,2045,3.84395
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,CE,2050,6.19439
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,ES,2025,0.00472
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,ES,2030,0.00478
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,ES,2035,0.05527
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,ES,2040,0.09815
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,ES,2045,0.09837
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,ES,2050,0.09828
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,GO,2025,0.30935
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,GO,2030,0.30944
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,GO,2035,1.17233
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,GO,2040,1.42035
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,GO,2045,1.64703
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,GO,2050,2.316
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,MA,2025,0.01594
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,MA,2030,0.05244
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,MA,2035,2.05988
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,MA,2040,2.36746
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,MA,2045,2.36764
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,MA,2050,3.02971
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,MG,2025,6.45378
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,MG,2030,6.45398
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,MG,2035,6.62364
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,MG,2040,8.66396
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,MG,2045,9.00208
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,MG,2050,14.31799
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,MS,2025,0.01517
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,MS,2030,0.23548
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,MS,2035,0.44524
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,MS,2040,0.47753
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,MS,2045,0.54243
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,MS,2050,1.04099
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,MT,2025,0.01428
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,MT,2030,0.01862
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,MT,2035,4.69645
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,MT,2040,4.79929
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,MT,2045,4.79955
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,MT,2050,4.79201
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,PA,2025,0.02036
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,PA,2030,0.03799
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,PA,2035,0.66528
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,PA,2040,0.68777
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,PA,2045,0.68813
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,PA,2050,0.66851
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,PB,2025,1.28019
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,PB,2030,1.28019
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,PB,2035,1.28022
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,PB,2040,1.28037
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,PB,2045,1.28038
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,PB,2050,1.28018
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,PE,2025,1.4443
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,PE,2030,1.44446
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,PE,2035,1.44499
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,PE,2040,1.45133
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,PE,2045,1.45141
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,PE,2050,1.44718
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,PI,2025,2.84935
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,PI,2030,2.84977
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,PI,2035,2.84987
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,PI,2040,2.85548
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,PI,2045,2.85552
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,PI,2050,2.84546
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,PR,2025,0.01123
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,PR,2030,0.01151
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,PR,2035,2.17815
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,PR,2040,2.20076
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,PR,2045,2.20103
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,PR,2050,2.19069
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,RJ,2025,0.00726
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,RJ,2030,0.02793
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,RJ,2035,1.37062
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,RJ,2040,1.4565
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,RJ,2045,2.40422
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,RJ,2050,5.15071
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,RN,2025,1.3808
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,RN,2030,1.38089
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,RN,2035,1.38113
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,RN,2040,1.38211
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,RN,2045,1.38213
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,RN,2050,1.38157
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,RO,2025,0.02159
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,RO,2030,0.02175
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,RO,2035,0.02239
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,RO,2040,0.10492
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,RO,2045,0.21813
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,RO,2050,1.38758
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,RR,2025,0.00338
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,RR,2030,0.0034
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,RR,2035,0.00362
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,RR,2040,0.02558
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,RR,2045,0.08115
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,RR,2050,0.76402
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,RS,2025,0.01616
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,RS,2030,0.01632
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,RS,2035,2.41604
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,RS,2040,3.45155
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,RS,2045,3.45163
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,RS,2050,3.66405
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,SC,2025,0.00812
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,SC,2030,0.00816
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,SC,2035,0.0084
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,SC,2040,0.0204
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,SC,2045,0.02045
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,SC,2050,0.01638
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,SE,2025,0.00398
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,SE,2030,0.00401
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,SE,2035,0.00434
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,SE,2040,0.05576
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,SE,2045,0.05585
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,SE,2050,0.05768
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,SP,2025,0.94095
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,SP,2030,2.56062
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,SP,2035,5.21658
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,SP,2040,9.68363
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,SP,2045,18.93504
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,SP,2050,33.60552
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,TO,2025,0.01488
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,TO,2030,0.01498
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,TO,2035,0.03544
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,TO,2040,0.09105
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,TO,2045,0.09234
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Solar photovoltaic,Utility-scale,GW,TO,2050,1.42414
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Offshore,GW,RJ,2025,0.00047
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Offshore,GW,RJ,2030,0.00047
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Offshore,GW,RJ,2035,0.00048
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Offshore,GW,RJ,2040,0.00097
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Offshore,GW,RJ,2045,0.0005
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Offshore,GW,RJ,2050,0.00051
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Offshore,GW,RN,2025,0.00115
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Offshore,GW,RN,2030,0.00115
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Offshore,GW,RN,2035,0.00118
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Offshore,GW,RN,2040,0.00276
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Offshore,GW,RN,2045,0.00163
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Offshore,GW,RN,2050,0.00165
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Offshore,GW,RS,2025,0.00067
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Offshore,GW,RS,2030,0.00067
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Offshore,GW,RS,2035,0.00067
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Offshore,GW,RS,2040,0.00132
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Offshore,GW,RS,2045,0.00066
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Offshore,GW,RS,2050,0.00066
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,AC,2025,0.00565
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,AC,2030,0.00567
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,AC,2035,0.0057
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,AC,2040,0.0064
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,AC,2045,0.00644
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,AC,2050,0.00086
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,AL,2025,0.005
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,AL,2030,0.00501
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,AL,2035,0.00506
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,AL,2040,0.00767
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,AL,2045,0.00803
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,AL,2050,0.00314
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,AM,2025,0.0014
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,AM,2030,0.00141
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,AM,2035,0.00141
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,AM,2040,0.00158
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,AM,2045,0.0016
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,AM,2050,0.00023
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,AP,2025,0.00463
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,AP,2030,0.00464
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,AP,2035,0.00465
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,AP,2040,0.00498
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,AP,2045,0.00503
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,AP,2050,0.00047
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,BA,2025,11.86461
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,BA,2030,11.86512
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,BA,2035,11.86527
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,BA,2040,11.86664
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,BA,2045,11.86721
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,BA,2050,11.86357
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,CE,2025,2.6963
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,CE,2030,2.69651
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,CE,2035,2.69713
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,CE,2040,2.70872
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,CE,2045,2.70895
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,CE,2050,2.69581
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,ES,2025,0.00419
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,ES,2030,0.00421
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,ES,2035,0.00423
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,ES,2040,0.0056
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,ES,2045,0.00562
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,ES,2050,0.00153
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,GO,2025,0.01578
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,GO,2030,0.01584
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,GO,2035,0.01591
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,GO,2040,0.01826
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,GO,2045,0.01838
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,GO,2050,0.00366
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,MA,2025,0.43391
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,MA,2030,0.43409
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,MA,2035,0.43414
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,MA,2040,0.43506
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,MA,2045,0.43521
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,MA,2050,0.42764
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,MG,2025,0.01402
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,MG,2030,0.01406
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,MG,2035,0.01414
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,MG,2040,0.01686
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,MG,2045,0.01704
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,MG,2050,0.00376
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,MS,2025,0.01685
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,MS,2030,0.01691
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,MS,2035,0.01699
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,MS,2040,0.01918
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,MS,2045,0.01927
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,MS,2050,0.00346
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,MT,2025,0.01594
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,MT,2030,0.01599
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,MT,2035,0.01607
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,MT,2040,0.01745
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,MT,2045,0.0176
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,MT,2050,0.00277
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,PA,2025,0.01591
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,PA,2030,0.01597
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,PA,2035,0.01607
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,PA,2040,0.01931
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,PA,2045,0.01945
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,PA,2050,0.00445
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,PB,2025,1.21477
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,PB,2030,1.21485
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,PB,2035,1.21488
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,PB,2040,1.21534
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,PB,2045,1.21542
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,PB,2050,1.21214
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,PE,2025,1.34088
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,PE,2030,4.89617
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,PE,2035,6.48384
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,PE,2040,7.90012
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,PE,2045,8.36694
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,PE,2050,9.64012
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,PI,2025,4.1677
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,PI,2030,4.16773
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,PI,2035,4.1678
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,PI,2040,4.16867
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,PI,2045,4.16876
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,PI,2050,4.16135
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,PR,2025,0.07439
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,PR,2030,0.07441
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,PR,2035,0.07446
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,PR,2040,0.07719
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,PR,2045,0.07722
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,PR,2050,0.06903
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,RJ,2025,0.02959
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,RJ,2030,0.0296
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,RJ,2035,0.0296
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,RJ,2040,0.02969
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,RJ,2045,0.02969
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,RJ,2050,0.02822
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,RN,2025,10.78242
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,RN,2030,10.78273
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,RN,2035,11.29332
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,RN,2040,11.34127
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,RN,2045,20.83536
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,RN,2050,21.58101
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,RO,2025,0.00981
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,RO,2030,0.00984
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,RO,2035,0.00989
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,RO,2040,0.01196
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,RO,2045,0.01207
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,RO,2050,0.00288
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,RR,2025,0.00308
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,RR,2030,0.00309
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,RR,2035,0.0031
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,RR,2040,0.00355
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,RR,2045,0.0036
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,RR,2050,0.00056
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,RS,2025,4.40442
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,RS,2030,4.4055
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,RS,2035,4.4058
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,RS,2040,4.40771
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,RS,2045,4.40802
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,RS,2050,4.40751
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,SC,2025,0.17875
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,SC,2030,0.17879
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,SC,2035,0.1788
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,SC,2040,0.17891
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,SC,2045,0.17892
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,SC,2050,0.17879
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,SE,2025,0.03451
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,SE,2030,0.03452
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,SE,2035,0.03453
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,SE,2040,0.03458
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,SE,2045,0.03459
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,SE,2050,0.0346
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,SP,2025,0.01046
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,SP,2030,0.01049
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,SP,2035,0.01055
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,SP,2040,0.01387
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,SP,2045,0.01398
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,SP,2050,0.00404
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,TO,2025,0.01563
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,TO,2030,0.01569
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,TO,2035,0.01577
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,TO,2040,0.01837
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,TO,2045,0.01856
+Power,Installed capacity by type,Energy,Electricity generation,Electricity generation (public service),Wind,Onshore,GW,TO,2050,0.00415

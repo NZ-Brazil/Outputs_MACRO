@@ -1,0 +1,163 @@
+Variable_group,Emissions_or_removals,Class_1,Class_2,Class_3,Class_4,Class_5,Unit,Territory,Year,Value
+Emissions,Emissions,Energy,Electricity generation,Electricity generation (public service),Bioelectricity,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,43151445.16564
+Emissions,Emissions,Energy,Electricity generation,Electricity generation (public service),Bioelectricity,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,139084464.48747
+Emissions,Emissions,Energy,Electricity generation,Electricity generation (public service),Bioelectricity,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,225565264.65427
+Emissions,Emissions,Energy,Electricity generation,Electricity generation (public service),Bioelectricity,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,375450993.0773
+Emissions,Emissions,Energy,Electricity generation,Electricity generation (public service),Bioelectricity,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,501265353.53301
+Emissions,Emissions,Energy,Electricity generation,Electricity generation (public service),Bioelectricity,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,581751031.05786
+Emissions,Emissions,Energy,Electricity generation,Electricity generation (public service),Coal,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,18666906.91626
+Emissions,Emissions,Energy,Electricity generation,Electricity generation (public service),Coal,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,11311418.11272
+Emissions,Emissions,Energy,Electricity generation,Electricity generation (public service),Coal,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,13350590.2324
+Emissions,Emissions,Energy,Electricity generation,Electricity generation (public service),Coal,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,7269061.87074
+Emissions,Emissions,Energy,Electricity generation,Electricity generation (public service),Coal,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,1991275.63488
+Emissions,Emissions,Energy,Electricity generation,Electricity generation (public service),Coal,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,81984.3206
+Emissions,Emissions,Energy,Electricity generation,Electricity generation (public service),Natural gas,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,4784263.37682
+Emissions,Emissions,Energy,Electricity generation,Electricity generation (public service),Natural gas,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,5605935.16791
+Emissions,Emissions,Energy,Electricity generation,Electricity generation (public service),Natural gas,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,3635379.63224
+Emissions,Emissions,Energy,Electricity generation,Electricity generation (public service),Natural gas,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,4244445.23859
+Emissions,Emissions,Energy,Electricity generation,Electricity generation (public service),Natural gas,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,1707816.09628
+Emissions,Emissions,Energy,Electricity generation,Electricity generation (public service),Natural gas,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,4393549.48378
+Emissions,Emissions,Energy,Electricity generation,Electricity generation (public service),Natural gas with CCS,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,0.0
+Emissions,Emissions,Energy,Electricity generation,Electricity generation (public service),Natural gas with CCS,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,0.0
+Emissions,Emissions,Energy,Electricity generation,Electricity generation (public service),Natural gas with CCS,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,46.63188
+Emissions,Emissions,Energy,Electricity generation,Electricity generation (public service),Natural gas with CCS,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,580.58941
+Emissions,Emissions,Energy,Electricity generation,Electricity generation (public service),Natural gas with CCS,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,151.12394
+Emissions,Emissions,Energy,Electricity generation,Electricity generation (public service),Natural gas with CCS,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,170.26322
+Emissions,Emissions,Energy,Fuel production,Charcoal production,Charcoal,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,13060020.38576
+Emissions,Emissions,Energy,Fuel production,Charcoal production,Charcoal,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,13111488.81194
+Emissions,Emissions,Energy,Fuel production,Charcoal production,Charcoal,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,13084044.36353
+Emissions,Emissions,Energy,Fuel production,Charcoal production,Charcoal,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,13030727.24415
+Emissions,Emissions,Energy,Fuel production,Charcoal production,Charcoal,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,12558100.79651
+Emissions,Emissions,Energy,Fuel production,Charcoal production,Charcoal,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,11984842.90862
+Emissions,Emissions,Energy,Fuel production,Ethanol production,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,132189086.76032
+Emissions,Emissions,Energy,Fuel production,Ethanol production,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,149706479.47556
+Emissions,Emissions,Energy,Fuel production,Ethanol production,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,259868277.37776
+Emissions,Emissions,Energy,Fuel production,Ethanol production,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,348585304.2363
+Emissions,Emissions,Energy,Fuel production,Ethanol production,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,205608103.58719
+Emissions,Emissions,Energy,Fuel production,Ethanol production,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,17888299.41999
+Emissions,Emissions,Energy,Fuel production,N/A,Biodiesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,52439206.26797
+Emissions,Emissions,Energy,Fuel production,N/A,Biodiesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,78095393.73848
+Emissions,Emissions,Energy,Fuel production,N/A,Biodiesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,102306821.65908
+Emissions,Emissions,Energy,Fuel production,N/A,Biodiesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,106384060.31521
+Emissions,Emissions,Energy,Fuel production,N/A,Biodiesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,109146725.18393
+Emissions,Emissions,Energy,Fuel production,N/A,Biodiesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,111322931.05691
+Emissions,Emissions,Energy,Fuel production,N/A,Biomethane,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,0.0
+Emissions,Emissions,Energy,Fuel production,N/A,Biomethane,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,0.0
+Emissions,Emissions,Energy,Fuel production,N/A,Biomethane,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,2854.44858
+Emissions,Emissions,Energy,Fuel production,N/A,Biomethane,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,43003.48282
+Emissions,Emissions,Energy,Fuel production,N/A,Biomethane,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,61001.58159
+Emissions,Emissions,Energy,Fuel production,N/A,Biomethane,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,59634.01112
+Emissions,Emissions,Energy,Fuel production,N/A,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,0.0
+Emissions,Emissions,Energy,Fuel production,N/A,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,0.0
+Emissions,Emissions,Energy,Fuel production,N/A,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,726645.29168
+Emissions,Emissions,Energy,Fuel production,N/A,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,916438.78043
+Emissions,Emissions,Energy,Fuel production,N/A,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,1009946.6348
+Emissions,Emissions,Energy,Fuel production,N/A,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,967479.8193
+Emissions,Emissions,Energy,Fuel production,N/A,Hydrogen (steam methane reforming with CCS),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,0.0
+Emissions,Emissions,Energy,Fuel production,N/A,Hydrogen (steam methane reforming with CCS),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,0.0
+Emissions,Emissions,Energy,Fuel production,N/A,Hydrogen (steam methane reforming with CCS),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,641.21384
+Emissions,Emissions,Energy,Fuel production,N/A,Hydrogen (steam methane reforming with CCS),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,5597.10014
+Emissions,Emissions,Energy,Fuel production,N/A,Hydrogen (steam methane reforming with CCS),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,857.01291
+Emissions,Emissions,Energy,Fuel production,N/A,Hydrogen (steam methane reforming with CCS),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,949.86657
+Emissions,Emissions,Energy,Fuel production,N/A,Hydrogen (steam methane reforming),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,1839456.52366
+Emissions,Emissions,Energy,Fuel production,N/A,Hydrogen (steam methane reforming),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,1632676.92546
+Emissions,Emissions,Energy,Fuel production,N/A,Hydrogen (steam methane reforming),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,223647.55074
+Emissions,Emissions,Energy,Fuel production,N/A,Hydrogen (steam methane reforming),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,383453.71854
+Emissions,Emissions,Energy,Fuel production,N/A,Hydrogen (steam methane reforming),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,72903.97075
+Emissions,Emissions,Energy,Fuel production,N/A,Hydrogen (steam methane reforming),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,80835.74624
+Emissions,Emissions,Energy,Fuel production,N/A,Renewable diesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,0.0
+Emissions,Emissions,Energy,Fuel production,N/A,Renewable diesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,0.0
+Emissions,Emissions,Energy,Fuel production,N/A,Renewable diesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,8004.35835
+Emissions,Emissions,Energy,Fuel production,N/A,Renewable diesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,101488.9773
+Emissions,Emissions,Energy,Fuel production,N/A,Renewable diesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,30896.76531
+Emissions,Emissions,Energy,Fuel production,N/A,Renewable diesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,18110.21283
+Emissions,Emissions,Energy,Fuel production,Oil refining,Diesel (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,7572997.30353
+Emissions,Emissions,Energy,Fuel production,Oil refining,Diesel (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,10434379.6205
+Emissions,Emissions,Energy,Fuel production,Oil refining,Diesel (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,10952628.01797
+Emissions,Emissions,Energy,Fuel production,Oil refining,Diesel (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,11393489.22969
+Emissions,Emissions,Energy,Fuel production,Oil refining,Diesel (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,11696015.83995
+Emissions,Emissions,Energy,Fuel production,Oil refining,Diesel (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,11931840.4686
+Emissions,Emissions,Energy,Fuel production,Oil refining,Gasoline (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,322917.74375
+Emissions,Emissions,Energy,Fuel production,Oil refining,Gasoline (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,405302.03865
+Emissions,Emissions,Energy,Fuel production,Oil refining,Gasoline (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,673412.76883
+Emissions,Emissions,Energy,Fuel production,Oil refining,Gasoline (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,687205.49258
+Emissions,Emissions,Energy,Fuel production,Oil refining,Gasoline (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,660509.11734
+Emissions,Emissions,Energy,Fuel production,Oil refining,Gasoline (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,599748.65177
+Emissions,Emissions,Energy,Fuel production,Oil refining,Jet fuel (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,174565.42462
+Emissions,Emissions,Energy,Fuel production,Oil refining,Jet fuel (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,262841.63792
+Emissions,Emissions,Energy,Fuel production,Oil refining,Jet fuel (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,459588.71569
+Emissions,Emissions,Energy,Fuel production,Oil refining,Jet fuel (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,481837.54214
+Emissions,Emissions,Energy,Fuel production,Oil refining,Jet fuel (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,497006.26342
+Emissions,Emissions,Energy,Fuel production,Oil refining,Jet fuel (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,509342.69294
+Emissions,Emissions,Energy,N/A,N/A,Biodiesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,21475173.74971
+Emissions,Emissions,Energy,N/A,N/A,Biodiesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,31982038.90337
+Emissions,Emissions,Energy,N/A,N/A,Biodiesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,41897230.98144
+Emissions,Emissions,Energy,N/A,N/A,Biodiesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,43566962.15433
+Emissions,Emissions,Energy,N/A,N/A,Biodiesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,44698344.46922
+Emissions,Emissions,Energy,N/A,N/A,Biodiesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,45589555.48537
+Emissions,Emissions,Energy,N/A,N/A,Diesel (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,43828971.21831
+Emissions,Emissions,Energy,N/A,N/A,Diesel (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,8026747.35825
+Emissions,Emissions,Energy,N/A,N/A,Diesel (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,889.54455
+Emissions,Emissions,Energy,N/A,N/A,Diesel (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,10480.15357
+Emissions,Emissions,Energy,N/A,N/A,Diesel (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,828.76121
+Emissions,Emissions,Energy,N/A,N/A,Diesel (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,472.43711
+Emissions,Emissions,Energy,N/A,N/A,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,25650179.65064
+Emissions,Emissions,Energy,N/A,N/A,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,29865074.32741
+Emissions,Emissions,Energy,N/A,N/A,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,45501603.73348
+Emissions,Emissions,Energy,N/A,N/A,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,69912827.87274
+Emissions,Emissions,Energy,N/A,N/A,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,76453724.45402
+Emissions,Emissions,Energy,N/A,N/A,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,75366972.47641
+Emissions,Emissions,Energy,N/A,N/A,Gasoline (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,61697906.8126
+Emissions,Emissions,Energy,N/A,N/A,Gasoline (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,56434478.06179
+Emissions,Emissions,Energy,N/A,N/A,Gasoline (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,37966254.57171
+Emissions,Emissions,Energy,N/A,N/A,Gasoline (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,12579085.71082
+Emissions,Emissions,Energy,N/A,N/A,Gasoline (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,4882933.53717
+Emissions,Emissions,Energy,N/A,N/A,Gasoline (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,4322724.86857
+Emissions,Emissions,Energy,N/A,N/A,HEFAv2,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,18800.93747
+Emissions,Emissions,Energy,N/A,N/A,HEFAv2,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,542410.21251
+Emissions,Emissions,Energy,N/A,N/A,HEFAv2,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,1512318.70818
+Emissions,Emissions,Energy,N/A,N/A,HEFAv2,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,1985324.23447
+Emissions,Emissions,Energy,N/A,N/A,HEFAv2,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,2044103.35934
+Emissions,Emissions,Energy,N/A,N/A,HEFAv2,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,2094848.60756
+Emissions,Emissions,Energy,N/A,N/A,Jet fuel (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,8614465.87601
+Emissions,Emissions,Energy,N/A,N/A,Jet fuel (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,7498398.19519
+Emissions,Emissions,Energy,N/A,N/A,Jet fuel (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,4908663.73732
+Emissions,Emissions,Energy,N/A,N/A,Jet fuel (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,4916443.03108
+Emissions,Emissions,Energy,N/A,N/A,Jet fuel (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,5055465.14348
+Emissions,Emissions,Energy,N/A,N/A,Jet fuel (fossil),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,5180947.17691
+Emissions,Emissions,Energy,N/A,N/A,Natural gas,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,22367947.12455
+Emissions,Emissions,Energy,N/A,N/A,Natural gas,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,23201285.69825
+Emissions,Emissions,Energy,N/A,N/A,Natural gas,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,23990856.34246
+Emissions,Emissions,Energy,N/A,N/A,Natural gas,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,24808830.78724
+Emissions,Emissions,Energy,N/A,N/A,Natural gas,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,24892385.31799
+Emissions,Emissions,Energy,N/A,N/A,Natural gas,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,24796967.51725
+Emissions,Emissions,Energy,N/A,N/A,Renewable diesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,0.0
+Emissions,Emissions,Energy,N/A,N/A,Renewable diesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,412.85125
+Emissions,Emissions,Energy,N/A,N/A,Renewable diesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,2508.26399
+Emissions,Emissions,Energy,N/A,N/A,Renewable diesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,31993.23027
+Emissions,Emissions,Energy,N/A,N/A,Renewable diesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,8896.73157
+Emissions,Emissions,Energy,N/A,N/A,Renewable diesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,5917.75424
+Emissions,Emissions,Energy,N/A,N/A,Renewable gasoline,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,0.0
+Emissions,Emissions,Energy,N/A,N/A,Renewable gasoline,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,0.0
+Emissions,Emissions,Energy,N/A,N/A,Renewable gasoline,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,1767.90525
+Emissions,Emissions,Energy,N/A,N/A,Renewable gasoline,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,21801.87089
+Emissions,Emissions,Energy,N/A,N/A,Renewable gasoline,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,6471.88051
+Emissions,Emissions,Energy,N/A,N/A,Renewable gasoline,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,3720.32574
+Emissions,Emissions,Energy,N/A,N/A,Residue,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,3204514.11842
+Emissions,Emissions,Energy,N/A,N/A,Residue,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,799007.5618
+Emissions,Emissions,Energy,N/A,N/A,Residue,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,207742.6855
+Emissions,Emissions,Energy,N/A,N/A,Residue,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,396889.52656
+Emissions,Emissions,Energy,N/A,N/A,Residue,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,146147.07392
+Emissions,Emissions,Energy,N/A,N/A,Residue,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,197119.95396
+Emissions,Emissions,Energy,N/A,N/A,Sustainable aviation fuel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,12138.36217
+Emissions,Emissions,Energy,N/A,N/A,Sustainable aviation fuel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,350296.82471
+Emissions,Emissions,Energy,N/A,N/A,Sustainable aviation fuel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,976640.36949
+Emissions,Emissions,Energy,N/A,N/A,Sustainable aviation fuel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,1282361.64446
+Emissions,Emissions,Energy,N/A,N/A,Sustainable aviation fuel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,1320136.35748
+Emissions,Emissions,Energy,N/A,N/A,Sustainable aviation fuel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,1352886.2667
+Emissions,Emissions,N/A,N/A,N/A,Exogenous emissions (not modelled in MACRO),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,284428440.0
+Emissions,Emissions,N/A,N/A,N/A,Exogenous emissions (not modelled in MACRO),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,284428440.0
+Emissions,Emissions,N/A,N/A,N/A,Exogenous emissions (not modelled in MACRO),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,284428440.0
+Emissions,Emissions,N/A,N/A,N/A,Exogenous emissions (not modelled in MACRO),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,284428444.8805
+Emissions,Emissions,N/A,N/A,N/A,Exogenous emissions (not modelled in MACRO),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,284428445.39655
+Emissions,Emissions,N/A,N/A,N/A,Exogenous emissions (not modelled in MACRO),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,284428445.72035

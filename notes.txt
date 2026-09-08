@@ -1,0 +1,172 @@
+OUTPUTS DO MACRO PARA A PLATAFORMA — NZ-Brazil
+Cenário Default_scenario, results_001 · rodada de 25/08/2026 · pacote de 31/08/2026
+mesclado com as correções e variáveis novas de outra rodada em 02/09/2026
+(numeração desta pasta preservada — não houve renumeração)
+================================================================================
+
+O QUE TEM AQUI
+
+  plataforma/          o entregável
+    <id>_<nome>.csv      um arquivo por variável, formato longo de 11 colunas
+    outputs_MACRO.xlsx   os mesmos dados num workbook, uma aba por variável,
+                         mais as abas Descrições e Notas
+    descricoes.csv       uma linha por variável — o texto do card da plataforma
+    LEIA-ME.txt          RESSALVAS ACEITAS + a nota longa de cada variável
+    2plat_macro_outputs.csv     todas as variáveis prontas, EXCETO 18 e 19,
+                                numa tabela só (empilhadas pelas mesmas 11
+                                colunas). CSV: UTF-8, decimal "." e coluna ","
+                                (pedido do usuário, 02/09/2026).
+    2plat_macro_emissions.csv  18 e 19 juntas (mesmo formato), MENOS o bloco
+                                exógeno de indústria (Class_4 = "Exogenous
+                                emissions (not modelled in MACRO)") — não deve
+                                ir para a plataforma (pedido do usuário,
+                                02/09/2026). Esse bloco continua no CSV da
+                                própria id 18 e no outputs_MACRO.xlsx.
+
+  outputs_macro/       o código que gera tudo, um módulo por variável
+  montar.py            o executor — além dos CSVs de plataforma/, também grava
+                       uma tabela de detalhe do cenário C da id 71 (Oil
+                       production) em results_001/flow_analysis/
+                       oil_production_scenarios.csv, quando essa pasta existe
+                       (só na convenção do projeto MacroEnergy.jl vivo) e o
+                       cenário C está escolhido no scenario_config.csv — sem
+                       'c', o arquivo não é criado nem sobrescrito (pedido do
+                       usuário, 02/09/2026).
+  run_pipeline_completo.py   roda o run_full_pipeline.py do projeto MacroEnergy.jl
+                             (agregação do flows.csv.gz -> annual_flows, mais as
+                             20 planilhas de tecnologia por commodity) e, em
+                             seguida, o montar.py — os dois em sequência, um só
+                             comando (ver PARA REGERAR)
+  consolidar_plataforma.py   gera as 2plat_macro_*.csv a partir dos CSVs de
+                             plataforma/ (ver PARA REGERAR)
+
+
+Só para rodar (sem o resto do contexto), ver README.txt — inclui o passo de
+linkar o scenario_config.csv, que não faz parte deste pacote.
+
+
+COMECE PELO LEIA-ME.txt
+
+As primeiras linhas são a lista de RESSALVAS ACEITAS: 11 itens que afetam o
+valor publicado (seção A), 13 que mudam a leitura sem mudar o valor (seção B),
+e 2 pendências de definição (seção C). Cada um traz o efeito no número e o que
+precisa acontecer para sair da lista. Ler isso antes de usar qualquer número.
+Logo depois vem a nota geral sobre a regra de Territory (só BR ou UF — ver
+CONVENÇÕES QUE VALEM PARA TODAS, abaixo).
+
+O item mais pesado é o A1: as duas rotas paralelas dos líquidos fósseis
+(id 18) — a queima do volume que migra para o bypass não é registrada em
+lugar nenhum. Corrigindo só esse bypass, o líquido de emissões de 2050 vai de
+-499,8 Mt para -323,4 Mt. Vários outros itens da seção A também puxam o
+balanço de carbono (co2_content da cana em base seca, o laço espúrio de gás
+natural em 2025, a atribuição de remoção por matéria-prima) — o efeito
+combinado de todos eles não está somado num único número; ver cada item.
+
+
+ESTADO DAS VARIÁVEIS
+
+  prontas (18)   18  19  24  26  27  55  56  65  66  67  68  69  70  72  73  74
+                 71  Oil production — desde 02/09/2026 traz os três cenários
+                     do card 32 juntos, uma linha por ano e por cenário
+                     (Class_3): A e B são trajetória fixa dada pela equipe e
+                     saem sempre; C (produção só para o mercado interno) é
+                     calculado a partir do MACRO e só sai quando o
+                     scenario_config.csv do caso marca a opção 'c' — sem o
+                     arquivo, ou com outra opção, só A e B aparecem.
+                 75  Capex — acrescentada em 02/09/2026. Duas leituras na
+                     mesma variável (Class_2): CAPEX, uma linha por ano
+                     (soma bruta de capex.csv do período, sem desconto), e
+                     Total Investment Cost, uma linha só em 2025 (soma do
+                     CAPEX dos seis períodos).
+  pendente (1)   57  aguarda definição do que a plataforma conta como
+                     'intermediário'. O dado existe e o balanço fecha — ver a
+                     pendência C2 no LEIA-ME.txt.
+
+  fora do MACRO  25  depende de dado externo (PIB)
+
+
+PARA REGERAR
+
+  Se o annual_flows já existe (results_period_1..6/, flows_annual/ e a árvore
+  de inputs do modelo MacroEnergy.jl-NZB_S0/, OU a pasta do projeto
+  MacroEnergy.jl vivo, com results_001/, system/ e assets/ na raiz):
+
+    python montar.py --root <pasta dos resultados> --out plataforma --xlsx
+
+  comum.py reconhece as duas convenções de pasta sozinho — não precisa dizer
+  qual é qual na linha de comando.
+
+  Se ainda falta gerar o annual_flows a partir do flows.csv.gz bruto (rodada
+  viva do MacroEnergy.jl), rode as duas etapas de uma vez:
+
+    python run_pipeline_completo.py --model-root <pasta do projeto MacroEnergy.jl> \
+        --montar-args --xlsx
+
+  Isso roda primeiro o run_full_pipeline.py do projeto (agregação + as 20
+  planilhas de tecnologia por commodity) e, na sequência, o montar.py sobre os
+  mesmos resultados.
+
+  Requer pandas e openpyxl.
+
+  Opções do montar.py (passe depois de --montar-args, se for pelo
+  run_pipeline_completo.py):
+    --vars 65 66      gera só as variáveis listadas
+    --so-nacional     omite as linhas por UF/bacia das ids 55, 56, 65, 66,
+                      67, 68 e 69
+
+  Depois de gerar (ou regerar) os CSVs, para juntar tudo em
+  2plat_macro_outputs.csv (todas as variáveis, exceto 18 e 19) e
+  2plat_macro_emissions.csv (18 e 19 juntas, sem o bloco de indústria):
+
+    python consolidar_plataforma.py --plataforma plataforma
+
+  A coluna 2 muda de nome por variável (Emissions_or_removals nas ids 18 e 19,
+  Variable name nas outras 15) — como agora 18 e 19 vão juntas para o arquivo
+  de emissões e todo o resto já usa "Variable name" na origem, cada arquivo
+  consolidado sai com um nome de coluna nativo, sem precisar renomear nada.
+  Os dois arquivos são CSV (não mais xlsx): UTF-8, decimal "." e separador de
+  coluna "," — pedido do usuário em 02/09/2026.
+
+
+ONDE MEXER
+
+  outputs_macro/_notas.py     texto longo de cada variável e as ressalvas
+  outputs_macro/_resumos.py   texto curto do card
+  outputs_macro/var_<id>.py   a lógica de cada variável, com as constantes que
+                              mudam o resultado no topo do arquivo
+
+  Constantes que a equipe provavelmente vai querer revisar:
+    var_55.py   PCI_KCAL_KG e BASE     poder calorífico e base (PCS/PCI)
+    var_69.py   DENSIDADE              33 e 5,3 MW/km2 de solar e eólica
+    var_67.py   MEDIA_ANUAL            dividir a adição por 5 ou não
+    var_74.py   LIMIAR                 fluxo mínimo para o duto contar como
+                                       em operação (0,0 desde 02/09/2026 —
+                                       decisão já tomada, ver a ressalva)
+
+
+CONVENÇÕES QUE VALEM PARA TODAS
+
+  Territory   Só 'BR' (nacional) ou sigla de UF — regra de plataforma, imposta
+              em comum.padronizar_territorio() (correção incorporada de outra
+              rodada, 02/09/2026). O MACRO produz três recortes que não são UF
+              — bacia hidrográfica (ids 55, 66, 68), corredor de transmissão
+              (id 70) e bacia sedimentar (ids 73, 74) — e todos migram para a
+              Class_3 da linha, com Territory virando 'BR'; onde não há Class
+              livre para receber o recorte, a linha sai do entregável (a linha
+              nacional continua valendo). Ver a nota geral no topo do
+              LEIA-ME.txt para o detalhe por variável. 'Não Alocado' não
+              aparece mais como Territory — mesma regra.
+
+  SOMAR       As ids 55, 56, 65, 66, 67, 68, 69 e 73 trazem o total nacional E
+              o recorte espacial (UF, ou bacia via Class_3) no mesmo arquivo.
+              Somar Value sem filtrar Territory (e, para as com bacia,
+              Class_3) dobra o resultado. A id 70 não tem esse risco: só traz
+              os corredores, sem linha de total. A id 74 também não: só traz
+              UF, sem linha nacional (ver a nota da variável). A id 75 tem um
+              risco parecido, mas por Class_2, não por Territory: a linha
+              'Total Investment Cost' (só em 2025) já é a soma das seis
+              linhas 'CAPEX' — somar Value sem separar por Class_2 conta o
+              mesmo capex duas vezes.
+
+  'NA'        não se aplica.
+  'N/A'       não existe equivalente no SEEG — marcado de propósito.

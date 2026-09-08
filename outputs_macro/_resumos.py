@@ -1,0 +1,196 @@
+# -*- coding: utf-8 -*-
+"""Descrição curta de cada variável, para o card da plataforma.
+
+Três frases, sempre na mesma ordem: o que o número é, como foi obtido a partir
+do resultado do MACRO, e a consideração que muda a leitura. O detalhe longo fica
+em _notas.py; aqui é o que cabe embaixo de um gráfico.
+"""
+
+RESUMOS = {}
+
+RESUMOS[18] = (
+    "Emissões de CO2 do sistema energético mais um bloco exógeno que cobre "
+    "indústria, resíduos e agropecuária. Soma dos fluxos positivos que entram "
+    "no nó de emissões, classificados em fósseis e biogênicos pelo nó de origem "
+    "do combustível. Segue a convenção do MACRO, que conta a combustão de "
+    "biomassa como emissão — o SEEG não conta. Class_5 é o gás; a marcação "
+    "fóssil/biogênico está no Class_4 (a lista está no LEIA-ME). A leitura SEEG "
+    "não é um filtro nesta variável: é a emissão fóssil daqui menos o CO2 "
+    "estocado da id 73."
+)
+
+RESUMOS[19] = (
+    "Remoções de CO2, iguais à absorção bruta de carbono pela biomassa mais a "
+    "captura direta do ar, ligadas à matéria-prima que as originou. As classes "
+    "seguem o diagrama de rotas da equipe — família e tipo de matéria-prima, "
+    "conversão e vetor energético — porque o SEEG é uma taxonomia de emissão e "
+    "não tem galho para remoção. A captação é registrada no ativo de conversão, "
+    "que a calcula como o co2_content do ativo vezes o fluxo da sua aresta "
+    "principal — então vai inteira para a matéria-prima dessa aresta, e a lenha "
+    "queimada como co-insumo de processo não capta nada. Não é o CO2 estocado "
+    "em reservatório (id 73), que é uma parcela desta — somar as duas conta o "
+    "mesmo carbono duas vezes."
+)
+
+RESUMOS[24] = (
+    "Custo total do sistema energético do período, em valor presente descontado "
+    "ao ano-base a 4,5% a.a. Soma de investimento, O&M fixo, O&M variável e "
+    "suprimento, descontando o suprimento de gasolina, diesel e querosene "
+    "fósseis. Como é valor presente do quinquênio e não custo anual, a queda ao "
+    "longo do horizonte reflete em boa parte o desconto, não barateamento."
+)
+
+RESUMOS[26] = (
+    "Investimento em oferta de energia por tecnologia, no mesmo critério de "
+    "valor presente da id 24. Filtra a categoria de investimento no custo por "
+    "tipo e descarta a linha agregada; a soma por ano fecha com o total do "
+    "modelo. Solar e eólica vêm agregadas num único tipo, o maior item do "
+    "horizonte — separá-las exige outra fonte."
+)
+
+RESUMOS[27] = (
+    "Despesa com os quatro combustíveis fósseis de uso final — diesel, "
+    "gasolina, querosene de aviação e gás natural — lida no custo de suprimento "
+    "dos nós correspondentes, com a linha de total junto no arquivo. Sai aberta "
+    "por portador porque é insumo para a equipe de uso final, que faz a "
+    "distribuição por setor a partir daqui; o MACRO não separa transportes de "
+    "indústria. É valor descontado, como o da id 24, e não é complementar dela: "
+    "o gás natural aparece nas duas."
+)
+
+RESUMOS[55] = (
+    "Energia primária que entra no sistema, agregada nas fontes da matriz "
+    "energética do BEN e separada em renovável e não renovável. Vem do saldo "
+    "líquido dos nós de recurso; para solar, eólica e hidráulica usa-se a "
+    "própria geração e o urânio já vem como energia térmica de entrada no "
+    "reator, as duas convenções do BEN. Diesel, gasolina e querosene são "
+    "derivados, não energia primária: viram uma linha só de petróleo bruto, "
+    "pelos rendimentos médios do refino brasileiro, tomando o maior dos três e "
+    "não a soma — cada divisão devolve o barril inteiro, e somar triplicaria. A "
+    "biomassa, que o modelo trata em toneladas, é convertida para energia em "
+    "PCS por uma tabela editável no código; atenção, o lado fóssil do modelo "
+    "está em PCI, então a matriz hoje mistura as duas bases. Sai com o total "
+    "nacional e o recorte espacial no mesmo arquivo: biomassa, solar e eólica "
+    "por estado, hidráulica por bacia, e as fontes que no modelo são um ativo "
+    "único do país só na linha BR."
+)
+
+RESUMOS[56] = (
+    "Consumo final de energia agrupado por portador — uma linha por portador e "
+    "por ano. Para os combustíveis vem do saldo dos nós de demanda, e não das "
+    "arestas de uso final, porque parte do combustível fóssil chega ao nó por "
+    "outro caminho; para a eletricidade vem do saldo dos nós estaduais, já "
+    "líquido das perdas de transmissão. Os nós de mandato entram somados ao "
+    "portador, o recorte por setor de uso fica com a outra equipe, e a abertura "
+    "da eletricidade entre uso intermediário e final é a id 57."
+)
+
+RESUMOS[65] = (
+    "Produção de biocombustíveis, combustíveis sintéticos e hidrogênio, aberta "
+    "em produto, matéria-prima e tecnologia. O produto é identificado pelo nó "
+    "de destino, que o modelo separa do equivalente fóssil, e não pela "
+    "commodity, que não distingue diesel renovável de fóssil. Sai com o total "
+    "nacional e por UF no mesmo arquivo — filtrar Territory antes de somar. É "
+    "produção bruta, sem descontar o que volta a ser insumo de outro processo, "
+    "e inclui hidrogênio de gás natural, explicitado na tecnologia."
+)
+
+RESUMOS[66] = (
+    "Capacidade elétrica instalada por fonte, em estoque — capacidade do "
+    "período anterior mais adições menos aposentadorias, conferido nos seis "
+    "períodos. Exclui armazenamento em energia, transmissão, e a duplicata do "
+    "reservatório hidrelétrico, que aparece duas vezes no arquivo de origem. "
+    "Sai com o total nacional e o recorte espacial no mesmo arquivo — filtrar "
+    "Territory antes de somar; as hidrelétricas aparecem por bacia "
+    "hidrográfica, porque o modelo não lhes atribui UF. Não inclui "
+    "bioeletricidade, cuja capacidade o modelo registra em MW de biomassa de "
+    "entrada e não em MW elétricos, embora ela responda por 14% da geração em "
+    "2050."
+)
+
+RESUMOS[67] = (
+    "Capacidade nova de solar, eólica e baterias adicionada em cada período. "
+    "Adição bruta, sem descontar aposentadorias; o fechamento com a id 66 foi "
+    "conferido. Sai com o total nacional e por UF no mesmo arquivo — filtrar "
+    "Territory antes de somar. O valor é do quinquênio inteiro e não a média "
+    "anual: dividir por cinco contradiz a resolução temporal declarada, e a "
+    "série é serrilhada por efeito da otimização míope, que alterna entre solar "
+    "e eólica de período a período."
+)
+
+RESUMOS[68] = (
+    "Geração elétrica por fonte. Considera o fluxo de eletricidade que entra "
+    "num nó elétrico vindo de um ativo de geração, o que exclui automaticamente "
+    "transmissão, vertimento hidrelétrico e consumo. Sai com o total nacional e "
+    "o recorte espacial no mesmo arquivo — filtrar Territory antes de somar; as "
+    "hidrelétricas aparecem por bacia. A descarga de baterias aparece como "
+    "linha própria por ser devolução de estoque e não geração — somá-la ao "
+    "total conta a mesma energia duas vezes."
+)
+
+RESUMOS[69] = (
+    "Área ocupada por solar e eólica, obtida dividindo a capacidade instalada "
+    "por densidades de potência exógenas: 33 MW/km2 para solar utility e 5,3 "
+    "MW/km2 para eólica. Solar em telhado fica de fora por não ocupar solo. A "
+    "densidade eólica é de área de projeto, dentro da qual a ocupação efetiva é "
+    "de 1% a 3% e a atividade agropecuária continua — não é área indisponível, "
+    "ao contrário da solar."
+)
+
+RESUMOS[70] = (
+    "Capacidade de transmissão elétrica, em GW, com o total nacional e cada "
+    "corredor no mesmo arquivo. Reporta capacidade e não quilometragem porque a "
+    "distância no input é declarada 'for record-purpose only' e não entra na "
+    "otimização — a expansão de capacidade, sim, é decisão do modelo. A "
+    "capacidade inicial de 26 dos 31 corredores é o placeholder de 1.000 MW do "
+    "input, o que pesa 27% no estoque de 2025 e 10% no de 2050."
+)
+
+RESUMOS[71] = (
+    "Produção de petróleo bruto nos três cenários do card 32, uma linha por "
+    "ano e por cenário (Class_3). No C (mercado interno), calculada como o "
+    "cru que a refinaria precisa processar para atender a demanda de diesel, "
+    "gasolina e querosene fóssil que o MACRO otimiza, tomando o derivado mais "
+    "exigente e os rendimentos de refino da equipe — só emite linha quando o "
+    "card 32 está em 'c'. Em A (Expansion) e B (Current policies) a "
+    "trajetória é fixa, dada pela equipe (pico e platô ou declínio "
+    "geométrico), sem relação com o resultado do MACRO — por isso saem "
+    "sempre, em qualquer opção do card."
+)
+
+RESUMOS[72] = (
+    "Preços dos combustíveis fósseis usados no cenário, convertidos de US$/MWh "
+    "para US$/boe a 1 MWh = 0,6061 boe. É premissa exógena de entrada, não "
+    "preço de equilíbrio calculado pelo modelo, e é constante dentro de cada "
+    "período. As duas séries de carvão têm um degrau isolado em 2030 cujos "
+    "valores coincidem com os de outras colunas do mesmo arquivo, o que sugere "
+    "erro de montagem do input."
+)
+
+RESUMOS[73] = (
+    "CO2 capturado e injetado em reservatório geológico, por UF, com a bacia "
+    "sedimentar de destino na Class_3; há também uma linha nacional (Territory "
+    "= BR) somando tudo, então é preciso filtrar Territory antes de somar. "
+    "Quase todo o volume vem do etanol de cana com captura, então o número "
+    "depende diretamente do teor de carbono atribuído à cana, hoje em revisão "
+    "pela equipe de modelagem."
+)
+
+RESUMOS[74] = (
+    "Extensão de dutos de CO2 em operação, por bacia de destino. A distância "
+    "vem do input e o resultado indica quais dutos efetivamente transportam; o "
+    "critério é ter fluxo anual positivo, sem limiar mínimo — a versão anterior "
+    "só contava o duto acima de 0,1 Mt/ano, e a série publicada saía "
+    "inteiramente determinada por esse corte editorial. Contar por capacidade "
+    "contratada não serve, porque todos os dutos recebem capacidade simbólica "
+    "já no primeiro período e a série ficaria constante."
+)
+
+RESUMOS[75] = (
+    "Capex bruto do sistema energético, direto de capex.csv — soma de todas as "
+    "commodities e tecnologias do período, sem desconto e sem amortização. Não "
+    "é o mesmo número da categoria 'Investment' de costs_by_type.csv (ids 24 e "
+    "26), que é descontada ao ano-base. Traz também, numa linha à parte em "
+    "2025 (Class_2 'Total Investment Cost'), a soma do capex dos seis períodos "
+    "— um valor agregado único, não uma série por ano."
+)
