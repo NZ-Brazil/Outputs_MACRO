@@ -1,19 +1,7 @@
 Variable_group,Variable name,Class_1,Class_2,Class_3,Class_4,Class_5,Unit,Territory,Year,Value
-Fossil fuels industry,Oil production,Energy,Oil production,N/A,Crude oil,N/A,boe,BR,2025,1373384070.50669
-Fossil fuels industry,Oil production,Energy,Oil production,N/A,Crude oil,N/A,boe,BR,2030,837359948.09497
-Fossil fuels industry,Oil production,Energy,Oil production,N/A,Crude oil,N/A,boe,BR,2035,827975420.0022
-Fossil fuels industry,Oil production,Energy,Oil production,N/A,Crude oil,N/A,boe,BR,2040,861360599.34554
-Fossil fuels industry,Oil production,Energy,Oil production,N/A,Crude oil,N/A,boe,BR,2045,884171870.18798
-Fossil fuels industry,Oil production,Energy,Oil production,N/A,Crude oil,N/A,boe,BR,2050,901997008.81973
-Fossil fuels industry,Oil production,Energy,Oil production,Scenario A,Crude oil,N/A,boe,BR,2025,1376050000.0
-Fossil fuels industry,Oil production,Energy,Oil production,Scenario A,Crude oil,N/A,boe,BR,2030,2080500000.0
-Fossil fuels industry,Oil production,Energy,Oil production,Scenario A,Crude oil,N/A,boe,BR,2035,2153500000.0
-Fossil fuels industry,Oil production,Energy,Oil production,Scenario A,Crude oil,N/A,boe,BR,2040,2153500000.0
-Fossil fuels industry,Oil production,Energy,Oil production,Scenario A,Crude oil,N/A,boe,BR,2045,2153500000.0
-Fossil fuels industry,Oil production,Energy,Oil production,Scenario A,Crude oil,N/A,boe,BR,2050,2153500000.0
-Fossil fuels industry,Oil production,Energy,Oil production,Scenario B,Crude oil,N/A,boe,BR,2025,1376050000.0
-Fossil fuels industry,Oil production,Energy,Oil production,Scenario B,Crude oil,N/A,boe,BR,2030,1934500000.0
-Fossil fuels industry,Oil production,Energy,Oil production,Scenario B,Crude oil,N/A,boe,BR,2035,1533730000.0
-Fossil fuels industry,Oil production,Energy,Oil production,Scenario B,Crude oil,N/A,boe,BR,2040,1218332334.27908
-Fossil fuels industry,Oil production,Energy,Oil production,Scenario B,Crude oil,N/A,boe,BR,2045,967793338.29939
-Fossil fuels industry,Oil production,Energy,Oil production,Scenario B,Crude oil,N/A,boe,BR,2050,768775414.80576
+Energy supply and use,Oil production,NA,NA,NA,NA,NA,boe,BR,2025,1373384070.50669
+Energy supply and use,Oil production,NA,NA,NA,NA,NA,boe,BR,2030,837241409.87983
+Energy supply and use,Oil production,NA,NA,NA,NA,NA,boe,BR,2035,827879044.96202
+Energy supply and use,Oil production,NA,NA,NA,NA,NA,boe,BR,2040,861442546.14648
+Energy supply and use,Oil production,NA,NA,NA,NA,NA,boe,BR,2045,884111180.84765
+Energy supply and use,Oil production,NA,NA,NA,NA,NA,boe,BR,2050,901756581.86173

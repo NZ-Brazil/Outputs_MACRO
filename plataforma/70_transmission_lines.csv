@@ -1,211 +1,211 @@
 Variable_group,Variable name,Class_1,Class_2,Class_3,Class_4,Class_5,Unit,Territory,Year,Value
-Power,Transmission lines,Energy,Electricity transmission,Belo Monte→Sudeste,Transmission line,Interregional,GW,BR,2025,8.0
-Power,Transmission lines,Energy,Electricity transmission,Belo Monte→Sudeste,Transmission line,Interregional,GW,BR,2030,8.0
-Power,Transmission lines,Energy,Electricity transmission,Belo Monte→Sudeste,Transmission line,Interregional,GW,BR,2035,8.0
-Power,Transmission lines,Energy,Electricity transmission,Belo Monte→Sudeste,Transmission line,Interregional,GW,BR,2040,8.0
-Power,Transmission lines,Energy,Electricity transmission,Belo Monte→Sudeste,Transmission line,Interregional,GW,BR,2045,8.0
-Power,Transmission lines,Energy,Electricity transmission,Belo Monte→Sudeste,Transmission line,Interregional,GW,BR,2050,8.0
-Power,Transmission lines,Energy,Electricity transmission,Itaipu→Sudeste,Transmission line,Interregional,GW,BR,2025,10.0
-Power,Transmission lines,Energy,Electricity transmission,Itaipu→Sudeste,Transmission line,Interregional,GW,BR,2030,10.0
-Power,Transmission lines,Energy,Electricity transmission,Itaipu→Sudeste,Transmission line,Interregional,GW,BR,2035,10.0
-Power,Transmission lines,Energy,Electricity transmission,Itaipu→Sudeste,Transmission line,Interregional,GW,BR,2040,10.0
-Power,Transmission lines,Energy,Electricity transmission,Itaipu→Sudeste,Transmission line,Interregional,GW,BR,2045,10.0
-Power,Transmission lines,Energy,Electricity transmission,Itaipu→Sudeste,Transmission line,Interregional,GW,BR,2050,10.0
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–IMP,Transmission line,Interregional,GW,BR,2025,6.08969
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–IMP,Transmission line,Interregional,GW,BR,2030,6.09179
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–IMP,Transmission line,Interregional,GW,BR,2035,6.09187
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–IMP,Transmission line,Interregional,GW,BR,2040,6.09407
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–IMP,Transmission line,Interregional,GW,BR,2045,6.09414
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–IMP,Transmission line,Interregional,GW,BR,2050,6.09431
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–Sudeste,Transmission line,Interregional,GW,BR,2025,9.91176
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–Sudeste,Transmission line,Interregional,GW,BR,2030,9.91183
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–Sudeste,Transmission line,Interregional,GW,BR,2035,9.91187
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–Sudeste,Transmission line,Interregional,GW,BR,2040,9.91267
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–Sudeste,Transmission line,Interregional,GW,BR,2045,9.91278
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–Sudeste,Transmission line,Interregional,GW,BR,2050,9.91281
-Power,Transmission lines,Energy,Electricity transmission,Norte–IMP,Transmission line,Interregional,GW,BR,2025,5.70189
-Power,Transmission lines,Energy,Electricity transmission,Norte–IMP,Transmission line,Interregional,GW,BR,2030,5.74588
-Power,Transmission lines,Energy,Electricity transmission,Norte–IMP,Transmission line,Interregional,GW,BR,2035,6.58622
-Power,Transmission lines,Energy,Electricity transmission,Norte–IMP,Transmission line,Interregional,GW,BR,2040,6.8644
-Power,Transmission lines,Energy,Electricity transmission,Norte–IMP,Transmission line,Interregional,GW,BR,2045,6.86448
-Power,Transmission lines,Energy,Electricity transmission,Norte–IMP,Transmission line,Interregional,GW,BR,2050,6.86464
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–IMP,Transmission line,Interregional,GW,BR,2025,9.10873
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–IMP,Transmission line,Interregional,GW,BR,2030,9.1091
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–IMP,Transmission line,Interregional,GW,BR,2035,9.10918
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–IMP,Transmission line,Interregional,GW,BR,2040,9.11125
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–IMP,Transmission line,Interregional,GW,BR,2045,9.11132
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–IMP,Transmission line,Interregional,GW,BR,2050,9.11152
-Power,Transmission lines,Energy,Electricity transmission,Sudeste→Sul,Transmission line,Interregional,GW,BR,2025,11.45
-Power,Transmission lines,Energy,Electricity transmission,Sudeste→Sul,Transmission line,Interregional,GW,BR,2030,11.45019
-Power,Transmission lines,Energy,Electricity transmission,Sudeste→Sul,Transmission line,Interregional,GW,BR,2035,11.45049
-Power,Transmission lines,Energy,Electricity transmission,Sudeste→Sul,Transmission line,Interregional,GW,BR,2040,11.45121
-Power,Transmission lines,Energy,Electricity transmission,Sudeste→Sul,Transmission line,Interregional,GW,BR,2045,11.45126
-Power,Transmission lines,Energy,Electricity transmission,Sudeste→Sul,Transmission line,Interregional,GW,BR,2050,11.4523
-Power,Transmission lines,Energy,Electricity transmission,Sul→Sudeste,Transmission line,Interregional,GW,BR,2025,8.00406
-Power,Transmission lines,Energy,Electricity transmission,Sul→Sudeste,Transmission line,Interregional,GW,BR,2030,8.00433
-Power,Transmission lines,Energy,Electricity transmission,Sul→Sudeste,Transmission line,Interregional,GW,BR,2035,8.00695
-Power,Transmission lines,Energy,Electricity transmission,Sul→Sudeste,Transmission line,Interregional,GW,BR,2040,8.10655
-Power,Transmission lines,Energy,Electricity transmission,Sul→Sudeste,Transmission line,Interregional,GW,BR,2045,8.24015
-Power,Transmission lines,Energy,Electricity transmission,Sul→Sudeste,Transmission line,Interregional,GW,BR,2050,9.11117
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–AL,Transmission line,Subsystem to state,GW,BR,2025,1.00273
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–AL,Transmission line,Subsystem to state,GW,BR,2030,1.00277
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–AL,Transmission line,Subsystem to state,GW,BR,2035,1.00283
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–AL,Transmission line,Subsystem to state,GW,BR,2040,1.00335
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–AL,Transmission line,Subsystem to state,GW,BR,2045,1.08569
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–AL,Transmission line,Subsystem to state,GW,BR,2050,1.31291
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–BA,Transmission line,Subsystem to state,GW,BR,2025,3.02486
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–BA,Transmission line,Subsystem to state,GW,BR,2030,3.2558
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–BA,Transmission line,Subsystem to state,GW,BR,2035,3.77686
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–BA,Transmission line,Subsystem to state,GW,BR,2040,4.39952
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–BA,Transmission line,Subsystem to state,GW,BR,2045,4.39961
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–BA,Transmission line,Subsystem to state,GW,BR,2050,4.39972
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–CE,Transmission line,Subsystem to state,GW,BR,2025,1.79784
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–CE,Transmission line,Subsystem to state,GW,BR,2030,1.79791
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–CE,Transmission line,Subsystem to state,GW,BR,2035,2.09742
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–CE,Transmission line,Subsystem to state,GW,BR,2040,2.67022
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–CE,Transmission line,Subsystem to state,GW,BR,2045,4.44372
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–CE,Transmission line,Subsystem to state,GW,BR,2050,5.15547
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–MA,Transmission line,Subsystem to state,GW,BR,2025,1.00002
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–MA,Transmission line,Subsystem to state,GW,BR,2030,1.1528
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–MA,Transmission line,Subsystem to state,GW,BR,2035,1.3147
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–MA,Transmission line,Subsystem to state,GW,BR,2040,1.57273
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–MA,Transmission line,Subsystem to state,GW,BR,2045,2.06062
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–MA,Transmission line,Subsystem to state,GW,BR,2050,2.43468
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–PB,Transmission line,Subsystem to state,GW,BR,2025,1.00062
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–PB,Transmission line,Subsystem to state,GW,BR,2030,1.00066
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–PB,Transmission line,Subsystem to state,GW,BR,2035,1.0007
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–PB,Transmission line,Subsystem to state,GW,BR,2040,1.15512
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–PB,Transmission line,Subsystem to state,GW,BR,2045,1.39467
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–PB,Transmission line,Subsystem to state,GW,BR,2050,1.68576
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–PE,Transmission line,Subsystem to state,GW,BR,2025,1.64742
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–PE,Transmission line,Subsystem to state,GW,BR,2030,2.14949
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–PE,Transmission line,Subsystem to state,GW,BR,2035,2.51841
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–PE,Transmission line,Subsystem to state,GW,BR,2040,2.88429
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–PE,Transmission line,Subsystem to state,GW,BR,2045,3.25893
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–PE,Transmission line,Subsystem to state,GW,BR,2050,3.66131
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–PI,Transmission line,Subsystem to state,GW,BR,2025,3.43259
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–PI,Transmission line,Subsystem to state,GW,BR,2030,3.43261
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–PI,Transmission line,Subsystem to state,GW,BR,2035,3.43262
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–PI,Transmission line,Subsystem to state,GW,BR,2040,3.4332
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–PI,Transmission line,Subsystem to state,GW,BR,2045,3.43327
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–PI,Transmission line,Subsystem to state,GW,BR,2050,3.43327
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–RN,Transmission line,Subsystem to state,GW,BR,2025,6.72873
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–RN,Transmission line,Subsystem to state,GW,BR,2030,6.72878
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–RN,Transmission line,Subsystem to state,GW,BR,2035,6.72888
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–RN,Transmission line,Subsystem to state,GW,BR,2040,6.72909
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–RN,Transmission line,Subsystem to state,GW,BR,2045,11.77237
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–RN,Transmission line,Subsystem to state,GW,BR,2050,11.7726
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–SE,Transmission line,Subsystem to state,GW,BR,2025,1.00448
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–SE,Transmission line,Subsystem to state,GW,BR,2030,1.0048
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–SE,Transmission line,Subsystem to state,GW,BR,2035,1.00484
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–SE,Transmission line,Subsystem to state,GW,BR,2040,1.00525
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–SE,Transmission line,Subsystem to state,GW,BR,2045,1.00526
-Power,Transmission lines,Energy,Electricity transmission,Nordeste–SE,Transmission line,Subsystem to state,GW,BR,2050,1.00537
-Power,Transmission lines,Energy,Electricity transmission,Norte–AM,Transmission line,Subsystem to state,GW,BR,2025,1.21111
-Power,Transmission lines,Energy,Electricity transmission,Norte–AM,Transmission line,Subsystem to state,GW,BR,2030,1.36652
-Power,Transmission lines,Energy,Electricity transmission,Norte–AM,Transmission line,Subsystem to state,GW,BR,2035,1.55785
-Power,Transmission lines,Energy,Electricity transmission,Norte–AM,Transmission line,Subsystem to state,GW,BR,2040,1.766
-Power,Transmission lines,Energy,Electricity transmission,Norte–AM,Transmission line,Subsystem to state,GW,BR,2045,2.28931
-Power,Transmission lines,Energy,Electricity transmission,Norte–AM,Transmission line,Subsystem to state,GW,BR,2050,2.63588
-Power,Transmission lines,Energy,Electricity transmission,Norte–AP,Transmission line,Subsystem to state,GW,BR,2025,1.00353
-Power,Transmission lines,Energy,Electricity transmission,Norte–AP,Transmission line,Subsystem to state,GW,BR,2030,1.00367
-Power,Transmission lines,Energy,Electricity transmission,Norte–AP,Transmission line,Subsystem to state,GW,BR,2035,1.00373
-Power,Transmission lines,Energy,Electricity transmission,Norte–AP,Transmission line,Subsystem to state,GW,BR,2040,1.00453
-Power,Transmission lines,Energy,Electricity transmission,Norte–AP,Transmission line,Subsystem to state,GW,BR,2045,1.00465
-Power,Transmission lines,Energy,Electricity transmission,Norte–AP,Transmission line,Subsystem to state,GW,BR,2050,1.00468
-Power,Transmission lines,Energy,Electricity transmission,Norte–PA,Transmission line,Subsystem to state,GW,BR,2025,2.00431
-Power,Transmission lines,Energy,Electricity transmission,Norte–PA,Transmission line,Subsystem to state,GW,BR,2030,2.37999
-Power,Transmission lines,Energy,Electricity transmission,Norte–PA,Transmission line,Subsystem to state,GW,BR,2035,2.62128
-Power,Transmission lines,Energy,Electricity transmission,Norte–PA,Transmission line,Subsystem to state,GW,BR,2040,3.12496
-Power,Transmission lines,Energy,Electricity transmission,Norte–PA,Transmission line,Subsystem to state,GW,BR,2045,3.67724
-Power,Transmission lines,Energy,Electricity transmission,Norte–PA,Transmission line,Subsystem to state,GW,BR,2050,4.33336
-Power,Transmission lines,Energy,Electricity transmission,Norte–RR,Transmission line,Subsystem to state,GW,BR,2025,1.0034
-Power,Transmission lines,Energy,Electricity transmission,Norte–RR,Transmission line,Subsystem to state,GW,BR,2030,1.00353
-Power,Transmission lines,Energy,Electricity transmission,Norte–RR,Transmission line,Subsystem to state,GW,BR,2035,1.00364
-Power,Transmission lines,Energy,Electricity transmission,Norte–RR,Transmission line,Subsystem to state,GW,BR,2040,1.00441
-Power,Transmission lines,Energy,Electricity transmission,Norte–RR,Transmission line,Subsystem to state,GW,BR,2045,1.00455
-Power,Transmission lines,Energy,Electricity transmission,Norte–RR,Transmission line,Subsystem to state,GW,BR,2050,1.00456
-Power,Transmission lines,Energy,Electricity transmission,Norte–TO,Transmission line,Subsystem to state,GW,BR,2025,1.00129
-Power,Transmission lines,Energy,Electricity transmission,Norte–TO,Transmission line,Subsystem to state,GW,BR,2030,1.00144
-Power,Transmission lines,Energy,Electricity transmission,Norte–TO,Transmission line,Subsystem to state,GW,BR,2035,1.00159
-Power,Transmission lines,Energy,Electricity transmission,Norte–TO,Transmission line,Subsystem to state,GW,BR,2040,1.00266
-Power,Transmission lines,Energy,Electricity transmission,Norte–TO,Transmission line,Subsystem to state,GW,BR,2045,1.00273
-Power,Transmission lines,Energy,Electricity transmission,Norte–TO,Transmission line,Subsystem to state,GW,BR,2050,1.00276
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–DF,Transmission line,Subsystem to state,GW,BR,2025,1.00056
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–DF,Transmission line,Subsystem to state,GW,BR,2030,1.08436
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–DF,Transmission line,Subsystem to state,GW,BR,2035,1.41752
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–DF,Transmission line,Subsystem to state,GW,BR,2040,1.81203
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–DF,Transmission line,Subsystem to state,GW,BR,2045,2.23787
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–DF,Transmission line,Subsystem to state,GW,BR,2050,2.77524
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–ES,Transmission line,Subsystem to state,GW,BR,2025,2.16288
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–ES,Transmission line,Subsystem to state,GW,BR,2030,2.39997
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–ES,Transmission line,Subsystem to state,GW,BR,2035,2.70932
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–ES,Transmission line,Subsystem to state,GW,BR,2040,3.05212
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–ES,Transmission line,Subsystem to state,GW,BR,2045,3.42943
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–ES,Transmission line,Subsystem to state,GW,BR,2050,3.86049
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–GO,Transmission line,Subsystem to state,GW,BR,2025,1.77511
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–GO,Transmission line,Subsystem to state,GW,BR,2030,1.77518
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–GO,Transmission line,Subsystem to state,GW,BR,2035,1.77525
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–GO,Transmission line,Subsystem to state,GW,BR,2040,1.77579
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–GO,Transmission line,Subsystem to state,GW,BR,2045,1.77588
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–GO,Transmission line,Subsystem to state,GW,BR,2050,1.77595
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–MG,Transmission line,Subsystem to state,GW,BR,2025,9.01153
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–MG,Transmission line,Subsystem to state,GW,BR,2030,9.0117
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–MG,Transmission line,Subsystem to state,GW,BR,2035,9.0118
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–MG,Transmission line,Subsystem to state,GW,BR,2040,9.0366
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–MG,Transmission line,Subsystem to state,GW,BR,2045,9.03686
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–MG,Transmission line,Subsystem to state,GW,BR,2050,9.03689
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–MS,Transmission line,Subsystem to state,GW,BR,2025,1.0416
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–MS,Transmission line,Subsystem to state,GW,BR,2030,1.04169
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–MS,Transmission line,Subsystem to state,GW,BR,2035,1.4214
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–MS,Transmission line,Subsystem to state,GW,BR,2040,5.81451
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–MS,Transmission line,Subsystem to state,GW,BR,2045,10.32247
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–MS,Transmission line,Subsystem to state,GW,BR,2050,12.85944
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–MT,Transmission line,Subsystem to state,GW,BR,2025,2.39664
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–MT,Transmission line,Subsystem to state,GW,BR,2030,2.39665
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–MT,Transmission line,Subsystem to state,GW,BR,2035,2.39667
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–MT,Transmission line,Subsystem to state,GW,BR,2040,2.39687
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–MT,Transmission line,Subsystem to state,GW,BR,2045,2.39697
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–MT,Transmission line,Subsystem to state,GW,BR,2050,2.39713
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–RJ,Transmission line,Subsystem to state,GW,BR,2025,5.25732
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–RJ,Transmission line,Subsystem to state,GW,BR,2030,5.25739
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–RJ,Transmission line,Subsystem to state,GW,BR,2035,5.97124
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–RJ,Transmission line,Subsystem to state,GW,BR,2040,7.31483
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–RJ,Transmission line,Subsystem to state,GW,BR,2045,8.56581
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–RJ,Transmission line,Subsystem to state,GW,BR,2050,10.09925
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–SP,Transmission line,Subsystem to state,GW,BR,2025,20.00661
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–SP,Transmission line,Subsystem to state,GW,BR,2030,23.65478
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–SP,Transmission line,Subsystem to state,GW,BR,2035,26.33994
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–SP,Transmission line,Subsystem to state,GW,BR,2040,28.4707
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–SP,Transmission line,Subsystem to state,GW,BR,2045,29.10129
-Power,Transmission lines,Energy,Electricity transmission,Sudeste–SP,Transmission line,Subsystem to state,GW,BR,2050,29.52013
-Power,Transmission lines,Energy,Electricity transmission,Sul–PR,Transmission line,Subsystem to state,GW,BR,2025,4.63825
-Power,Transmission lines,Energy,Electricity transmission,Sul–PR,Transmission line,Subsystem to state,GW,BR,2030,4.63831
-Power,Transmission lines,Energy,Electricity transmission,Sul–PR,Transmission line,Subsystem to state,GW,BR,2035,4.63838
-Power,Transmission lines,Energy,Electricity transmission,Sul–PR,Transmission line,Subsystem to state,GW,BR,2040,4.63973
-Power,Transmission lines,Energy,Electricity transmission,Sul–PR,Transmission line,Subsystem to state,GW,BR,2045,4.64036
-Power,Transmission lines,Energy,Electricity transmission,Sul–PR,Transmission line,Subsystem to state,GW,BR,2050,4.64078
-Power,Transmission lines,Energy,Electricity transmission,Sul–RS,Transmission line,Subsystem to state,GW,BR,2025,4.21163
-Power,Transmission lines,Energy,Electricity transmission,Sul–RS,Transmission line,Subsystem to state,GW,BR,2030,4.2117
-Power,Transmission lines,Energy,Electricity transmission,Sul–RS,Transmission line,Subsystem to state,GW,BR,2035,4.21191
-Power,Transmission lines,Energy,Electricity transmission,Sul–RS,Transmission line,Subsystem to state,GW,BR,2040,4.21349
-Power,Transmission lines,Energy,Electricity transmission,Sul–RS,Transmission line,Subsystem to state,GW,BR,2045,4.21374
-Power,Transmission lines,Energy,Electricity transmission,Sul–RS,Transmission line,Subsystem to state,GW,BR,2050,4.21381
-Power,Transmission lines,Energy,Electricity transmission,Sul–SC,Transmission line,Subsystem to state,GW,BR,2025,3.10589
-Power,Transmission lines,Energy,Electricity transmission,Sul–SC,Transmission line,Subsystem to state,GW,BR,2030,3.13386
-Power,Transmission lines,Energy,Electricity transmission,Sul–SC,Transmission line,Subsystem to state,GW,BR,2035,3.40897
-Power,Transmission lines,Energy,Electricity transmission,Sul–SC,Transmission line,Subsystem to state,GW,BR,2040,3.4093
-Power,Transmission lines,Energy,Electricity transmission,Sul–SC,Transmission line,Subsystem to state,GW,BR,2045,3.40937
-Power,Transmission lines,Energy,Electricity transmission,Sul–SC,Transmission line,Subsystem to state,GW,BR,2050,3.40945
-Power,Transmission lines,Energy,Electricity transmission,AC–RO,Transmission line,Interstate,GW,BR,2025,1.00566
-Power,Transmission lines,Energy,Electricity transmission,AC–RO,Transmission line,Interstate,GW,BR,2030,1.00642
-Power,Transmission lines,Energy,Electricity transmission,AC–RO,Transmission line,Interstate,GW,BR,2035,1.00643
-Power,Transmission lines,Energy,Electricity transmission,AC–RO,Transmission line,Interstate,GW,BR,2040,1.00684
-Power,Transmission lines,Energy,Electricity transmission,AC–RO,Transmission line,Interstate,GW,BR,2045,1.00688
-Power,Transmission lines,Energy,Electricity transmission,AC–RO,Transmission line,Interstate,GW,BR,2050,1.00698
-Power,Transmission lines,Energy,Electricity transmission,RO–MT,Transmission line,Interstate,GW,BR,2025,1.00199
-Power,Transmission lines,Energy,Electricity transmission,RO–MT,Transmission line,Interstate,GW,BR,2030,1.00202
-Power,Transmission lines,Energy,Electricity transmission,RO–MT,Transmission line,Interstate,GW,BR,2035,1.00204
-Power,Transmission lines,Energy,Electricity transmission,RO–MT,Transmission line,Interstate,GW,BR,2040,1.08272
-Power,Transmission lines,Energy,Electricity transmission,RO–MT,Transmission line,Interstate,GW,BR,2045,1.36526
-Power,Transmission lines,Energy,Electricity transmission,RO–MT,Transmission line,Interstate,GW,BR,2050,1.62114
+Energy supply and use,Transmission lines,Interregional,Belo Monte→Sudeste,NA,NA,NA,GW,BR,2025,8.0
+Energy supply and use,Transmission lines,Interregional,Belo Monte→Sudeste,NA,NA,NA,GW,BR,2030,8.0
+Energy supply and use,Transmission lines,Interregional,Belo Monte→Sudeste,NA,NA,NA,GW,BR,2035,8.0
+Energy supply and use,Transmission lines,Interregional,Belo Monte→Sudeste,NA,NA,NA,GW,BR,2040,8.0
+Energy supply and use,Transmission lines,Interregional,Belo Monte→Sudeste,NA,NA,NA,GW,BR,2045,8.0
+Energy supply and use,Transmission lines,Interregional,Belo Monte→Sudeste,NA,NA,NA,GW,BR,2050,8.0
+Energy supply and use,Transmission lines,Interregional,Itaipu→Sudeste,NA,NA,NA,GW,BR,2025,10.0
+Energy supply and use,Transmission lines,Interregional,Itaipu→Sudeste,NA,NA,NA,GW,BR,2030,10.0
+Energy supply and use,Transmission lines,Interregional,Itaipu→Sudeste,NA,NA,NA,GW,BR,2035,10.0
+Energy supply and use,Transmission lines,Interregional,Itaipu→Sudeste,NA,NA,NA,GW,BR,2040,10.0
+Energy supply and use,Transmission lines,Interregional,Itaipu→Sudeste,NA,NA,NA,GW,BR,2045,10.0
+Energy supply and use,Transmission lines,Interregional,Itaipu→Sudeste,NA,NA,NA,GW,BR,2050,10.0
+Energy supply and use,Transmission lines,Interregional,Nordeste–IMP,NA,NA,NA,GW,BR,2025,6.09248
+Energy supply and use,Transmission lines,Interregional,Nordeste–IMP,NA,NA,NA,GW,BR,2030,6.0926
+Energy supply and use,Transmission lines,Interregional,Nordeste–IMP,NA,NA,NA,GW,BR,2035,6.09267
+Energy supply and use,Transmission lines,Interregional,Nordeste–IMP,NA,NA,NA,GW,BR,2040,6.09274
+Energy supply and use,Transmission lines,Interregional,Nordeste–IMP,NA,NA,NA,GW,BR,2045,6.09341
+Energy supply and use,Transmission lines,Interregional,Nordeste–IMP,NA,NA,NA,GW,BR,2050,6.11804
+Energy supply and use,Transmission lines,Interregional,Nordeste–Sudeste,NA,NA,NA,GW,BR,2025,9.91151
+Energy supply and use,Transmission lines,Interregional,Nordeste–Sudeste,NA,NA,NA,GW,BR,2030,11.57462
+Energy supply and use,Transmission lines,Interregional,Nordeste–Sudeste,NA,NA,NA,GW,BR,2035,19.38917
+Energy supply and use,Transmission lines,Interregional,Nordeste–Sudeste,NA,NA,NA,GW,BR,2040,19.38929
+Energy supply and use,Transmission lines,Interregional,Nordeste–Sudeste,NA,NA,NA,GW,BR,2045,25.57446
+Energy supply and use,Transmission lines,Interregional,Nordeste–Sudeste,NA,NA,NA,GW,BR,2050,30.22553
+Energy supply and use,Transmission lines,Interregional,Norte–IMP,NA,NA,NA,GW,BR,2025,5.70211
+Energy supply and use,Transmission lines,Interregional,Norte–IMP,NA,NA,NA,GW,BR,2030,6.11361
+Energy supply and use,Transmission lines,Interregional,Norte–IMP,NA,NA,NA,GW,BR,2035,8.09091
+Energy supply and use,Transmission lines,Interregional,Norte–IMP,NA,NA,NA,GW,BR,2040,8.09096
+Energy supply and use,Transmission lines,Interregional,Norte–IMP,NA,NA,NA,GW,BR,2045,8.09106
+Energy supply and use,Transmission lines,Interregional,Norte–IMP,NA,NA,NA,GW,BR,2050,8.09349
+Energy supply and use,Transmission lines,Interregional,Sudeste–IMP,NA,NA,NA,GW,BR,2025,9.11115
+Energy supply and use,Transmission lines,Interregional,Sudeste–IMP,NA,NA,NA,GW,BR,2030,9.11125
+Energy supply and use,Transmission lines,Interregional,Sudeste–IMP,NA,NA,NA,GW,BR,2035,9.1113
+Energy supply and use,Transmission lines,Interregional,Sudeste–IMP,NA,NA,NA,GW,BR,2040,9.11139
+Energy supply and use,Transmission lines,Interregional,Sudeste–IMP,NA,NA,NA,GW,BR,2045,9.11194
+Energy supply and use,Transmission lines,Interregional,Sudeste–IMP,NA,NA,NA,GW,BR,2050,9.11535
+Energy supply and use,Transmission lines,Interregional,Sudeste→Sul,NA,NA,NA,GW,BR,2025,11.45663
+Energy supply and use,Transmission lines,Interregional,Sudeste→Sul,NA,NA,NA,GW,BR,2030,11.4567
+Energy supply and use,Transmission lines,Interregional,Sudeste→Sul,NA,NA,NA,GW,BR,2035,11.45699
+Energy supply and use,Transmission lines,Interregional,Sudeste→Sul,NA,NA,NA,GW,BR,2040,11.45706
+Energy supply and use,Transmission lines,Interregional,Sudeste→Sul,NA,NA,NA,GW,BR,2045,11.45711
+Energy supply and use,Transmission lines,Interregional,Sudeste→Sul,NA,NA,NA,GW,BR,2050,11.464
+Energy supply and use,Transmission lines,Interregional,Sul→Sudeste,NA,NA,NA,GW,BR,2025,8.0021
+Energy supply and use,Transmission lines,Interregional,Sul→Sudeste,NA,NA,NA,GW,BR,2030,8.00257
+Energy supply and use,Transmission lines,Interregional,Sul→Sudeste,NA,NA,NA,GW,BR,2035,8.00263
+Energy supply and use,Transmission lines,Interregional,Sul→Sudeste,NA,NA,NA,GW,BR,2040,8.00274
+Energy supply and use,Transmission lines,Interregional,Sul→Sudeste,NA,NA,NA,GW,BR,2045,8.00274
+Energy supply and use,Transmission lines,Interregional,Sul→Sudeste,NA,NA,NA,GW,BR,2050,8.00276
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–AL,NA,NA,NA,GW,BR,2025,1.00139
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–AL,NA,NA,NA,GW,BR,2030,1.0014
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–AL,NA,NA,NA,GW,BR,2035,1.00145
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–AL,NA,NA,NA,GW,BR,2040,1.00149
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–AL,NA,NA,NA,GW,BR,2045,1.08943
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–AL,NA,NA,NA,GW,BR,2050,1.3093
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–BA,NA,NA,NA,GW,BR,2025,2.95326
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–BA,NA,NA,NA,GW,BR,2030,3.24873
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–BA,NA,NA,NA,GW,BR,2035,3.72395
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–BA,NA,NA,NA,GW,BR,2040,4.14029
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–BA,NA,NA,NA,GW,BR,2045,4.74475
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–BA,NA,NA,NA,GW,BR,2050,5.72828
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–CE,NA,NA,NA,GW,BR,2025,1.75373
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–CE,NA,NA,NA,GW,BR,2030,1.75373
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–CE,NA,NA,NA,GW,BR,2035,1.93969
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–CE,NA,NA,NA,GW,BR,2040,2.63217
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–CE,NA,NA,NA,GW,BR,2045,3.33924
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–CE,NA,NA,NA,GW,BR,2050,5.13807
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–MA,NA,NA,NA,GW,BR,2025,1.00106
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–MA,NA,NA,NA,GW,BR,2030,1.25208
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–MA,NA,NA,NA,GW,BR,2035,1.33767
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–MA,NA,NA,NA,GW,BR,2040,1.9037
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–MA,NA,NA,NA,GW,BR,2045,1.90374
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–MA,NA,NA,NA,GW,BR,2050,2.44251
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–PB,NA,NA,NA,GW,BR,2025,1.00249
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–PB,NA,NA,NA,GW,BR,2030,1.00255
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–PB,NA,NA,NA,GW,BR,2035,1.00258
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–PB,NA,NA,NA,GW,BR,2040,1.13904
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–PB,NA,NA,NA,GW,BR,2045,1.40688
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–PB,NA,NA,NA,GW,BR,2050,1.69195
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–PE,NA,NA,NA,GW,BR,2025,1.58121
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–PE,NA,NA,NA,GW,BR,2030,6.04948
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–PE,NA,NA,NA,GW,BR,2035,6.04956
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–PE,NA,NA,NA,GW,BR,2040,7.42452
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–PE,NA,NA,NA,GW,BR,2045,7.42453
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–PE,NA,NA,NA,GW,BR,2050,7.42464
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–PI,NA,NA,NA,GW,BR,2025,3.3602
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–PI,NA,NA,NA,GW,BR,2030,3.36021
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–PI,NA,NA,NA,GW,BR,2035,3.36025
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–PI,NA,NA,NA,GW,BR,2040,3.36043
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–PI,NA,NA,NA,GW,BR,2045,3.36047
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–PI,NA,NA,NA,GW,BR,2050,3.36053
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–RN,NA,NA,NA,GW,BR,2025,6.66616
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–RN,NA,NA,NA,GW,BR,2030,6.66619
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–RN,NA,NA,NA,GW,BR,2035,19.31382
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–RN,NA,NA,NA,GW,BR,2040,19.31429
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–RN,NA,NA,NA,GW,BR,2045,28.70895
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–RN,NA,NA,NA,GW,BR,2050,37.04577
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–SE,NA,NA,NA,GW,BR,2025,1.0014
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–SE,NA,NA,NA,GW,BR,2030,1.00142
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–SE,NA,NA,NA,GW,BR,2035,1.00143
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–SE,NA,NA,NA,GW,BR,2040,1.00148
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–SE,NA,NA,NA,GW,BR,2045,1.00157
+Energy supply and use,Transmission lines,Subsystem to state,Nordeste–SE,NA,NA,NA,GW,BR,2050,1.00187
+Energy supply and use,Transmission lines,Subsystem to state,Norte–AM,NA,NA,NA,GW,BR,2025,1.19545
+Energy supply and use,Transmission lines,Subsystem to state,Norte–AM,NA,NA,NA,GW,BR,2030,1.36122
+Energy supply and use,Transmission lines,Subsystem to state,Norte–AM,NA,NA,NA,GW,BR,2035,1.50882
+Energy supply and use,Transmission lines,Subsystem to state,Norte–AM,NA,NA,NA,GW,BR,2040,1.6166
+Energy supply and use,Transmission lines,Subsystem to state,Norte–AM,NA,NA,NA,GW,BR,2045,1.92525
+Energy supply and use,Transmission lines,Subsystem to state,Norte–AM,NA,NA,NA,GW,BR,2050,2.25451
+Energy supply and use,Transmission lines,Subsystem to state,Norte–AP,NA,NA,NA,GW,BR,2025,1.00268
+Energy supply and use,Transmission lines,Subsystem to state,Norte–AP,NA,NA,NA,GW,BR,2030,1.00274
+Energy supply and use,Transmission lines,Subsystem to state,Norte–AP,NA,NA,NA,GW,BR,2035,1.00279
+Energy supply and use,Transmission lines,Subsystem to state,Norte–AP,NA,NA,NA,GW,BR,2040,1.00283
+Energy supply and use,Transmission lines,Subsystem to state,Norte–AP,NA,NA,NA,GW,BR,2045,1.00292
+Energy supply and use,Transmission lines,Subsystem to state,Norte–AP,NA,NA,NA,GW,BR,2050,1.00388
+Energy supply and use,Transmission lines,Subsystem to state,Norte–PA,NA,NA,NA,GW,BR,2025,2.00014
+Energy supply and use,Transmission lines,Subsystem to state,Norte–PA,NA,NA,NA,GW,BR,2030,2.32542
+Energy supply and use,Transmission lines,Subsystem to state,Norte–PA,NA,NA,NA,GW,BR,2035,2.6149
+Energy supply and use,Transmission lines,Subsystem to state,Norte–PA,NA,NA,NA,GW,BR,2040,3.12137
+Energy supply and use,Transmission lines,Subsystem to state,Norte–PA,NA,NA,NA,GW,BR,2045,3.68674
+Energy supply and use,Transmission lines,Subsystem to state,Norte–PA,NA,NA,NA,GW,BR,2050,4.33555
+Energy supply and use,Transmission lines,Subsystem to state,Norte–RR,NA,NA,NA,GW,BR,2025,1.00152
+Energy supply and use,Transmission lines,Subsystem to state,Norte–RR,NA,NA,NA,GW,BR,2030,1.00167
+Energy supply and use,Transmission lines,Subsystem to state,Norte–RR,NA,NA,NA,GW,BR,2035,1.00171
+Energy supply and use,Transmission lines,Subsystem to state,Norte–RR,NA,NA,NA,GW,BR,2040,1.00175
+Energy supply and use,Transmission lines,Subsystem to state,Norte–RR,NA,NA,NA,GW,BR,2045,1.00182
+Energy supply and use,Transmission lines,Subsystem to state,Norte–RR,NA,NA,NA,GW,BR,2050,1.00258
+Energy supply and use,Transmission lines,Subsystem to state,Norte–TO,NA,NA,NA,GW,BR,2025,1.00176
+Energy supply and use,Transmission lines,Subsystem to state,Norte–TO,NA,NA,NA,GW,BR,2030,1.00182
+Energy supply and use,Transmission lines,Subsystem to state,Norte–TO,NA,NA,NA,GW,BR,2035,1.00188
+Energy supply and use,Transmission lines,Subsystem to state,Norte–TO,NA,NA,NA,GW,BR,2040,1.00188
+Energy supply and use,Transmission lines,Subsystem to state,Norte–TO,NA,NA,NA,GW,BR,2045,1.00215
+Energy supply and use,Transmission lines,Subsystem to state,Norte–TO,NA,NA,NA,GW,BR,2050,1.00299
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–DF,NA,NA,NA,GW,BR,2025,1.00406
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–DF,NA,NA,NA,GW,BR,2030,1.07536
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–DF,NA,NA,NA,GW,BR,2035,1.40573
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–DF,NA,NA,NA,GW,BR,2040,1.75323
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–DF,NA,NA,NA,GW,BR,2045,2.20915
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–DF,NA,NA,NA,GW,BR,2050,2.63879
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–ES,NA,NA,NA,GW,BR,2025,2.18364
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–ES,NA,NA,NA,GW,BR,2030,2.41421
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–ES,NA,NA,NA,GW,BR,2035,2.72169
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–ES,NA,NA,NA,GW,BR,2040,3.06498
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–ES,NA,NA,NA,GW,BR,2045,3.36849
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–ES,NA,NA,NA,GW,BR,2050,3.82391
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–GO,NA,NA,NA,GW,BR,2025,2.06039
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–GO,NA,NA,NA,GW,BR,2030,2.06046
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–GO,NA,NA,NA,GW,BR,2035,2.43193
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–GO,NA,NA,NA,GW,BR,2040,2.43195
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–GO,NA,NA,NA,GW,BR,2045,2.43199
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–GO,NA,NA,NA,GW,BR,2050,2.43205
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–MG,NA,NA,NA,GW,BR,2025,8.97353
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–MG,NA,NA,NA,GW,BR,2030,9.6699
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–MG,NA,NA,NA,GW,BR,2035,10.90807
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–MG,NA,NA,NA,GW,BR,2040,10.90807
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–MG,NA,NA,NA,GW,BR,2045,10.90812
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–MG,NA,NA,NA,GW,BR,2050,11.92532
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–MS,NA,NA,NA,GW,BR,2025,1.39285
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–MS,NA,NA,NA,GW,BR,2030,1.39287
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–MS,NA,NA,NA,GW,BR,2035,1.39292
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–MS,NA,NA,NA,GW,BR,2040,1.39295
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–MS,NA,NA,NA,GW,BR,2045,1.39313
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–MS,NA,NA,NA,GW,BR,2050,1.46207
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–MT,NA,NA,NA,GW,BR,2025,2.29616
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–MT,NA,NA,NA,GW,BR,2030,2.78587
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–MT,NA,NA,NA,GW,BR,2035,2.78589
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–MT,NA,NA,NA,GW,BR,2040,2.78591
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–MT,NA,NA,NA,GW,BR,2045,2.88703
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–MT,NA,NA,NA,GW,BR,2050,3.5819
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–RJ,NA,NA,NA,GW,BR,2025,4.91719
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–RJ,NA,NA,NA,GW,BR,2030,4.9172
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–RJ,NA,NA,NA,GW,BR,2035,5.75757
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–RJ,NA,NA,NA,GW,BR,2040,6.76836
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–RJ,NA,NA,NA,GW,BR,2045,8.37566
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–RJ,NA,NA,NA,GW,BR,2050,8.90121
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–SP,NA,NA,NA,GW,BR,2025,20.34998
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–SP,NA,NA,NA,GW,BR,2030,24.30391
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–SP,NA,NA,NA,GW,BR,2035,29.42504
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–SP,NA,NA,NA,GW,BR,2040,30.65687
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–SP,NA,NA,NA,GW,BR,2045,32.04596
+Energy supply and use,Transmission lines,Subsystem to state,Sudeste–SP,NA,NA,NA,GW,BR,2050,33.48716
+Energy supply and use,Transmission lines,Subsystem to state,Sul–PR,NA,NA,NA,GW,BR,2025,4.76031
+Energy supply and use,Transmission lines,Subsystem to state,Sul–PR,NA,NA,NA,GW,BR,2030,5.30073
+Energy supply and use,Transmission lines,Subsystem to state,Sul–PR,NA,NA,NA,GW,BR,2035,5.88434
+Energy supply and use,Transmission lines,Subsystem to state,Sul–PR,NA,NA,NA,GW,BR,2040,5.8844
+Energy supply and use,Transmission lines,Subsystem to state,Sul–PR,NA,NA,NA,GW,BR,2045,6.05058
+Energy supply and use,Transmission lines,Subsystem to state,Sul–PR,NA,NA,NA,GW,BR,2050,6.92478
+Energy supply and use,Transmission lines,Subsystem to state,Sul–RS,NA,NA,NA,GW,BR,2025,4.32962
+Energy supply and use,Transmission lines,Subsystem to state,Sul–RS,NA,NA,NA,GW,BR,2030,4.38363
+Energy supply and use,Transmission lines,Subsystem to state,Sul–RS,NA,NA,NA,GW,BR,2035,4.38364
+Energy supply and use,Transmission lines,Subsystem to state,Sul–RS,NA,NA,NA,GW,BR,2040,4.38369
+Energy supply and use,Transmission lines,Subsystem to state,Sul–RS,NA,NA,NA,GW,BR,2045,4.38371
+Energy supply and use,Transmission lines,Subsystem to state,Sul–RS,NA,NA,NA,GW,BR,2050,4.84482
+Energy supply and use,Transmission lines,Subsystem to state,Sul–SC,NA,NA,NA,GW,BR,2025,3.69609
+Energy supply and use,Transmission lines,Subsystem to state,Sul–SC,NA,NA,NA,GW,BR,2030,3.69612
+Energy supply and use,Transmission lines,Subsystem to state,Sul–SC,NA,NA,NA,GW,BR,2035,3.69613
+Energy supply and use,Transmission lines,Subsystem to state,Sul–SC,NA,NA,NA,GW,BR,2040,3.69658
+Energy supply and use,Transmission lines,Subsystem to state,Sul–SC,NA,NA,NA,GW,BR,2045,3.69666
+Energy supply and use,Transmission lines,Subsystem to state,Sul–SC,NA,NA,NA,GW,BR,2050,3.69743
+Energy supply and use,Transmission lines,Interstate,AC–RO,NA,NA,NA,GW,BR,2025,1.00055
+Energy supply and use,Transmission lines,Interstate,AC–RO,NA,NA,NA,GW,BR,2030,1.00064
+Energy supply and use,Transmission lines,Interstate,AC–RO,NA,NA,NA,GW,BR,2035,1.00071
+Energy supply and use,Transmission lines,Interstate,AC–RO,NA,NA,NA,GW,BR,2040,1.00115
+Energy supply and use,Transmission lines,Interstate,AC–RO,NA,NA,NA,GW,BR,2045,1.00115
+Energy supply and use,Transmission lines,Interstate,AC–RO,NA,NA,NA,GW,BR,2050,1.00145
+Energy supply and use,Transmission lines,Interstate,RO–MT,NA,NA,NA,GW,BR,2025,1.00008
+Energy supply and use,Transmission lines,Interstate,RO–MT,NA,NA,NA,GW,BR,2030,1.00011
+Energy supply and use,Transmission lines,Interstate,RO–MT,NA,NA,NA,GW,BR,2035,1.00012
+Energy supply and use,Transmission lines,Interstate,RO–MT,NA,NA,NA,GW,BR,2040,1.10797
+Energy supply and use,Transmission lines,Interstate,RO–MT,NA,NA,NA,GW,BR,2045,1.38368
+Energy supply and use,Transmission lines,Interstate,RO–MT,NA,NA,NA,GW,BR,2050,1.56148

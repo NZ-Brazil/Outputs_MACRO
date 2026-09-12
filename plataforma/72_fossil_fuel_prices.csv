@@ -1,37 +1,37 @@
 Variable_group,Variable name,Class_1,Class_2,Class_3,Class_4,Class_5,Unit,Territory,Year,Value
-Fossil fuels industry,Fossil fuel prices,Energy,Natural gas,N/A,N/A,N/A,US$/boe,BR,2025,61.92048
-Fossil fuels industry,Fossil fuel prices,Energy,Natural gas,N/A,N/A,N/A,US$/boe,BR,2030,56.54182
-Fossil fuels industry,Fossil fuel prices,Energy,Natural gas,N/A,N/A,N/A,US$/boe,BR,2035,51.64164
-Fossil fuels industry,Fossil fuel prices,Energy,Natural gas,N/A,N/A,N/A,US$/boe,BR,2040,47.15393
-Fossil fuels industry,Fossil fuel prices,Energy,Natural gas,N/A,N/A,N/A,US$/boe,BR,2045,43.0622
-Fossil fuels industry,Fossil fuel prices,Energy,Natural gas,N/A,N/A,N/A,US$/boe,BR,2050,39.31694
-Fossil fuels industry,Fossil fuel prices,Energy,Coal (domestic),N/A,N/A,N/A,US$/boe,BR,2025,22.93351
-Fossil fuels industry,Fossil fuel prices,Energy,Coal (domestic),N/A,N/A,N/A,US$/boe,BR,2030,137.58456
-Fossil fuels industry,Fossil fuel prices,Energy,Coal (domestic),N/A,N/A,N/A,US$/boe,BR,2035,21.81158
-Fossil fuels industry,Fossil fuel prices,Energy,Coal (domestic),N/A,N/A,N/A,US$/boe,BR,2040,21.28362
-Fossil fuels industry,Fossil fuel prices,Energy,Coal (domestic),N/A,N/A,N/A,US$/boe,BR,2045,20.75565
-Fossil fuels industry,Fossil fuel prices,Energy,Coal (domestic),N/A,N/A,N/A,US$/boe,BR,2050,20.22769
-Fossil fuels industry,Fossil fuel prices,Energy,Coal (imported),N/A,N/A,N/A,US$/boe,BR,2025,21.84458
-Fossil fuels industry,Fossil fuel prices,Energy,Coal (imported),N/A,N/A,N/A,US$/boe,BR,2030,61.92048
-Fossil fuels industry,Fossil fuel prices,Energy,Coal (imported),N/A,N/A,N/A,US$/boe,BR,2035,30.19304
-Fossil fuels industry,Fossil fuel prices,Energy,Coal (imported),N/A,N/A,N/A,US$/boe,BR,2040,29.45059
-Fossil fuels industry,Fossil fuel prices,Energy,Coal (imported),N/A,N/A,N/A,US$/boe,BR,2045,28.72463
-Fossil fuels industry,Fossil fuel prices,Energy,Coal (imported),N/A,N/A,N/A,US$/boe,BR,2050,28.01518
-Fossil fuels industry,Fossil fuel prices,Energy,Gasoline (fossil),N/A,N/A,N/A,US$/boe,BR,2025,76.27454
-Fossil fuels industry,Fossil fuel prices,Energy,Gasoline (fossil),N/A,N/A,N/A,US$/boe,BR,2030,63.81785
-Fossil fuels industry,Fossil fuel prices,Energy,Gasoline (fossil),N/A,N/A,N/A,US$/boe,BR,2035,53.40703
-Fossil fuels industry,Fossil fuel prices,Energy,Gasoline (fossil),N/A,N/A,N/A,US$/boe,BR,2040,44.69559
-Fossil fuels industry,Fossil fuel prices,Energy,Gasoline (fossil),N/A,N/A,N/A,US$/boe,BR,2045,37.40307
-Fossil fuels industry,Fossil fuel prices,Energy,Gasoline (fossil),N/A,N/A,N/A,US$/boe,BR,2050,31.29847
-Fossil fuels industry,Fossil fuel prices,Energy,Diesel (fossil),N/A,N/A,N/A,US$/boe,BR,2025,98.4491
-Fossil fuels industry,Fossil fuel prices,Energy,Diesel (fossil),N/A,N/A,N/A,US$/boe,BR,2030,85.41495
-Fossil fuels industry,Fossil fuel prices,Energy,Diesel (fossil),N/A,N/A,N/A,US$/boe,BR,2035,74.11318
-Fossil fuels industry,Fossil fuel prices,Energy,Diesel (fossil),N/A,N/A,N/A,US$/boe,BR,2040,64.29632
-Fossil fuels industry,Fossil fuel prices,Energy,Diesel (fossil),N/A,N/A,N/A,US$/boe,BR,2045,55.78287
-Fossil fuels industry,Fossil fuel prices,Energy,Diesel (fossil),N/A,N/A,N/A,US$/boe,BR,2050,48.40785
-Fossil fuels industry,Fossil fuel prices,Energy,Jet fuel (fossil),N/A,N/A,N/A,US$/boe,BR,2025,137.58456
-Fossil fuels industry,Fossil fuel prices,Energy,Jet fuel (fossil),N/A,N/A,N/A,US$/boe,BR,2030,137.58456
-Fossil fuels industry,Fossil fuel prices,Energy,Jet fuel (fossil),N/A,N/A,N/A,US$/boe,BR,2035,112.42369
-Fossil fuels industry,Fossil fuel prices,Energy,Jet fuel (fossil),N/A,N/A,N/A,US$/boe,BR,2040,101.61689
-Fossil fuels industry,Fossil fuel prices,Energy,Jet fuel (fossil),N/A,N/A,N/A,US$/boe,BR,2045,91.84953
-Fossil fuels industry,Fossil fuel prices,Energy,Jet fuel (fossil),N/A,N/A,N/A,US$/boe,BR,2050,83.0226
+Energy supply and use,Fossil fuel prices,Natural gas,NA,NA,NA,NA,US$/boe,BR,2025,61.92048
+Energy supply and use,Fossil fuel prices,Natural gas,NA,NA,NA,NA,US$/boe,BR,2030,56.54182
+Energy supply and use,Fossil fuel prices,Natural gas,NA,NA,NA,NA,US$/boe,BR,2035,51.64164
+Energy supply and use,Fossil fuel prices,Natural gas,NA,NA,NA,NA,US$/boe,BR,2040,47.15393
+Energy supply and use,Fossil fuel prices,Natural gas,NA,NA,NA,NA,US$/boe,BR,2045,43.0622
+Energy supply and use,Fossil fuel prices,Natural gas,NA,NA,NA,NA,US$/boe,BR,2050,39.31694
+Energy supply and use,Fossil fuel prices,Coal (domestic),NA,NA,NA,NA,US$/boe,BR,2025,22.93351
+Energy supply and use,Fossil fuel prices,Coal (domestic),NA,NA,NA,NA,US$/boe,BR,2030,137.58456
+Energy supply and use,Fossil fuel prices,Coal (domestic),NA,NA,NA,NA,US$/boe,BR,2035,21.81158
+Energy supply and use,Fossil fuel prices,Coal (domestic),NA,NA,NA,NA,US$/boe,BR,2040,21.28362
+Energy supply and use,Fossil fuel prices,Coal (domestic),NA,NA,NA,NA,US$/boe,BR,2045,20.75565
+Energy supply and use,Fossil fuel prices,Coal (domestic),NA,NA,NA,NA,US$/boe,BR,2050,20.22769
+Energy supply and use,Fossil fuel prices,Coal (imported),NA,NA,NA,NA,US$/boe,BR,2025,21.84458
+Energy supply and use,Fossil fuel prices,Coal (imported),NA,NA,NA,NA,US$/boe,BR,2030,61.92048
+Energy supply and use,Fossil fuel prices,Coal (imported),NA,NA,NA,NA,US$/boe,BR,2035,30.19304
+Energy supply and use,Fossil fuel prices,Coal (imported),NA,NA,NA,NA,US$/boe,BR,2040,29.45059
+Energy supply and use,Fossil fuel prices,Coal (imported),NA,NA,NA,NA,US$/boe,BR,2045,28.72463
+Energy supply and use,Fossil fuel prices,Coal (imported),NA,NA,NA,NA,US$/boe,BR,2050,28.01518
+Energy supply and use,Fossil fuel prices,Gasoline (fossil),NA,NA,NA,NA,US$/boe,BR,2025,76.27454
+Energy supply and use,Fossil fuel prices,Gasoline (fossil),NA,NA,NA,NA,US$/boe,BR,2030,63.81785
+Energy supply and use,Fossil fuel prices,Gasoline (fossil),NA,NA,NA,NA,US$/boe,BR,2035,53.40703
+Energy supply and use,Fossil fuel prices,Gasoline (fossil),NA,NA,NA,NA,US$/boe,BR,2040,44.69559
+Energy supply and use,Fossil fuel prices,Gasoline (fossil),NA,NA,NA,NA,US$/boe,BR,2045,37.40307
+Energy supply and use,Fossil fuel prices,Gasoline (fossil),NA,NA,NA,NA,US$/boe,BR,2050,31.29847
+Energy supply and use,Fossil fuel prices,Diesel (fossil),NA,NA,NA,NA,US$/boe,BR,2025,98.4491
+Energy supply and use,Fossil fuel prices,Diesel (fossil),NA,NA,NA,NA,US$/boe,BR,2030,85.41495
+Energy supply and use,Fossil fuel prices,Diesel (fossil),NA,NA,NA,NA,US$/boe,BR,2035,74.11318
+Energy supply and use,Fossil fuel prices,Diesel (fossil),NA,NA,NA,NA,US$/boe,BR,2040,64.29632
+Energy supply and use,Fossil fuel prices,Diesel (fossil),NA,NA,NA,NA,US$/boe,BR,2045,55.78287
+Energy supply and use,Fossil fuel prices,Diesel (fossil),NA,NA,NA,NA,US$/boe,BR,2050,48.40785
+Energy supply and use,Fossil fuel prices,Jet fuel (fossil),NA,NA,NA,NA,US$/boe,BR,2025,137.58456
+Energy supply and use,Fossil fuel prices,Jet fuel (fossil),NA,NA,NA,NA,US$/boe,BR,2030,137.58456
+Energy supply and use,Fossil fuel prices,Jet fuel (fossil),NA,NA,NA,NA,US$/boe,BR,2035,112.42369
+Energy supply and use,Fossil fuel prices,Jet fuel (fossil),NA,NA,NA,NA,US$/boe,BR,2040,101.61689
+Energy supply and use,Fossil fuel prices,Jet fuel (fossil),NA,NA,NA,NA,US$/boe,BR,2045,91.84953
+Energy supply and use,Fossil fuel prices,Jet fuel (fossil),NA,NA,NA,NA,US$/boe,BR,2050,83.0226

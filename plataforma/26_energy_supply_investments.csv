@@ -1,133 +1,145 @@
 Variable_group,Variable name,Class_1,Class_2,Class_3,Class_4,Class_5,Unit,Territory,Year,Value
-Economy,Energy supply investments,Energy,Sustainable aviation fuel (alcohol-to-jet),NA,NA,NA,US$,BR,2025,0.0
-Economy,Energy supply investments,Energy,Sustainable aviation fuel (alcohol-to-jet),NA,NA,NA,US$,BR,2030,868137.25248
-Economy,Energy supply investments,Energy,Sustainable aviation fuel (alcohol-to-jet),NA,NA,NA,US$,BR,2035,95057.61629
-Economy,Energy supply investments,Energy,Sustainable aviation fuel (alcohol-to-jet),NA,NA,NA,US$,BR,2040,4838727.37315
-Economy,Energy supply investments,Energy,Sustainable aviation fuel (alcohol-to-jet),NA,NA,NA,US$,BR,2045,20115.25203
-Economy,Energy supply investments,Energy,Sustainable aviation fuel (alcohol-to-jet),NA,NA,NA,US$,BR,2050,11975.57652
-Economy,Energy supply investments,Energy,Charcoal (carbonization),NA,NA,NA,US$,BR,2025,15055980.51478
-Economy,Energy supply investments,Energy,Charcoal (carbonization),NA,NA,NA,US$,BR,2030,276850.35635
-Economy,Energy supply investments,Energy,Charcoal (carbonization),NA,NA,NA,US$,BR,2035,131148.33583
-Economy,Energy supply investments,Energy,Charcoal (carbonization),NA,NA,NA,US$,BR,2040,232548113.36964
-Economy,Energy supply investments,Energy,Charcoal (carbonization),NA,NA,NA,US$,BR,2045,4986423.08113
-Economy,Energy supply investments,Energy,Charcoal (carbonization),NA,NA,NA,US$,BR,2050,41547.50085
-Economy,Energy supply investments,Energy,Biodiesel (FAME),NA,NA,NA,US$,BR,2025,256839457.13466
-Economy,Energy supply investments,Energy,Biodiesel (FAME),NA,NA,NA,US$,BR,2030,61048510.60378
-Economy,Energy supply investments,Energy,Biodiesel (FAME),NA,NA,NA,US$,BR,2035,488816663.80507
-Economy,Energy supply investments,Energy,Biodiesel (FAME),NA,NA,NA,US$,BR,2040,99458852.61044
-Economy,Energy supply investments,Energy,Biodiesel (FAME),NA,NA,NA,US$,BR,2045,30396596.91315
-Economy,Energy supply investments,Energy,Biodiesel (FAME),NA,NA,NA,US$,BR,2050,11251552.9942
-Economy,Energy supply investments,Energy,Bioelectricity (BECCS),NA,NA,NA,US$,BR,2025,10605683885.15262
-Economy,Energy supply investments,Energy,Bioelectricity (BECCS),NA,NA,NA,US$,BR,2030,18016190042.96736
-Economy,Energy supply investments,Energy,Bioelectricity (BECCS),NA,NA,NA,US$,BR,2035,12087980568.91366
-Economy,Energy supply investments,Energy,Bioelectricity (BECCS),NA,NA,NA,US$,BR,2040,12504665467.76413
-Economy,Energy supply investments,Energy,Bioelectricity (BECCS),NA,NA,NA,US$,BR,2045,8728086684.2498
-Economy,Energy supply investments,Energy,Bioelectricity (BECCS),NA,NA,NA,US$,BR,2050,4131784668.34253
-Economy,Energy supply investments,Energy,Ethanol (BECCS),NA,NA,NA,US$,BR,2025,2649077984.52308
-Economy,Energy supply investments,Energy,Ethanol (BECCS),NA,NA,NA,US$,BR,2030,5118098053.0956
-Economy,Energy supply investments,Energy,Ethanol (BECCS),NA,NA,NA,US$,BR,2035,7340342801.32956
-Economy,Energy supply investments,Energy,Ethanol (BECCS),NA,NA,NA,US$,BR,2040,5865837238.16355
-Economy,Energy supply investments,Energy,Ethanol (BECCS),NA,NA,NA,US$,BR,2045,8942342026.72815
-Economy,Energy supply investments,Energy,Ethanol (BECCS),NA,NA,NA,US$,BR,2050,3818390182.15604
-Economy,Energy supply investments,Energy,Hydrogen (biomass gasification),NA,NA,NA,US$,BR,2025,0.0
-Economy,Energy supply investments,Energy,Hydrogen (biomass gasification),NA,NA,NA,US$,BR,2030,0.0
-Economy,Energy supply investments,Energy,Hydrogen (biomass gasification),NA,NA,NA,US$,BR,2035,2190121724.83879
-Economy,Energy supply investments,Energy,Hydrogen (biomass gasification),NA,NA,NA,US$,BR,2040,242012115.6292
-Economy,Energy supply investments,Energy,Hydrogen (biomass gasification),NA,NA,NA,US$,BR,2045,18477428.90412
-Economy,Energy supply investments,Energy,Hydrogen (biomass gasification),NA,NA,NA,US$,BR,2050,133618115.79144
-Economy,Energy supply investments,Energy,Battery storage,NA,NA,NA,US$,BR,2025,1528358288.47313
-Economy,Energy supply investments,Energy,Battery storage,NA,NA,NA,US$,BR,2030,327031902.08478
-Economy,Energy supply investments,Energy,Battery storage,NA,NA,NA,US$,BR,2035,1675920234.93075
-Economy,Energy supply investments,Energy,Battery storage,NA,NA,NA,US$,BR,2040,696333085.67569
-Economy,Energy supply investments,Energy,Battery storage,NA,NA,NA,US$,BR,2045,1363235734.30558
-Economy,Energy supply investments,Energy,Battery storage,NA,NA,NA,US$,BR,2050,391873395.34048
-Economy,Energy supply investments,Energy,Biomethane (biomass gasification),NA,NA,NA,US$,BR,2025,0.0
-Economy,Energy supply investments,Energy,Biomethane (biomass gasification),NA,NA,NA,US$,BR,2030,0.0
-Economy,Energy supply investments,Energy,Biomethane (biomass gasification),NA,NA,NA,US$,BR,2035,15619003.42911
-Economy,Energy supply investments,Energy,Biomethane (biomass gasification),NA,NA,NA,US$,BR,2040,131893172.25843
-Economy,Energy supply investments,Energy,Biomethane (biomass gasification),NA,NA,NA,US$,BR,2045,756030.73248
-Economy,Energy supply investments,Energy,Biomethane (biomass gasification),NA,NA,NA,US$,BR,2050,385744.82313
-Economy,Energy supply investments,Energy,CO2 injection,NA,NA,NA,US$,BR,2025,0.0
-Economy,Energy supply investments,Energy,CO2 injection,NA,NA,NA,US$,BR,2030,10900640.84259
-Economy,Energy supply investments,Energy,CO2 injection,NA,NA,NA,US$,BR,2035,2820636544.78033
-Economy,Energy supply investments,Energy,CO2 injection,NA,NA,NA,US$,BR,2040,9590082435.74377
-Economy,Energy supply investments,Energy,CO2 injection,NA,NA,NA,US$,BR,2045,13215593159.71278
-Economy,Energy supply investments,Energy,CO2 injection,NA,NA,NA,US$,BR,2050,7409234851.31278
-Economy,Energy supply investments,Energy,Hydrogen (electrolysis),NA,NA,NA,US$,BR,2025,0.0
-Economy,Energy supply investments,Energy,Hydrogen (electrolysis),NA,NA,NA,US$,BR,2030,20898256.99666
-Economy,Energy supply investments,Energy,Hydrogen (electrolysis),NA,NA,NA,US$,BR,2035,3939365.71387
-Economy,Energy supply investments,Energy,Hydrogen (electrolysis),NA,NA,NA,US$,BR,2040,93213318.73632
-Economy,Energy supply investments,Energy,Hydrogen (electrolysis),NA,NA,NA,US$,BR,2045,333250.08495
-Economy,Energy supply investments,Energy,Hydrogen (electrolysis),NA,NA,NA,US$,BR,2050,3884412.34246
-Economy,Energy supply investments,Energy,Renewable fuels (Fischer-Tropsch),NA,NA,NA,US$,BR,2025,0.0
-Economy,Energy supply investments,Energy,Renewable fuels (Fischer-Tropsch),NA,NA,NA,US$,BR,2030,0.0
-Economy,Energy supply investments,Energy,Renewable fuels (Fischer-Tropsch),NA,NA,NA,US$,BR,2035,21039665.50411
-Economy,Energy supply investments,Energy,Renewable fuels (Fischer-Tropsch),NA,NA,NA,US$,BR,2040,142860435.48624
-Economy,Energy supply investments,Energy,Renewable fuels (Fischer-Tropsch),NA,NA,NA,US$,BR,2045,241929.5404
-Economy,Energy supply investments,Energy,Renewable fuels (Fischer-Tropsch),NA,NA,NA,US$,BR,2050,260879.54949
-Economy,Energy supply investments,Energy,HEFAv2,NA,NA,NA,US$,BR,2025,60274460.22369
-Economy,Energy supply investments,Energy,HEFAv2,NA,NA,NA,US$,BR,2030,227329641.61135
-Economy,Energy supply investments,Energy,HEFAv2,NA,NA,NA,US$,BR,2035,344943414.06816
-Economy,Energy supply investments,Energy,HEFAv2,NA,NA,NA,US$,BR,2040,123167323.30651
-Economy,Energy supply investments,Energy,HEFAv2,NA,NA,NA,US$,BR,2045,3148436.42163
-Economy,Energy supply investments,Energy,HEFAv2,NA,NA,NA,US$,BR,2050,3345444.92579
-Economy,Energy supply investments,Energy,CO2 pipeline,NA,NA,NA,US$,BR,2025,0.0
-Economy,Energy supply investments,Energy,CO2 pipeline,NA,NA,NA,US$,BR,2030,7540242.83365
-Economy,Energy supply investments,Energy,CO2 pipeline,NA,NA,NA,US$,BR,2035,458897049.91255
-Economy,Energy supply investments,Energy,CO2 pipeline,NA,NA,NA,US$,BR,2040,1137154904.58656
-Economy,Energy supply investments,Energy,CO2 pipeline,NA,NA,NA,US$,BR,2045,1438261095.53462
-Economy,Energy supply investments,Energy,CO2 pipeline,NA,NA,NA,US$,BR,2050,1521689923.06169
-Economy,Energy supply investments,Energy,Electricity transmission (one-way),NA,NA,NA,US$,BR,2025,2127828.28149
-Economy,Energy supply investments,Energy,Electricity transmission (one-way),NA,NA,NA,US$,BR,2030,174058.28232
-Economy,Energy supply investments,Energy,Electricity transmission (one-way),NA,NA,NA,US$,BR,2035,786010.86715
-Economy,Energy supply investments,Energy,Electricity transmission (one-way),NA,NA,NA,US$,BR,2040,17897854.54993
-Economy,Energy supply investments,Energy,Electricity transmission (one-way),NA,NA,NA,US$,BR,2045,14095861.9883
-Economy,Energy supply investments,Energy,Electricity transmission (one-way),NA,NA,NA,US$,BR,2050,40949315.5532
-Economy,Energy supply investments,Energy,Hydrogen (steam methane reforming with CCS),NA,NA,NA,US$,BR,2025,0.0
-Economy,Energy supply investments,Energy,Hydrogen (steam methane reforming with CCS),NA,NA,NA,US$,BR,2030,0.0
-Economy,Energy supply investments,Energy,Hydrogen (steam methane reforming with CCS),NA,NA,NA,US$,BR,2035,10141015.84947
-Economy,Energy supply investments,Energy,Hydrogen (steam methane reforming with CCS),NA,NA,NA,US$,BR,2040,51916574.33497
-Economy,Energy supply investments,Energy,Hydrogen (steam methane reforming with CCS),NA,NA,NA,US$,BR,2045,152976.8712
-Economy,Energy supply investments,Energy,Hydrogen (steam methane reforming with CCS),NA,NA,NA,US$,BR,2050,267956.24983
-Economy,Energy supply investments,Energy,Hydrogen (steam methane reforming),NA,NA,NA,US$,BR,2025,634380268.8619
-Economy,Energy supply investments,Energy,Hydrogen (steam methane reforming),NA,NA,NA,US$,BR,2030,12983944.36233
-Economy,Energy supply investments,Energy,Hydrogen (steam methane reforming),NA,NA,NA,US$,BR,2035,929379.10152
-Economy,Energy supply investments,Energy,Hydrogen (steam methane reforming),NA,NA,NA,US$,BR,2040,28315438.05665
-Economy,Energy supply investments,Energy,Hydrogen (steam methane reforming),NA,NA,NA,US$,BR,2045,146477.73219
-Economy,Energy supply investments,Energy,Hydrogen (steam methane reforming),NA,NA,NA,US$,BR,2050,437559.73955
-Economy,Energy supply investments,Energy,Natural gas power with CCS,NA,NA,NA,US$,BR,2025,0.0
-Economy,Energy supply investments,Energy,Natural gas power with CCS,NA,NA,NA,US$,BR,2030,0.0
-Economy,Energy supply investments,Energy,Natural gas power with CCS,NA,NA,NA,US$,BR,2035,613649.39041
-Economy,Energy supply investments,Energy,Natural gas power with CCS,NA,NA,NA,US$,BR,2040,4661524.15528
-Economy,Energy supply investments,Energy,Natural gas power with CCS,NA,NA,NA,US$,BR,2045,7693.71346
-Economy,Energy supply investments,Energy,Natural gas power with CCS,NA,NA,NA,US$,BR,2050,12638.39484
-Economy,Energy supply investments,Energy,Coal power,NA,NA,NA,US$,BR,2025,424446230.8711
-Economy,Energy supply investments,Energy,Coal power,NA,NA,NA,US$,BR,2030,1268207.09474
-Economy,Energy supply investments,Energy,Coal power,NA,NA,NA,US$,BR,2035,2080952.97952
-Economy,Energy supply investments,Energy,Coal power,NA,NA,NA,US$,BR,2040,120356934.64157
-Economy,Energy supply investments,Energy,Coal power,NA,NA,NA,US$,BR,2045,240663.85427
-Economy,Energy supply investments,Energy,Coal power,NA,NA,NA,US$,BR,2050,177427.6218
-Economy,Energy supply investments,Energy,Hydrogen power,NA,NA,NA,US$,BR,2025,250462527.47396
-Economy,Energy supply investments,Energy,Hydrogen power,NA,NA,NA,US$,BR,2030,2367985.63451
-Economy,Energy supply investments,Energy,Hydrogen power,NA,NA,NA,US$,BR,2035,4940939.01531
-Economy,Energy supply investments,Energy,Hydrogen power,NA,NA,NA,US$,BR,2040,147508630.01476
-Economy,Energy supply investments,Energy,Hydrogen power,NA,NA,NA,US$,BR,2045,560553.62435
-Economy,Energy supply investments,Energy,Hydrogen power,NA,NA,NA,US$,BR,2050,27077550.31551
-Economy,Energy supply investments,Energy,Natural gas power,NA,NA,NA,US$,BR,2025,23202964.40104
-Economy,Energy supply investments,Energy,Natural gas power,NA,NA,NA,US$,BR,2030,62363.87043
-Economy,Energy supply investments,Energy,Natural gas power,NA,NA,NA,US$,BR,2035,126871.21481
-Economy,Energy supply investments,Energy,Natural gas power,NA,NA,NA,US$,BR,2040,7843890.42931
-Economy,Energy supply investments,Energy,Natural gas power,NA,NA,NA,US$,BR,2045,194285585.84406
-Economy,Energy supply investments,Energy,Natural gas power,NA,NA,NA,US$,BR,2050,1856115240.1298
-Economy,Energy supply investments,Energy,Electricity transmission,NA,NA,NA,US$,BR,2025,29577188388.71199
-Economy,Energy supply investments,Energy,Electricity transmission,NA,NA,NA,US$,BR,2030,2089580719.89636
-Economy,Energy supply investments,Energy,Electricity transmission,NA,NA,NA,US$,BR,2035,1971581369.51533
-Economy,Energy supply investments,Energy,Electricity transmission,NA,NA,NA,US$,BR,2040,2085074350.62705
-Economy,Energy supply investments,Energy,Electricity transmission,NA,NA,NA,US$,BR,2045,1746031139.94327
-Economy,Energy supply investments,Energy,Electricity transmission,NA,NA,NA,US$,BR,2050,409686689.11188
-Economy,Energy supply investments,Energy,Solar and wind,NA,NA,NA,US$,BR,2025,543317343.0386
-Economy,Energy supply investments,Energy,Solar and wind,NA,NA,NA,US$,BR,2030,4025854161.48441
-Economy,Energy supply investments,Energy,Solar and wind,NA,NA,NA,US$,BR,2035,8569978019.87163
-Economy,Energy supply investments,Energy,Solar and wind,NA,NA,NA,US$,BR,2040,3738202785.93904
-Economy,Energy supply investments,Energy,Solar and wind,NA,NA,NA,US$,BR,2045,6257140084.50478
-Economy,Energy supply investments,Energy,Solar and wind,NA,NA,NA,US$,BR,2050,2881625897.53664
+Energy supply and use,Energy supply investments,Battery storage,NA,NA,NA,NA,US$,BR,2025,1520691824.35178
+Energy supply and use,Energy supply investments,Battery storage,NA,NA,NA,NA,US$,BR,2030,1596821546.09381
+Energy supply and use,Energy supply investments,Battery storage,NA,NA,NA,NA,US$,BR,2035,1984284494.51287
+Energy supply and use,Energy supply investments,Battery storage,NA,NA,NA,NA,US$,BR,2040,2275670974.34726
+Energy supply and use,Energy supply investments,Battery storage,NA,NA,NA,NA,US$,BR,2045,3253977197.88748
+Energy supply and use,Energy supply investments,Battery storage,NA,NA,NA,NA,US$,BR,2050,1622899938.65563
+Energy supply and use,Energy supply investments,Biodiesel (FAME),NA,NA,NA,NA,US$,BR,2025,121827914.49039
+Energy supply and use,Energy supply investments,Biodiesel (FAME),NA,NA,NA,NA,US$,BR,2030,2389654644.72465
+Energy supply and use,Energy supply investments,Biodiesel (FAME),NA,NA,NA,NA,US$,BR,2035,594606486.48617
+Energy supply and use,Energy supply investments,Biodiesel (FAME),NA,NA,NA,NA,US$,BR,2040,80605030.52116
+Energy supply and use,Energy supply investments,Biodiesel (FAME),NA,NA,NA,NA,US$,BR,2045,43882716.85262
+Energy supply and use,Energy supply investments,Biodiesel (FAME),NA,NA,NA,NA,US$,BR,2050,38748841.02111
+Energy supply and use,Energy supply investments,Bioelectricity,NA,NA,NA,NA,US$,BR,2025,187662999.68018
+Energy supply and use,Energy supply investments,Bioelectricity,NA,NA,NA,NA,US$,BR,2030,7811710497.0429
+Energy supply and use,Energy supply investments,Bioelectricity,NA,NA,NA,NA,US$,BR,2035,2178901996.59703
+Energy supply and use,Energy supply investments,Bioelectricity,NA,NA,NA,NA,US$,BR,2040,8864729712.45296
+Energy supply and use,Energy supply investments,Bioelectricity,NA,NA,NA,NA,US$,BR,2045,2739840627.10478
+Energy supply and use,Energy supply investments,Bioelectricity,NA,NA,NA,NA,US$,BR,2050,2284682727.83221
+Energy supply and use,Energy supply investments,Biomethane (biomass gasification),NA,NA,NA,NA,US$,BR,2025,0.0
+Energy supply and use,Energy supply investments,Biomethane (biomass gasification),NA,NA,NA,NA,US$,BR,2030,3895470.4804
+Energy supply and use,Energy supply investments,Biomethane (biomass gasification),NA,NA,NA,NA,US$,BR,2035,5361446.43791
+Energy supply and use,Energy supply investments,Biomethane (biomass gasification),NA,NA,NA,NA,US$,BR,2040,5301431.62314
+Energy supply and use,Energy supply investments,Biomethane (biomass gasification),NA,NA,NA,NA,US$,BR,2045,5415126.24995
+Energy supply and use,Energy supply investments,Biomethane (biomass gasification),NA,NA,NA,NA,US$,BR,2050,36824317.30279
+Energy supply and use,Energy supply investments,CO2 injection,NA,NA,NA,NA,US$,BR,2025,160552623.38432
+Energy supply and use,Energy supply investments,CO2 injection,NA,NA,NA,NA,US$,BR,2030,625964.8038
+Energy supply and use,Energy supply investments,CO2 injection,NA,NA,NA,NA,US$,BR,2035,24318613894.34616
+Energy supply and use,Energy supply investments,CO2 injection,NA,NA,NA,NA,US$,BR,2040,15045995823.10225
+Energy supply and use,Energy supply investments,CO2 injection,NA,NA,NA,NA,US$,BR,2045,8675401395.12288
+Energy supply and use,Energy supply investments,CO2 injection,NA,NA,NA,NA,US$,BR,2050,5088219036.55164
+Energy supply and use,Energy supply investments,CO2 pipeline,NA,NA,NA,NA,US$,BR,2025,108540309.33265
+Energy supply and use,Energy supply investments,CO2 pipeline,NA,NA,NA,NA,US$,BR,2030,127244.36126
+Energy supply and use,Energy supply investments,CO2 pipeline,NA,NA,NA,NA,US$,BR,2035,3264300761.24345
+Energy supply and use,Energy supply investments,CO2 pipeline,NA,NA,NA,NA,US$,BR,2040,1647951629.23926
+Energy supply and use,Energy supply investments,CO2 pipeline,NA,NA,NA,NA,US$,BR,2045,1613363720.34855
+Energy supply and use,Energy supply investments,CO2 pipeline,NA,NA,NA,NA,US$,BR,2050,902370516.72764
+Energy supply and use,Energy supply investments,Charcoal (carbonization),NA,NA,NA,NA,US$,BR,2025,6421020.94115
+Energy supply and use,Energy supply investments,Charcoal (carbonization),NA,NA,NA,NA,US$,BR,2030,18825.9982
+Energy supply and use,Energy supply investments,Charcoal (carbonization),NA,NA,NA,NA,US$,BR,2035,39046.45735
+Energy supply and use,Energy supply investments,Charcoal (carbonization),NA,NA,NA,NA,US$,BR,2040,119680.40302
+Energy supply and use,Energy supply investments,Charcoal (carbonization),NA,NA,NA,NA,US$,BR,2045,126926.85509
+Energy supply and use,Energy supply investments,Charcoal (carbonization),NA,NA,NA,NA,US$,BR,2050,6354167.34497
+Energy supply and use,Energy supply investments,Coal power,NA,NA,NA,NA,US$,BR,2025,521099360.10418
+Energy supply and use,Energy supply investments,Coal power,NA,NA,NA,NA,US$,BR,2030,394627.99761
+Energy supply and use,Energy supply investments,Coal power,NA,NA,NA,NA,US$,BR,2035,5660259.93639
+Energy supply and use,Energy supply investments,Coal power,NA,NA,NA,NA,US$,BR,2040,1342402.22338
+Energy supply and use,Energy supply investments,Coal power,NA,NA,NA,NA,US$,BR,2045,880689.413
+Energy supply and use,Energy supply investments,Coal power,NA,NA,NA,NA,US$,BR,2050,28327274.63249
+Energy supply and use,Energy supply investments,Direct air capture,NA,NA,NA,NA,US$,BR,2025,6542282.23622
+Energy supply and use,Energy supply investments,Direct air capture,NA,NA,NA,NA,US$,BR,2030,46152236.35013
+Energy supply and use,Energy supply investments,Direct air capture,NA,NA,NA,NA,US$,BR,2035,3142111.28085
+Energy supply and use,Energy supply investments,Direct air capture,NA,NA,NA,NA,US$,BR,2040,4600584.7446
+Energy supply and use,Energy supply investments,Direct air capture,NA,NA,NA,NA,US$,BR,2045,2857736.55118
+Energy supply and use,Energy supply investments,Direct air capture,NA,NA,NA,NA,US$,BR,2050,12111572.40072
+Energy supply and use,Energy supply investments,Electricity transmission,NA,NA,NA,NA,US$,BR,2025,30112465425.582
+Energy supply and use,Energy supply investments,Electricity transmission,NA,NA,NA,NA,US$,BR,2030,5209155399.35153
+Energy supply and use,Energy supply investments,Electricity transmission,NA,NA,NA,NA,US$,BR,2035,8728906051.70182
+Energy supply and use,Energy supply investments,Electricity transmission,NA,NA,NA,NA,US$,BR,2040,1220972686.10316
+Energy supply and use,Energy supply investments,Electricity transmission,NA,NA,NA,NA,US$,BR,2045,2364956909.10463
+Energy supply and use,Energy supply investments,Electricity transmission,NA,NA,NA,NA,US$,BR,2050,1125997946.4277
+Energy supply and use,Energy supply investments,Ethanol,NA,NA,NA,NA,US$,BR,2025,165721460.82121
+Energy supply and use,Energy supply investments,Ethanol,NA,NA,NA,NA,US$,BR,2030,909066.07589
+Energy supply and use,Energy supply investments,Ethanol,NA,NA,NA,NA,US$,BR,2035,9678238667.05982
+Energy supply and use,Energy supply investments,Ethanol,NA,NA,NA,NA,US$,BR,2040,7332771802.76572
+Energy supply and use,Energy supply investments,Ethanol,NA,NA,NA,NA,US$,BR,2045,6056376948.14315
+Energy supply and use,Energy supply investments,Ethanol,NA,NA,NA,NA,US$,BR,2050,5242974388.38332
+Energy supply and use,Energy supply investments,HEFA,NA,NA,NA,NA,US$,BR,2025,0.0
+Energy supply and use,Energy supply investments,HEFA,NA,NA,NA,NA,US$,BR,2030,1923129.05375
+Energy supply and use,Energy supply investments,HEFA,NA,NA,NA,NA,US$,BR,2035,1097324.72503
+Energy supply and use,Energy supply investments,HEFA,NA,NA,NA,NA,US$,BR,2040,654639.72408
+Energy supply and use,Energy supply investments,HEFA,NA,NA,NA,NA,US$,BR,2045,231763.89976
+Energy supply and use,Energy supply investments,HEFA,NA,NA,NA,NA,US$,BR,2050,14764201.60975
+Energy supply and use,Energy supply investments,Hydrogen (biomass gasification),NA,NA,NA,NA,US$,BR,2025,140468330.92414
+Energy supply and use,Energy supply investments,Hydrogen (biomass gasification),NA,NA,NA,NA,US$,BR,2030,225842.38387
+Energy supply and use,Energy supply investments,Hydrogen (biomass gasification),NA,NA,NA,NA,US$,BR,2035,1050336.64117
+Energy supply and use,Energy supply investments,Hydrogen (biomass gasification),NA,NA,NA,NA,US$,BR,2040,1085190.98908
+Energy supply and use,Energy supply investments,Hydrogen (biomass gasification),NA,NA,NA,NA,US$,BR,2045,4395485.0687
+Energy supply and use,Energy supply investments,Hydrogen (biomass gasification),NA,NA,NA,NA,US$,BR,2050,657620808.63678
+Energy supply and use,Energy supply investments,Hydrogen (electrolysis),NA,NA,NA,NA,US$,BR,2025,209802775.52885
+Energy supply and use,Energy supply investments,Hydrogen (electrolysis),NA,NA,NA,NA,US$,BR,2030,330846.86847
+Energy supply and use,Energy supply investments,Hydrogen (electrolysis),NA,NA,NA,NA,US$,BR,2035,27668677.54622
+Energy supply and use,Energy supply investments,Hydrogen (electrolysis),NA,NA,NA,NA,US$,BR,2040,1951760.76887
+Energy supply and use,Energy supply investments,Hydrogen (electrolysis),NA,NA,NA,NA,US$,BR,2045,19695965.52157
+Energy supply and use,Energy supply investments,Hydrogen (electrolysis),NA,NA,NA,NA,US$,BR,2050,25160150.05846
+Energy supply and use,Energy supply investments,Hydrogen (steam methane reforming with CCS),NA,NA,NA,NA,US$,BR,2025,93256769.21537
+Energy supply and use,Energy supply investments,Hydrogen (steam methane reforming with CCS),NA,NA,NA,NA,US$,BR,2030,355191.35175
+Energy supply and use,Energy supply investments,Hydrogen (steam methane reforming with CCS),NA,NA,NA,NA,US$,BR,2035,1662151.34191
+Energy supply and use,Energy supply investments,Hydrogen (steam methane reforming with CCS),NA,NA,NA,NA,US$,BR,2040,799465.41194
+Energy supply and use,Energy supply investments,Hydrogen (steam methane reforming with CCS),NA,NA,NA,NA,US$,BR,2045,459554.54825
+Energy supply and use,Energy supply investments,Hydrogen (steam methane reforming with CCS),NA,NA,NA,NA,US$,BR,2050,11582376.78512
+Energy supply and use,Energy supply investments,Hydrogen (steam methane reforming),NA,NA,NA,NA,US$,BR,2025,568825173.47907
+Energy supply and use,Energy supply investments,Hydrogen (steam methane reforming),NA,NA,NA,NA,US$,BR,2030,2063571.73382
+Energy supply and use,Energy supply investments,Hydrogen (steam methane reforming),NA,NA,NA,NA,US$,BR,2035,3541832.28613
+Energy supply and use,Energy supply investments,Hydrogen (steam methane reforming),NA,NA,NA,NA,US$,BR,2040,4244329.82541
+Energy supply and use,Energy supply investments,Hydrogen (steam methane reforming),NA,NA,NA,NA,US$,BR,2045,538574.66277
+Energy supply and use,Energy supply investments,Hydrogen (steam methane reforming),NA,NA,NA,NA,US$,BR,2050,6689561.11751
+Energy supply and use,Energy supply investments,Hydrogen power,NA,NA,NA,NA,US$,BR,2025,293159235.39712
+Energy supply and use,Energy supply investments,Hydrogen power,NA,NA,NA,NA,US$,BR,2030,632205.47246
+Energy supply and use,Energy supply investments,Hydrogen power,NA,NA,NA,NA,US$,BR,2035,3340165.89181
+Energy supply and use,Energy supply investments,Hydrogen power,NA,NA,NA,NA,US$,BR,2040,1047746.02592
+Energy supply and use,Energy supply investments,Hydrogen power,NA,NA,NA,NA,US$,BR,2045,616699.8387
+Energy supply and use,Energy supply investments,Hydrogen power,NA,NA,NA,NA,US$,BR,2050,46150931.62327
+Energy supply and use,Energy supply investments,Natural gas power,NA,NA,NA,NA,US$,BR,2025,18975844.60355
+Energy supply and use,Energy supply investments,Natural gas power,NA,NA,NA,NA,US$,BR,2030,378055.70038
+Energy supply and use,Energy supply investments,Natural gas power,NA,NA,NA,NA,US$,BR,2035,195781.63411
+Energy supply and use,Energy supply investments,Natural gas power,NA,NA,NA,NA,US$,BR,2040,1764729443.3313
+Energy supply and use,Energy supply investments,Natural gas power,NA,NA,NA,NA,US$,BR,2045,3331078808.55869
+Energy supply and use,Energy supply investments,Natural gas power,NA,NA,NA,NA,US$,BR,2050,2526535238.71724
+Energy supply and use,Energy supply investments,Natural gas power with CCS,NA,NA,NA,NA,US$,BR,2025,8814477.19835
+Energy supply and use,Energy supply investments,Natural gas power with CCS,NA,NA,NA,NA,US$,BR,2030,16965.65331
+Energy supply and use,Energy supply investments,Natural gas power with CCS,NA,NA,NA,NA,US$,BR,2035,33796.07004
+Energy supply and use,Energy supply investments,Natural gas power with CCS,NA,NA,NA,NA,US$,BR,2040,12631.33527
+Energy supply and use,Energy supply investments,Natural gas power with CCS,NA,NA,NA,NA,US$,BR,2045,47206.16859
+Energy supply and use,Energy supply investments,Natural gas power with CCS,NA,NA,NA,NA,US$,BR,2050,1784912.71324
+Energy supply and use,Energy supply investments,Renewable fuels (Fischer-Tropsch),NA,NA,NA,NA,US$,BR,2025,125296955.11707
+Energy supply and use,Energy supply investments,Renewable fuels (Fischer-Tropsch),NA,NA,NA,NA,US$,BR,2030,60857.46639
+Energy supply and use,Energy supply investments,Renewable fuels (Fischer-Tropsch),NA,NA,NA,NA,US$,BR,2035,222871.412
+Energy supply and use,Energy supply investments,Renewable fuels (Fischer-Tropsch),NA,NA,NA,NA,US$,BR,2040,244382.34494
+Energy supply and use,Energy supply investments,Renewable fuels (Fischer-Tropsch),NA,NA,NA,NA,US$,BR,2045,379788.15272
+Energy supply and use,Energy supply investments,Renewable fuels (Fischer-Tropsch),NA,NA,NA,NA,US$,BR,2050,12216533.56866
+Energy supply and use,Energy supply investments,Solar and wind,NA,NA,NA,NA,US$,BR,2025,2254029349.74921
+Energy supply and use,Energy supply investments,Solar and wind,NA,NA,NA,NA,US$,BR,2030,17340112323.88603
+Energy supply and use,Energy supply investments,Solar and wind,NA,NA,NA,NA,US$,BR,2035,20158493087.51113
+Energy supply and use,Energy supply investments,Solar and wind,NA,NA,NA,NA,US$,BR,2040,5861762488.41281
+Energy supply and use,Energy supply investments,Solar and wind,NA,NA,NA,NA,US$,BR,2045,13161573084.77169
+Energy supply and use,Energy supply investments,Solar and wind,NA,NA,NA,NA,US$,BR,2050,5606162177.22412
+Energy supply and use,Energy supply investments,Sustainable aviation fuel (alcohol-to-jet),NA,NA,NA,NA,US$,BR,2025,8983732.63545
+Energy supply and use,Energy supply investments,Sustainable aviation fuel (alcohol-to-jet),NA,NA,NA,NA,US$,BR,2030,190815332.76308
+Energy supply and use,Energy supply investments,Sustainable aviation fuel (alcohol-to-jet),NA,NA,NA,NA,US$,BR,2035,271496169.81593
+Energy supply and use,Energy supply investments,Sustainable aviation fuel (alcohol-to-jet),NA,NA,NA,NA,US$,BR,2040,99782447.72673
+Energy supply and use,Energy supply investments,Sustainable aviation fuel (alcohol-to-jet),NA,NA,NA,NA,US$,BR,2045,9453171.37408
+Energy supply and use,Energy supply investments,Sustainable aviation fuel (alcohol-to-jet),NA,NA,NA,NA,US$,BR,2050,8367952.38059
+Energy supply and use,Energy supply investments,Synthetic liquid fuels (e-fuel),NA,NA,NA,NA,US$,BR,2025,0.0
+Energy supply and use,Energy supply investments,Synthetic liquid fuels (e-fuel),NA,NA,NA,NA,US$,BR,2030,16159069.77987
+Energy supply and use,Energy supply investments,Synthetic liquid fuels (e-fuel),NA,NA,NA,NA,US$,BR,2035,13382103.72807
+Energy supply and use,Energy supply investments,Synthetic liquid fuels (e-fuel),NA,NA,NA,NA,US$,BR,2040,11600355.45566
+Energy supply and use,Energy supply investments,Synthetic liquid fuels (e-fuel),NA,NA,NA,NA,US$,BR,2045,9836145.13497
+Energy supply and use,Energy supply investments,Synthetic liquid fuels (e-fuel),NA,NA,NA,NA,US$,BR,2050,14417655.39827
+Energy supply and use,Energy supply investments,Synthetic methane (e-fuel),NA,NA,NA,NA,US$,BR,2025,0.0
+Energy supply and use,Energy supply investments,Synthetic methane (e-fuel),NA,NA,NA,NA,US$,BR,2030,1409065.55477
+Energy supply and use,Energy supply investments,Synthetic methane (e-fuel),NA,NA,NA,NA,US$,BR,2035,1521493.7667
+Energy supply and use,Energy supply investments,Synthetic methane (e-fuel),NA,NA,NA,NA,US$,BR,2040,1472927.35171
+Energy supply and use,Energy supply investments,Synthetic methane (e-fuel),NA,NA,NA,NA,US$,BR,2045,1360120.54556
+Energy supply and use,Energy supply investments,Synthetic methane (e-fuel),NA,NA,NA,NA,US$,BR,2050,10377429.77491

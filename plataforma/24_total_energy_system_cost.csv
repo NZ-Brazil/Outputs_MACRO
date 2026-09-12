@@ -1,7 +1,7 @@
 Variable_group,Variable name,Class_1,Class_2,Class_3,Class_4,Class_5,Unit,Territory,Year,Value
-Economy,Total energy system cost,Energy,NA,NA,NA,NA,US$,BR,2025,225890847974.02335
-Economy,Total energy system cost,Energy,NA,NA,NA,NA,US$,BR,2030,205277519284.2056
-Economy,Total energy system cost,Energy,NA,NA,NA,NA,US$,BR,2035,205844204682.11734
-Economy,Total energy system cost,Energy,NA,NA,NA,NA,US$,BR,2040,188458219904.47714
-Economy,Total energy system cost,Energy,NA,NA,NA,NA,US$,BR,2045,170584375712.16913
-Economy,Total energy system cost,Energy,NA,NA,NA,NA,US$,BR,2050,132286523071.80124
+Energy supply and use,Total energy system cost,NA,NA,NA,NA,NA,US$,BR,2025,231150252270.48087
+Energy supply and use,Total energy system cost,NA,NA,NA,NA,NA,US$,BR,2030,165087229779.76724
+Energy supply and use,Total energy system cost,NA,NA,NA,NA,NA,US$,BR,2035,193281010411.1651
+Energy supply and use,Total energy system cost,NA,NA,NA,NA,NA,US$,BR,2040,152383222484.21698
+Energy supply and use,Total energy system cost,NA,NA,NA,NA,NA,US$,BR,2045,144183552438.12695
+Energy supply and use,Total energy system cost,NA,NA,NA,NA,NA,US$,BR,2050,117495928397.83678
