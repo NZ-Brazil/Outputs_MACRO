@@ -30,7 +30,11 @@ RESUMO = RESUMOS[65]
 ID    = 65
 NOME  = "Biofuels, synthesized fuels and hydrogen production by technology"
 COL2  = "Variable name"
-GRUPO = "Non-fossil end-use fuels (including biofuels)"
+# Revisão do David (09/09/2026): Variable_group vira "Energy supply and use"
+# (era "Non-fossil end-use fuels (including biofuels)"); o valor antigo migra
+# para a Class_1 (era "Energy") — ver GRUPO_ANTIGO abaixo.
+GRUPO_ANTIGO = "Non-fossil end-use fuels (including biofuels)"
+GRUPO = "Energy supply and use"
 UNIDADE = "GWh"
 FATOR   = 1e-3          # o modelo grava MWh
 SUPORTA_UF = True
@@ -56,10 +60,12 @@ PRODUTO = {
 ROTA = {
     # etanol — 1G / 1G2G / 2G, como na planilha ethanol_flows
     "BECCS_sugarcane_ethanol":          ("Sugarcane",       "1G"),
+    "BECCS_sugarcane_ethanol_existing": ("Sugarcane",       "1G"),
     "BECCS_sugarcane_ethanol_CCS":      ("Sugarcane",       "1G with CCS"),
     "BECCS_1G2G_sugarcane_ethanol":     ("Sugarcane",       "1G2G"),
     "BECCS_1G2G_sugarcane_ethanol_CCS": ("Sugarcane",       "1G2G with CCS"),
     "BECCS_corn_ethanol":               ("Corn",            "1G"),
+    "BECCS_corn_ethanol_existing":      ("Corn",            "1G"),
     "BECCS_corn_ethanol_CCS":           ("Corn",            "1G with CCS"),
     "BECCS_Lignocellulosic_ethanol":    ("Lignocellulosic", "2G"),
     "BECCS_Lignocellulosic_ethanol_CCS":("Lignocellulosic", "2G with CCS"),
@@ -109,7 +115,7 @@ def gerar(root: Path, por_uf: bool = False, **kw):
             if prod is None:
                 continue
             fam = re.sub(r"^BR_[A-Z]{2}_", "", str(r.resource_id))
-            c4, c5 = ROTA.get(fam) or ROTA.get(r.resource_type) or ("N/A", fam)
+            c4, c5 = ROTA.get(fam) or ROTA.get(r.resource_type) or ("NA", fam)
             terr = uf_de(r.resource_id) if por_uf else "BR"
             k = (prod, c4, c5, terr)
             reg.setdefault(k, {}).setdefault(year, 0.0)
@@ -120,7 +126,7 @@ def gerar(root: Path, por_uf: bool = False, **kw):
     for k in sorted(reg, key=lambda x: (ordem.index(x[0]), x[1], x[2], x[3])):
         prod, c4, c5, terr = k
         for year in PERIODS.values():
-            out.append(row(GRUPO, NOME, c1="Energy", c2="Fuel production",
+            out.append(row(GRUPO, NOME, c1=GRUPO_ANTIGO, c2="Fuel production",
                            c3=prod, c4=c4, c5=c5,
                            unit=UNIDADE, territory=terr, year=year,
                            value=round(reg[k].get(year, 0.0) * FATOR, 5)))

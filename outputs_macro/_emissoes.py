@@ -66,19 +66,19 @@ UPSTREAM = {
 # ativos de conversão -> (Class_2, Class_3, Class_4)
 CONVERSAO = {
     "BECCSEthanolv2":       (C2_FUEL, "Ethanol production",  "Ethanol"),
-    "BECCSDieselv2":        (C2_FUEL, "N/A",                 "Biodiesel"),
+    "BECCSDieselv2":        (C2_FUEL, "NA",                 "Biodiesel"),
     "BECCSCharcoal":        (C2_FUEL, "Charcoal production", "Charcoal"),
-    "BECCSHydrogen":        (C2_FUEL, "N/A",                 "Hydrogen"),
-    "BECCSATJ":             (C2_FUEL, "N/A",                 "Sustainable aviation fuel"),
-    "BioGasifSNG":          (C2_FUEL, "N/A",                 "Biomethane"),
-    "FischerTropsch":       (C2_FUEL, "N/A",                 "Renewable diesel"),
-    "HEFA":                 (C2_FUEL, "N/A",                 "Renewable diesel"),
-    "SyntheticLiquidFuels": (C2_FUEL, "N/A",                 "Synthetic liquid fuels"),
-    "SyntheticNaturalGas":  (C2_FUEL, "N/A",                 "Synthetic methane"),
-    "BiomassTransformation":(C2_FUEL, "N/A",                 "Biomass residue handling"),
-    "BiomassTransformation_coprod": (C2_FUEL, "N/A",         "Sugarcane harvesting"),
+    "BECCSHydrogen":        (C2_FUEL, "NA",                 "Hydrogen"),
+    "BECCSATJ":             (C2_FUEL, "NA",                 "Sustainable aviation fuel"),
+    "BioGasifSNG":          (C2_FUEL, "NA",                 "Biomethane"),
+    "FischerTropsch":       (C2_FUEL, "NA",                 "Renewable diesel"),
+    "HEFA":                 (C2_FUEL, "NA",                 "Renewable diesel"),
+    "SyntheticLiquidFuels": (C2_FUEL, "NA",                 "Synthetic liquid fuels"),
+    "SyntheticNaturalGas":  (C2_FUEL, "NA",                 "Synthetic methane"),
+    "BiomassTransformation":(C2_FUEL, "NA",                 "Biomass residue handling"),
+    "BiomassTransformation_coprod": (C2_FUEL, "NA",         "Sugarcane harvesting"),
     "BECCSElectricity":     (C2_ELEC, C3_ELEC,               "Bioelectricity"),
-    "ElectricDAC":          ("Carbon storage", "N/A",        "Direct air capture"),
+    "ElectricDAC":          ("Carbon storage", "NA",        "Direct air capture"),
 }
 
 # geração e conversão fóssil
@@ -87,8 +87,8 @@ FOSSIL_ASSET = {
     "ThermalPowerCCS{NaturalGas}":    (C2_ELEC, C3_ELEC, "Natural gas with CCS"),
     "ThermalPower{Coal}":             (C2_ELEC, C3_ELEC, "Coal"),
     "ThermalPower{Hydrogen}":         (C2_ELEC, C3_ELEC, "Hydrogen"),
-    "ThermalHydrogen{NaturalGas}":    (C2_FUEL, "N/A", "Hydrogen (steam methane reforming)"),
-    "ThermalHydrogenCCS{NaturalGas}": (C2_FUEL, "N/A", "Hydrogen (steam methane reforming with CCS)"),
+    "ThermalHydrogen{NaturalGas}":    (C2_FUEL, "NA", "Hydrogen (steam methane reforming)"),
+    "ThermalHydrogenCCS{NaturalGas}": (C2_FUEL, "NA", "Hydrogen (steam methane reforming with CCS)"),
 }
 
 BIOGENICO = set(CONVERSAO) - {"ElectricDAC"}
@@ -101,6 +101,20 @@ BIOGENICO_CLASS4 = frozenset(
     | {"Residue"})
 
 
+COMBUSTAO_DIRETA = {
+    "HEFAv2": "Sustainable aviation fuel",
+}
+
+
+def _class3_producao(c2, c3, c4):
+    """Revisão do David (09/09/2026): nas linhas de 'Fuel production' sem
+    sub-rota declarada (Class_3 = 'N/A'), Class_3 passa a ser o próprio
+    Class_4 + ' production' — em vez de ficar N/A."""
+    if c2 == C2_FUEL and c3 == "NA":
+        return f"{c4} production"
+    return c3
+
+
 def classificar(resource_type, resource_id, origem_combustivel=None):
     """-> (Class_1, Class_2, Class_3, Class_4, Class_5)"""
     rt = str(resource_type)
@@ -108,15 +122,16 @@ def classificar(resource_type, resource_id, origem_combustivel=None):
     # bloco exógeno: tudo o que o MACRO não modela (indústria, resíduos,
     # agropecuária...). Não cabe num único setor do SEEG.
     if rt == "OneWayTransmissionLink{CO2}":
-        return ("N/A", "N/A", "N/A",
+        return ("NA", "NA", "NA",
                 "Exogenous emissions (not modelled in MACRO)", GAS_FOSSIL)
 
     if rt in FOSSIL_ASSET:
         c2, c3, c4 = FOSSIL_ASSET[rt]
+        c3 = _class3_producao(c2, c3, c4)
         return ("Energy", c2, c3, c4, GAS_FOSSIL)
 
     if rt.startswith("UpstreamEmissions"):
-        c3, c4 = UPSTREAM.get(str(resource_id), ("N/A", "N/A"))
+        c3, c4 = UPSTREAM.get(str(resource_id), ("NA", "NA"))
         return ("Energy", C2_FUEL, c3, c4, GAS_FOSSIL)
 
     if rt == "GeneralFuelsEndUse":
@@ -124,18 +139,29 @@ def classificar(resource_type, resource_id, origem_combustivel=None):
         if no.startswith("residue_BR"):
             fossil, rotulo = False, "Residue"
         else:
-            fossil, rotulo = FONTE_COMBUSTIVEL.get(no, (True, "N/A"))
+            fossil, rotulo = FONTE_COMBUSTIVEL.get(no, (True, "NA"))
         # O MACRO agrega a demanda final: não dá para separar Transportes,
-        # Industrial, Residencial etc. como o SEEG faz. Daí o N/A na Class_2.
-        return ("Energy", "N/A", "N/A", rotulo,
+        # Industrial, Residencial etc. como o SEEG faz. Class_2/Class_3 levam
+        # rótulos genéricos de combustão (revisão do David, 09/09/2026).
+        return ("Energy", "Fuel burning", "Various energy end uses", rotulo,
                 GAS_FOSSIL if fossil else GAS_BIOGENIC)
+
+    # Ativos cuja emissão a equipe pediu para reportar no bloco de queima, com o
+    # rótulo do combustível que eles abastecem, para somar com a linha que já
+    # existe (pedido da equipe, 11/09/2026). O HEFAv2 entrega JetFuel_SAF no
+    # jetfuel_SAF_BR, o mesmo nó que o ATJ abastece; sem esta entrada ele caía
+    # no fallback final e saía com o resource_type cru na Class_4.
+    if rt in COMBUSTAO_DIRETA:
+        return ("Energy", "Fuel burning", "Various energy end uses",
+                COMBUSTAO_DIRETA[rt], GAS_BIOGENIC)
 
     if rt in CONVERSAO:
         c2, c3, c4 = CONVERSAO[rt]
+        c3 = _class3_producao(c2, c3, c4)
         return ("Energy", c2, c3, c4,
                 GAS_BIOGENIC if rt in BIOGENICO else GAS_FOSSIL)
 
-    return ("Energy", "N/A", "N/A", rt, GAS_FOSSIL)
+    return ("Energy", "NA", "NA", rt, GAS_FOSSIL)
 
 
 def origens_combustivel(d):

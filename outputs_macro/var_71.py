@@ -18,7 +18,7 @@ relação com o resultado do MACRO. A CONTA E O GATE DO CENÁRIO C NÃO MUDARAM 
 nada (pedido explícito da equipe, 02/09/2026): o bloco abaixo é bit-a-bit o
 mesmo de antes, inclusive o texto da ressalva. A e B são um bloco novo,
 adicionado ao lado, sempre emitido — não dependem de scenario_config.csv.
-As três linhas de um mesmo ano se distinguem pela Class_3: C continua "N/A"
+As três linhas de um mesmo ano se distinguem pela Class_3: C continua "NA"
 (como sempre foi), A e B saem como "Scenario A" / "Scenario B".
 
 ------------------------------------------------------------------------------
@@ -113,7 +113,7 @@ RESUMO = RESUMOS[71]
 ID    = 71
 NOME  = "Oil production"
 COL2  = "Variable name"
-GRUPO = "Fossil fuels industry"
+GRUPO = "Energy supply and use"    # era "Fossil fuels industry" (11/09/2026)
 UNIDADE = "boe"
 
 # nó de onde sai cada derivado fóssil de uso final
@@ -173,8 +173,9 @@ TRAJETORIA_B_MBD = _trajetoria_b_mbd()
 
 
 def _linhas_cenario(nome_cenario: str, mbd_por_ano: dict) -> list:
-    return [row(GRUPO, NOME, c1="Energy", c2="Oil production",
-                c3=nome_cenario, c4="Crude oil", c5="N/A",
+    # Class_4 "Crude oil" -> "NA" (revisão do David, 09/09/2026).
+    return [row(GRUPO, NOME, c1=nome_cenario, c2="NA",
+                c3="NA", c4="NA", c5="NA",  # classes reorganizadas a pedido da equipe (11/09/2026)
                 unit=UNIDADE, territory="BR", year=year,
                 value=round(mbd_por_ano[year] * 1e6 * DIAS_POR_ANO, 5))
             for year in PERIODS.values()]
@@ -207,22 +208,43 @@ def _mbd(mil_tep: float) -> float:
     return mil_tep * 1e3 / TEP_POR_BOE / DIAS_POR_ANO / 1e6
 
 
+# Mapa option_id (scenario_config.csv, variable_id 32) -> cenário interno
+# desta variável. NÃO É ALFABÉTICO — revisão do David, 09/09/2026: até aqui A
+# e B saíam sempre juntos, independente do scenario_config.csv; agora só o
+# cenário escolhido deve aparecer, os três com o mesmo gate que já valia só
+# para o C. O mapeamento abaixo foi inferido do scenario_config.csv real do
+# caso (variable_id 32, option_id 'a', option_label "Current policies" ->
+# aqui é o "Scenario B"), cruzado com o gate 'c' == Domestic market only que
+# já existia. CONFERIR COM A EQUIPE/DAVID se as opções do card 32 mudarem —
+# nada no scenario_config.csv diz o rótulo das opções NÃO escolhidas.
+OPCAO_CENARIO = {
+    "b": "Scenario A",   # Expansion
+    "a": "Scenario B",   # Current policies
+    "c": "Scenario C",   # Domestic market only
+}
+
+
 def gerar(root: Path, cenario: str | None = None, **kw):
     out = []
 
-    # --- cenário C: cálculo e gate idênticos aos de antes de 02/09/2026 ----
     opcao = (cenario or cenario_32(root) or "").lower()
-    if opcao == "c":
+    selecionado = OPCAO_CENARIO.get(opcao)
+
+    # --- cenário C: cálculo idêntico ao de antes de 02/09/2026 -------------
+    if selecionado == "Scenario C":
         calc = _calcular_cenario_c(root)
         for year, d in calc.items():
-            out.append(row(GRUPO, NOME, c1="Energy", c2="Oil production",
-                           c3="N/A", c4="Crude oil", c5="N/A",
+            out.append(row(GRUPO, NOME, c1="NA", c2="NA",
+                           c3="NA", c4="NA", c5="NA",  # classes reorganizadas a pedido da equipe (11/09/2026)
                            unit=UNIDADE, territory="BR", year=year,
                            value=round(d["oil_mil_tep"] * 1e3 / TEP_POR_BOE, 5)))
 
-    # --- cenários A e B: sempre emitidos, não dependem do card 32 ----------
-    out += _linhas_cenario("Scenario A", TRAJETORIA_A_MBD)
-    out += _linhas_cenario("Scenario B", TRAJETORIA_B_MBD)
+    # --- cenários A e B: agora também condicionais ao card 32 (revisão do
+    # David, 09/09/2026 — antes saíam sempre, juntos) ------------------------
+    elif selecionado == "Scenario A":
+        out += _linhas_cenario("Scenario A", TRAJETORIA_A_MBD)
+    elif selecionado == "Scenario B":
+        out += _linhas_cenario("Scenario B", TRAJETORIA_B_MBD)
 
     return out
 

@@ -29,10 +29,17 @@ NOTA  = NOTAS[66]
 RESUMO  = RESUMOS[66]
 
 ID    = 66
-NOME  = "Installed capacity by type"
+NOME  = "Power installed capacity"    # era "Installed capacity by type" (revisão do David, 09/09/2026)
 COL2  = "Variable name"
-GRUPO = "Power"
-CLASS_ESPACIAL = 3   # bacia migra para Class_3; ver comum.padronizar_territorio
+GRUPO = "Energy supply and use"    # era "Power" (pedido da equipe, 11/09/2026)
+# Bacia na Class_3, sobrescrevendo o rótulo fixo "Electricity generation
+# (public service)" só nas linhas de hidrelétrica; Class_4 e Class_5 ficam
+# "NA". Pedido explícito da equipe em 12/09/2026, depois de olhar a saída: em
+# 11/09 eu tinha movido para Class_4 justamente para preservar o rótulo, mas a
+# equipe prefere a bacia na Class_3. ATENÇÃO: a id 68 (Power generation by
+# type) trata as MESMAS hidrelétricas e continua com a bacia na Class_4 — a
+# equipe conferiu e manteve. Ver comum.padronizar_territorio.
+CLASS_ESPACIAL = 3
 UNIDADE = "GW"
 FATOR   = 1e-3          # o modelo grava MW
 SUPORTA_UF = True
@@ -67,7 +74,10 @@ def gerar(root: Path, por_uf: bool = False, **kw):
     out = []
     for c4, c5, terr in sorted(reg):
         for year in PERIODS.values():
-            out.append(row(GRUPO, NOME, c1="Energy", c2=C2, c3=C3, c4=c4, c5=c5,
+            # Revisão do David (09/09/2026): Class_1 vira a tecnologia (era
+            # Class_4), Class_2 vira o detalhe (era Class_5), e Class_5 em si
+            # vira "NA". Class_4 continua igual (fica repetido com Class_1).
+            out.append(row(GRUPO, NOME, c1=c4, c2=c5, c3=C3, c4="NA", c5="NA",  # classes reorganizadas a pedido da equipe (11/09/2026)
                            unit=UNIDADE, territory=terr, year=year,
                            value=round(reg[(c4, c5, terr)].get(year, 0.0) * FATOR, 5)))
     return out

@@ -32,7 +32,7 @@ NOTA  = NOTAS[74]
 RESUMO  = RESUMOS[74]
 
 ID    = 74
-NOME  = "CO2 transport"
+NOME  = "CO2 transport pipelines"    # era "CO2 transport" (revisão do David, 09/09/2026)
 COL2  = "Variable name"
 UNIDADE = "km"
 
@@ -60,8 +60,8 @@ def gerar(root: Path, inputs: Path | None = None, **kw):
     out = []
     for uf, bacia in sorted(reg, key=lambda x: (x[1], x[0])):
         for year in PERIODS.values():
-            out.append(row(GRUPO, NOME, c1="Energy", c2=C2, c3=bacia,
-                           c4="N/A", c5="Pipeline",
+            out.append(row(GRUPO, NOME, c1=bacia, c2="NA", c3="NA",
+                           c4="NA", c5="NA",  # classes reorganizadas a pedido da equipe (11/09/2026)
                            unit=UNIDADE, territory=uf, year=year,
                            value=round(reg[(uf, bacia)].get(year, 0.0), 5)))
     return out

@@ -78,17 +78,21 @@ def gerar(root: Path, **kw):
         for r in rem.itertuples():
             c3, c4 = conversao(r.resource_id, r.resource_type)
             com = principal.get(r.resource_id, "CO2")   # sem entrada: DAC
-            c1, c2 = FEEDSTOCK.get(com, ("N/A", str(com)))
-            k = (c1, c2, c3, c4)
+            familia, c2 = FEEDSTOCK.get(com, ("NA", str(com)))
+            k = (familia, c2, c3, c4)
             reg.setdefault(k, {}).setdefault(year, 0.0)
             reg[k][year] += -float(r.value)
 
-    ordem = {"Primary crops": 0, "Herbaceous residues": 1, "Woody biomass": 2, "N/A": 3}
+    # Class_1 sempre "Energy" (revisão do David, 09/09/2026, como no resto da
+    # plataforma) — a família de matéria-prima (Primary crops/Herbaceous
+    # residues/Woody biomass) some da Class_1, mas segue orientando a ordem
+    # de saída das linhas.
+    ordem = {"Primary crops": 0, "Herbaceous residues": 1, "Woody biomass": 2, "NA": 3}
     out = []
     for k in sorted(reg, key=lambda x: (ordem.get(x[0], 9), x[1], x[2], x[3])):
-        c1, c2, c3, c4 = k
+        familia, c2, c3, c4 = k
         for year in PERIODS.values():
-            out.append(row(E.GRUPO, VALOR_COL2, c1=c1, c2=c2, c3=c3, c4=c4,
+            out.append(row(E.GRUPO, VALOR_COL2, c1="Energy", c2=c2, c3=c3, c4=c4,
                            c5=E.GAS,
                            unit=E.UNIDADE, territory="BR", year=year,
                            value=round(-reg[k].get(year, 0.0) * E.FATOR, 5)))

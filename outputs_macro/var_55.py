@@ -121,12 +121,12 @@ def pci_mwh_t(rotulo):
 FONTES = [
     # diesel, gasolina e querosene NÃO entram aqui: são derivados, não energia
     # primária. Viram uma linha só de Crude oil, ver PETROLEO logo abaixo.
-    (r"natgas_fossil_BR$",   NREN, "Natural gas",  "N/A",      "GWh", 1e-3, False),
+    (r"natgas_fossil_BR$",   NREN, "Natural gas",  "NA",      "GWh", 1e-3, False),
     # nacional e importado somados: o BEN não separa na matriz e a plataforma
     # não pediu a origem. Os nós continuam dois no modelo.
-    (r"coal_BR$",            NREN, "Mineral coal", "N/A",      "GWh", 1e-3, False),
-    (r"coal_imported$",      NREN, "Mineral coal", "N/A",      "GWh", 1e-3, False),
-    (r"uranium_BR$",         NREN, "Uranium",      "N/A",      "GWh", 1e-3, False),
+    (r"coal_BR$",            NREN, "Mineral coal", "NA",      "GWh", 1e-3, False),
+    (r"coal_imported$",      NREN, "Mineral coal", "NA",      "GWh", 1e-3, False),
+    (r"uranium_BR$",         NREN, "Uranium",      "NA",      "GWh", 1e-3, False),
     (r"sugarcane_BR(_[A-Z]{2})?$",        REN, "Sugarcane biomass",     "Sugarcane",           "Mt", 1e-6, True),
     # a palha de cana NÃO entra. O nó sugarcanestraw_BR tem saldo ZERO por
     # construção: a palha chega nele pela aresta de coproduto do colhedor, que
@@ -208,7 +208,7 @@ def gerar(root: Path, por_uf: bool = False, **kw):
             bruto = max((sum(val for no, val in s.items() if re.match(pat, str(no)))
                          / rend)
                         for pat, (_rot, rend) in PETROLEO.items())
-            por((NREN, C2_PETROLEO, "N/A", "GWh", "BR"), year, bruto * 1e-3)
+            por((NREN, C2_PETROLEO, "NA", "GWh", "BR"), year, bruto * 1e-3)
 
         d = fluxos(root, p)
 
@@ -225,11 +225,11 @@ def gerar(root: Path, por_uf: bool = False, **kw):
                 if not str(no).startswith("hydro_source_"):
                     continue
                 b = bacia(str(no)[len("hydro_source_"):])
-                por((REN, "Hydraulic", "N/A", "GWh", b), year, val * 1e-3)
+                por((REN, "Hydraulic", "NA", "GWh", b), year, val * 1e-3)
             ror = d[(d.resource_type == "MustRun") & (d.value > 0)]
             for r in ror.itertuples():
                 b = bacia_de_id(r.resource_id)
-                por((REN, "Hydraulic", "N/A", "GWh", b), year, float(r.value) * 1e-3)
+                por((REN, "Hydraulic", "NA", "GWh", b), year, float(r.value) * 1e-3)
 
         # solar e eólica: energia primária = geração (conteúdo físico, como o BEN)
         v = d[(d.resource_type == "VRE{Generic}") & (d.value > 0)]
@@ -255,7 +255,7 @@ def gerar(root: Path, por_uf: bool = False, **kw):
                 v, un_out = v * 1e6 * pci * 1e-3, "GWh"
             else:
                 un_out = un
-            out.append(row(GRUPO, NOME, c1=c1, c2=c2, c3=c3, c4="N/A", c5="N/A",
+            out.append(row(GRUPO, NOME, c1=c1, c2=c2, c3=c3, c4="NA", c5="NA",
                            unit=un_out, territory=terr, year=year,
                            value=round(v, 5)))
     return out

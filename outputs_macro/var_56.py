@@ -50,6 +50,9 @@ GRUPO = "Energy supply and use"
 UNIDADE = "GWh"
 FATOR   = 1e-3
 
+# Rótulo que ocupa Class_1, Class_2 e Class_3 (pedido da equipe, 12/09/2026).
+USO_FINAL = "Various energy end uses"
+
 SUPORTA_UF = True
 
 # Nó estadual: <portador>_BR_<UF>. Não vale testar só _<UF> no fim, porque
@@ -100,8 +103,11 @@ def gerar(root: Path, por_uf: bool = False, **kw):
     out = []
     for c4, terr in sorted(reg):
         for year in PERIODS.values():
-            out.append(row(GRUPO, NOME, c1="Energy", c2="N/A", c3="N/A",
-                           c4=c4, c5="N/A",
+            # Class_1, Class_2 e Class_3 repetem "Various energy end uses"
+            # (pedido da equipe, 12/09/2026 — antes eram "Energy", "NA" e o
+            # rótulo). Class_4 continua com o combustível.
+            out.append(row(GRUPO, NOME, c1=USO_FINAL, c2=USO_FINAL, c3=USO_FINAL,
+                           c4=c4, c5="NA",
                            unit=UNIDADE, territory=terr, year=year,
                            value=round(reg[(c4, terr)].get(year, 0.0), 5)))
     return out

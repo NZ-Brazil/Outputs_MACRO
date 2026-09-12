@@ -45,12 +45,14 @@ def gerar(root: Path, **kw):
             nacional[year] = nacional.get(year, 0.0) - float(r.value)
 
     def linhas(terr, bacia, serie):
-        return [row(GRUPO, NOME, c1="Energy", c2=C2, c3=bacia, c4="N/A", c5="N/A",
+        # Class_1 vira a bacia (era Class_3; "NA" na linha nacional), e
+        # Class_5 vira "NA" (revisão do David, 09/09/2026).
+        return [row(GRUPO, NOME, c1=bacia, c2="NA", c3="NA", c4="NA", c5="NA",  # classes reorganizadas a pedido da equipe (11/09/2026)
                     unit=UNIDADE, territory=terr, year=year,
                     value=round(serie.get(year, 0.0) * FATOR, 5))
                 for year in PERIODS.values()]
 
-    out = linhas("BR", "N/A", nacional)                 # total nacional
+    out = linhas("BR", "NA", nacional)                 # total nacional
     for uf, bacia in sorted(reg, key=lambda x: (x[1], x[0])):
         out += linhas(uf, bacia, reg[(uf, bacia)])
     return out

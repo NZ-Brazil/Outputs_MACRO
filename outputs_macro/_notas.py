@@ -26,16 +26,32 @@ coluna:
     bacia sedimentar         ids 73, 74
     'Não Alocado'            id 65
 
-REGRA ADOTADA: o recorte que não é UF passa para a Class_3 (comum.CLASS_ESPACIAL
-em cada var_<id>.py) e o Territory da linha vira BR, via comum.padronizar_territorio.
-Onde as cinco Class já estavam ocupadas, a linha sai do entregável — a linha
-nacional continua contando o valor dela.
+REGRA ADOTADA: o recorte que não é UF passa para a Class declarada em
+CLASS_ESPACIAL no var_<id>.py e o Territory da linha vira BR, via
+comum.padronizar_territorio. Onde as cinco Class já estavam ocupadas, a linha
+sai do entregável — a linha nacional continua contando o valor dela.
 
-    ids 55, 70, 73, 74   Class_3 estava vazia. Nada se perde.
-    ids 66, 68           Class_3 era a constante 'Electricity generation
-                         (public service)' em TODAS as linhas do arquivo, já
-                         implícita na Class_2, e por isso não carregava
-                         informação. Só as linhas de bacia foram sobrescritas.
+Qual Class recebe o recorte mudou com a reorganização de classes pedida pela
+equipe em 11/09/2026, porque ela ocupou slots que antes estavam livres:
+
+    id 55                Class_3 (bacia). Não mudou: a id 55 não entrou na
+                         reorganização e a Class_3 dela continua vazia.
+    id 66                Class_3 (bacia), por pedido da equipe (12/09/2026).
+                         A bacia sobrescreve o rótulo fixo 'Electricity
+                         generation (public service)' nas linhas de
+                         hidrelétrica; Class_4 e Class_5 ficam 'NA'.
+    id 68                Class_4 (bacia) — era Class_3. Aqui a Class_3 guarda
+                         o rótulo fixo e a bacia vai para o primeiro slot
+                         livre. As duas variáveis tratam as MESMAS
+                         hidrelétricas com convenções diferentes: a equipe
+                         conferiu a saída em 12/09/2026 e manteve assim.
+    id 70                Class_2 (corredor) — era Class_3. O nome do corredor
+                         já é escrito em Class_2 pelo próprio gerar(), então a
+                         migração aponta para o mesmo slot e só reescreve o
+                         valor que já está lá; Class_3 fica 'NA'.
+    ids 73, 74           sem CLASS_ESPACIAL: a bacia sedimentar é escrita
+                         direto em Class_1 por gerar(), e o Territory dessas
+                         linhas já é UF.
     id 65                sem coluna livre. As 12 linhas de 'Não Alocado'
                          saíram do recorte espacial — são os dois ativos
                          NACIONAIS da rota Alcohol-to-jet (BR_ATJ_ethanol e
@@ -851,7 +867,7 @@ Para todos os outros produtos a soma das UFs bate com a linha BR na terceira
 casa.
 """
 
-NOTAS[66] = """id 66 — Installed capacity by type
+NOTAS[66] = """id 66 — Power installed capacity (era "Installed capacity by type"; renomeada a pedido do David, 09/09/2026)
 
 'capacity' é ESTOQUE, não adição: conferido nos seis períodos que
 capacity(t) = capacity(t-1) + new_capacity - retired_capacity, sem resíduo.
@@ -1049,20 +1065,28 @@ NOTAS[71] = """id 71 — Oil production
 
 O card 32 oferece três cenários de produção de petróleo. Até 02/09/2026 só o
 C saía desta variável — em A (Expansion, PNE 2050) e B (Current policies, PDE
-2034) a trajetória é exógena e quem reportava era o EnergyPathways. A partir
-de 02/09/2026 a equipe pediu para os três saírem juntos daqui: A e B como
-trajetórias fixas dadas por eles (não usam nenhum resultado do MACRO), C
-como antes — consequência da demanda que o MACRO otimiza. A variável lê a
-opção do card no scenario_config.csv do caso e só emite a linha de C quando
-ela é 'c'; A e B saem sempre, em qualquer opção (ou até sem o arquivo). Cada
-cenário tem sua própria linha por ano, distinguidos pela Class_3: C continua
-'N/A' (como sempre foi, não mudou), A e B saem como 'Scenario A' / 'Scenario B'.
+2034) a trajetória é exógena e quem reportava era o EnergyPathways. Em
+02/09/2026 a equipe pediu para os três saírem juntos daqui, com A e B sempre
+emitidos (independente da opção escolhida no card 32) e só o C condicionado
+a ela. Revisão do David em 09/09/2026: isso estava errado — a variável deve
+mostrar SÓ o cenário selecionado no scenario_config.csv, os três com o mesmo
+gate. Desde então A, B e C são igualmente condicionais à opção do card 32; a
+variável não emite nenhuma linha quando não há scenario_config.csv ou a
+opção não é reconhecida. Cada cenário tem sua própria linha por ano,
+distinguidos pela Class_3: C continua 'N/A' (como sempre foi), A e B saem
+como 'Scenario A' / 'Scenario B'.
 
-Isso não contradiz o princípio de não filtrar output por cenário. Nas outras
-variáveis o modelo produz o número em qualquer opção, e filtrar faria o output
-divergir do modelo. Aqui o MACRO só produz produção de petróleo em C — o
-cálculo desse cenário é pós-processamento nosso; A e B são dado externo puro,
-sem relação com o MACRO, e por isso não fazem sentido filtrados por opção.
+MAPA option_id -> cenário NÃO É ALFABÉTICO. O scenario_config.csv real do
+caso traz variable_id 32, option_id 'a', option_label "Current policies" —
+isto é, a opção 'a' corresponde ao que esta variável chama de "Scenario B",
+não "Scenario A" como a ordem alfabética sugeriria. Cruzando com o gate 'c'
+== Domestic market only que já existia (não mexido nesta revisão), o mapa
+inferido e implementado é: 'b' -> Scenario A (Expansion), 'a' -> Scenario B
+(Current policies), 'c' -> Scenario C (Domestic market only). O
+scenario_config.csv só registra a opção ESCOLHIDA de cada variável (não a
+lista completa de opções), então não há como confirmar 'b' -> Expansion
+direto do arquivo — é inferência por eliminação. CONFERIR COM A EQUIPE/DAVID
+se o card 32 for revisado.
 
 CENÁRIO C — A ROTA É POR VOLUME, NÃO POR CO2 (mudou em 02/09/2026, mantida sem
 alteração nesta atualização de A/B). A versão anterior do
@@ -1268,7 +1292,7 @@ eletricidade 19,4, BECCS de hidrogênio 2,9, hidrogênio SMR com CCS 0,1, captur
 direta do ar 0,1. É biogênico em 99,97%.
 """
 
-NOTAS[74] = """id 74 — CO2 transport (km de duto), por bacia sedimentar
+NOTAS[74] = """id 74 — CO2 transport pipelines (km de duto), por bacia sedimentar (era "CO2 transport"; renomeada a pedido do David, 09/09/2026)
 
 TERRITORY = UF E A BACIA DE DESTINO NA CLASS_3, como na id 73 (02/09/2026;
 antes a bacia ocupava o Territory e a UF era descartada). Class_4 fica N/A e a

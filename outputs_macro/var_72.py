@@ -24,7 +24,7 @@ RESUMO  = RESUMOS[72]
 ID    = 72
 NOME  = "Fossil fuel prices"
 COL2  = "Variable name"
-GRUPO = "Fossil fuels industry"
+GRUPO = "Energy supply and use"    # era "Fossil fuels industry" (11/09/2026)
 UNIDADE = "US$/boe"
 # 1 MWh = 0,6061 boe  =>  preço em US$/boe = preço em US$/MWh / 0,6061
 BOE_POR_MWH = 0.6061
@@ -55,8 +55,10 @@ def gerar(root: Path, inputs: Path | None = None, **kw):
         if col not in serie:
             continue
         for year in PERIODS.values():
-            out.append(row(GRUPO, NOME, c1="Energy", c2=COMBUSTIVEL[col],
-                           c3="N/A", c4="N/A", c5="N/A",
+            # Class_1 vira o combustível (era Class_2), Class_2 vira "NA"
+            # (revisão do David, 09/09/2026).
+            out.append(row(GRUPO, NOME, c1=COMBUSTIVEL[col], c2="NA",
+                           c3="NA", c4="NA", c5="NA",
                            unit=UNIDADE, territory="BR", year=year,
                            value=round(serie[col].get(year, 0.0) / BOE_POR_MWH, 5)))
     return out

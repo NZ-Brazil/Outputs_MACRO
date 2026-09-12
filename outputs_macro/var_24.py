@@ -19,7 +19,7 @@ RESUMO  = RESUMOS[24]
 ID    = 24
 NOME  = "Total energy system cost"
 COL2  = "Variable name"
-GRUPO = "Economy"
+GRUPO = "Energy supply and use"    # era "Economy" (revisão do David, 09/09/2026)
 UNIDADE = "US$"
 
 SUPRIMENTO_FOSSIL = ["Node{MacroEnergy.Gasoline}",
@@ -34,6 +34,6 @@ def gerar(root: Path, **kw):
         v = sum(g.get(("Total", c), 0.0)
                 for c in ("Investment", "FixedOM", "VariableOM", "Supply"))
         v -= sum(g.get((t, "Supply"), 0.0) for t in SUPRIMENTO_FOSSIL)
-        out.append(row(GRUPO, NOME, c1="Energy", unit=UNIDADE, territory="BR",
+        out.append(row(GRUPO, NOME, c1="NA", unit=UNIDADE, territory="BR",
                        year=year, value=round(v, 5)))
     return out

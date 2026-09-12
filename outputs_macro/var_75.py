@@ -34,20 +34,22 @@ RESUMO = RESUMOS[75]
 ID    = 75
 NOME  = "Capex"
 COL2  = "Variable name"
-GRUPO = "Economy"
+GRUPO = "Energy supply and use"    # era "Economy" (revisão do David, 09/09/2026)
 UNIDADE = "US$"
 
 
 def gerar(root: Path, **kw):
     capex_por_ano = {year: capex_periodo(root, p) for p, year in PERIODS.items()}
 
-    out = [row(GRUPO, NOME, c1="Energy", c2="CAPEX",
+    # Class_1 vira o mesmo rótulo da Class_2 ("CAPEX"/"Total Investment
+    # Cost"), em vez de "Energy" (revisão do David, 09/09/2026).
+    out = [row(GRUPO, NOME, c1="CAPEX", c2="NA",  # classes reorganizadas a pedido da equipe (11/09/2026)
                unit=UNIDADE, territory="BR", year=year,
                value=round(v, 5))
            for year, v in capex_por_ano.items()]
 
     total = sum(capex_por_ano.values())
-    out.append(row(GRUPO, NOME, c1="Energy", c2="Total Investment Cost",
+    out.append(row(GRUPO, NOME, c1="Total Investment Cost", c2="NA",  # classes reorganizadas a pedido da equipe (11/09/2026)
                    unit=UNIDADE, territory="BR", year=2025,
                    value=round(total, 5)))
     return out

@@ -30,5 +30,5 @@ def de_duto(rid):
     """BR_MS_CO2_Pipeline_Parana -> ('MS', 'Paraná')"""
     m = re.match(r"BR_([A-Z]{2})_CO2_Pipeline_(.+)$", str(rid))
     if not m:
-        return "BR", "N/A"
+        return "BR", "NA"
     return m.group(1), _rotulo(m.group(2))

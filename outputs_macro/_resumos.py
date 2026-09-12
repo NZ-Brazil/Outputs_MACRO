@@ -147,15 +147,16 @@ RESUMOS[70] = (
 )
 
 RESUMOS[71] = (
-    "Produção de petróleo bruto nos três cenários do card 32, uma linha por "
-    "ano e por cenário (Class_3). No C (mercado interno), calculada como o "
-    "cru que a refinaria precisa processar para atender a demanda de diesel, "
-    "gasolina e querosene fóssil que o MACRO otimiza, tomando o derivado mais "
-    "exigente e os rendimentos de refino da equipe — só emite linha quando o "
-    "card 32 está em 'c'. Em A (Expansion) e B (Current policies) a "
-    "trajetória é fixa, dada pela equipe (pico e platô ou declínio "
-    "geométrico), sem relação com o resultado do MACRO — por isso saem "
-    "sempre, em qualquer opção do card."
+    "Produção de petróleo bruto no cenário do card 32 selecionado no "
+    "scenario_config.csv do caso, uma linha por ano (Class_3 identifica o "
+    "cenário). Em C (mercado interno), calculada como o cru que a refinaria "
+    "precisa processar para atender a demanda de diesel, gasolina e "
+    "querosene fóssil que o MACRO otimiza, tomando o derivado mais exigente "
+    "e os rendimentos de refino da equipe. Em A (Expansion) e B (Current "
+    "policies) a trajetória é fixa, dada pela equipe (pico e platô ou "
+    "declínio geométrico), sem relação com o resultado do MACRO. Só emite "
+    "linha para o cenário efetivamente escolhido no card — revisão do "
+    "David, 09/09/2026; antes A e B saíam sempre, independente da opção."
 )
 
 RESUMOS[72] = (

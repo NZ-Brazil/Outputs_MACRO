@@ -47,7 +47,7 @@ RESUMO = RESUMOS[27]
 ID    = 27
 NOME  = "Demand side energy capital"
 COL2  = "Variable name"
-GRUPO = "Economy"
+GRUPO = "Energy supply and use"    # era "Economy" (revisão do David, 09/09/2026)
 UNIDADE = "US$"
 
 # type do costs_by_type -> Class_4 (portador), na mesma nomenclatura da id 56
@@ -77,8 +77,11 @@ def gerar(root: Path, **kw):
     out = []
     for c4 in [TOTAL] + [c for _, c in NOS]:
         for year in PERIODS.values():
-            out.append(row(GRUPO, NOME, c1="Energy", c2="N/A", c3="N/A",
-                           c4=c4, c5="N/A",
+            # Class_1, Class_2 e Class_3 repetem o nome da variável
+            # (pedido da equipe, 12/09/2026 — antes eram "Energy", "NA" e o
+            # nome). Class_4 continua com o combustível.
+            out.append(row(GRUPO, NOME, c1=NOME, c2=NOME, c3=NOME,
+                           c4=c4, c5="NA",
                            unit=UNIDADE, territory="BR", year=year,
                            value=round(reg[c4].get(year, 0.0), 5)))
     return out

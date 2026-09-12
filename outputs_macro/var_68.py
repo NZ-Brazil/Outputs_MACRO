@@ -28,8 +28,12 @@ RESUMO  = RESUMOS[68]
 ID    = 68
 NOME  = "Power generation by type"
 COL2  = "Variable name"
-GRUPO = "Power"
-CLASS_ESPACIAL = 3   # bacia migra para Class_3; ver comum.padronizar_territorio
+GRUPO = "Energy supply and use"    # era "Power" (pedido da equipe, 11/09/2026)
+# Bacia migra para Class_4 (era Class_3) — mesmo motivo da id 66: depois da
+# reorganização de 11/09/2026 a Class_3 carrega o rótulo fixo
+# "Electricity generation (public service)", e a bacia o sobrescreveria nas
+# linhas de hidrelétrica. Ver comum.padronizar_territorio.
+CLASS_ESPACIAL = 4
 UNIDADE = "GWh"
 FATOR   = 1e-3          # o modelo grava MWh
 SUPORTA_UF = True
@@ -61,7 +65,7 @@ def gerar(root: Path, por_uf: bool = False, **kw):
     out = []
     for c4, c5, terr in sorted(reg):
         for year in PERIODS.values():
-            out.append(row(GRUPO, NOME, c1="Energy", c2=C2, c3=C3, c4=c4, c5=c5,
+            out.append(row(GRUPO, NOME, c1=c4, c2=c5, c3=C3, c4="NA", c5="NA",  # classes reorganizadas a pedido da equipe (11/09/2026)
                            unit=UNIDADE, territory=terr, year=year,
                            value=round(reg[(c4, c5, terr)].get(year, 0.0) * FATOR, 5)))
     return out

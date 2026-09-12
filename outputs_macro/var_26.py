@@ -14,7 +14,7 @@ RESUMO  = RESUMOS[26]
 ID    = 26
 NOME  = "Energy supply investments"
 COL2  = "Variable name"
-GRUPO = "Economy"
+GRUPO = "Energy supply and use"    # era "Economy" (revisão do David, 09/09/2026)
 UNIDADE = "US$"
 
 # Escreve 0 para o tipo ausente no período, de modo que toda série tenha 6 anos.
@@ -26,14 +26,16 @@ DESCARTAR = {"OneWayTransmissionLink{NaturalGas}"}
 # Nome legível de cada tipo de ativo, no mesmo espírito da planilha
 # ethanol_flows: produto ou serviço primeiro, rota tecnológica entre parênteses.
 ROTULO = {
-    "BECCSEthanolv2":                     "Ethanol (BECCS)",
+    "BECCSEthanolv2":                     "Ethanol",
     "BECCSDieselv2":                      "Biodiesel (FAME)",
     "BECCSATJ":                           "Sustainable aviation fuel (alcohol-to-jet)",
     "BECCSCharcoal":                      "Charcoal (carbonization)",
-    "BECCSElectricity":                   "Bioelectricity (BECCS)",
+    "BECCSElectricity":                   "Bioelectricity",
     "BECCSHydrogen":                      "Hydrogen (biomass gasification)",
     "BioGasifSNG":                        "Biomethane (biomass gasification)",
-    "HEFA":                               "Renewable diesel and SAF (HEFA)",
+    "HEFA":                               "HEFA",
+    # o modelo manda HEFAv2; sem esta chave o rótulo cru vazava (11/09/2026)
+    "HEFAv2":                             "HEFA",
     "FischerTropsch":                     "Renewable fuels (Fischer-Tropsch)",
     "SyntheticLiquidFuels":               "Synthetic liquid fuels (e-fuel)",
     "SyntheticNaturalGas":                "Synthetic methane (e-fuel)",
@@ -49,26 +51,38 @@ ROTULO = {
     "CO2Injection":                       "CO2 injection",
     "ElectricDAC":                        "Direct air capture",
     "OneWayTransmissionLink{CO2Captured}":"CO2 pipeline",
-    "OneWayTransmissionLink{Electricity}":"Electricity transmission (one-way)",
+    # soma com TransmissionLink{Electricity}: mesmo rótulo (11/09/2026)
+    "OneWayTransmissionLink{Electricity}":"Electricity transmission",
     "TransmissionLink{Electricity}":      "Electricity transmission",
 }
 
 
 def gerar(root: Path, **kw):
-    por_ano, tipos = {}, set()
+    # Agrega pelo RÓTULO, não pelo tipo cru: dois tipos que compartilham rótulo
+    # viram uma linha só. Hoje isso vale para TransmissionLink{Electricity} e
+    # OneWayTransmissionLink{Electricity}, que a equipe pediu para somar em
+    # "Electricity transmission" (11/09/2026). Antes desta agregação os dois
+    # saíam como duas linhas com o MESMO Class_1 e o mesmo ano, o que quebra a
+    # chave da plataforma — o valor total não muda, só deixa de vir partido.
+    por_ano, rotulos = {}, set()
     for p, year in PERIODS.items():
         g = custos_por_tipo(root, p)
-        d = {t: v for (t, c), v in g.items()
-             if c == "Investment" and t != "Total" and t not in DESCARTAR}
+        d = {}
+        for (t, c), v in g.items():
+            if c != "Investment" or t == "Total" or t in DESCARTAR:
+                continue
+            d[ROTULO.get(t, t)] = d.get(ROTULO.get(t, t), 0.0) + v
         por_ano[year] = d
-        tipos |= set(d)
+        rotulos |= set(d)
 
     out = []
-    for t in sorted(tipos):
+    for rot in sorted(rotulos):
         for year in PERIODS.values():
-            if t not in por_ano[year] and not PREENCHER_ZEROS:
+            if rot not in por_ano[year] and not PREENCHER_ZEROS:
                 continue
-            out.append(row(GRUPO, NOME, c1="Energy", c2=ROTULO.get(t, t),
+            # Class_1 vira o rótulo do tipo de investimento (era Class_2), e
+            # Class_2 vira "NA" (revisão do David, 09/09/2026).
+            out.append(row(GRUPO, NOME, c1=rot, c2="NA",
                            unit=UNIDADE, territory="BR", year=year,
-                           value=round(por_ano[year].get(t, 0.0), 5)))
+                           value=round(por_ano[year].get(rot, 0.0), 5)))
     return out

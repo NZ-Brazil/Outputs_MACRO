@@ -22,7 +22,7 @@ RESUMO  = RESUMOS[69]
 ID    = 69
 NOME  = "Renewable power area by type"
 COL2  = "Variable name"
-GRUPO = "Power"
+GRUPO = "Energy supply and use"    # era "Power" (pedido da equipe, 11/09/2026)
 UNIDADE = "Mha"
 
 # Ligado em 02/09/2026 (correção incorporada de outra rodada). A UF sai direto
@@ -61,7 +61,7 @@ def gerar(root: Path, por_uf: bool = False, **kw):
     out = []
     for c4, c5, terr in sorted(reg):
         for year in PERIODS.values():
-            out.append(row(GRUPO, NOME, c1="Energy", c2=C2, c3=C3, c4=c4, c5=c5,
+            out.append(row(GRUPO, NOME, c1=c4, c2=c5, c3=C3, c4="NA", c5="NA",  # classes reorganizadas a pedido da equipe (11/09/2026)
                            unit=UNIDADE, territory=terr, year=year,
                            value=round(reg[(c4, c5, terr)].get(year, 0.0), 6)))
     return out

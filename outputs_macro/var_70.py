@@ -54,9 +54,13 @@ RESUMO = RESUMOS[70]
 
 ID    = 70
 NOME  = "Transmission lines"
-CLASS_ESPACIAL = 3   # corredor migra para Class_3; ver comum.padronizar_territorio
+# Corredor migra para Class_2 (era Class_3). Depois da reorganização de
+# 11/09/2026 o nome do corredor JÁ é escrito em Class_2 pelo próprio gerar(); a
+# migração espacial aponta para o mesmo slot, e por isso só reescreve o valor
+# que já está lá — Class_3 fica "NA", como pedido. Ver comum.padronizar_territorio.
+CLASS_ESPACIAL = 2
 COL2  = "Variable name"
-GRUPO = "Power"
+GRUPO = "Energy supply and use"    # era "Power" (pedido da equipe, 11/09/2026)
 UNIDADE = "GW"
 FATOR   = 1e-3          # o modelo grava MW
 
@@ -125,13 +129,16 @@ def gerar(root: Path, **kw):
             reg.setdefault(k, {}).setdefault(year, 0.0)
             reg[k][year] += float(v) * FATOR
 
-    ordem = {"N/A": 0, INTER: 1, SUB_UF: 2, INTER_UF: 3}
+    ordem = {"NA": 0, INTER: 1, SUB_UF: 2, INTER_UF: 3}
     out = []
     for k in sorted(reg, key=lambda x: (ordem[x[0]], x[1])):
         tipo, terr = k
         for year in PERIODS.values():
-            out.append(row(GRUPO, NOME, c1="Energy", c2="Electricity transmission",
-                           c3="N/A", c4="Transmission line", c5=tipo,
+            # Revisão do David (09/09/2026): Class_1 vira o tipo de corredor
+            # (era Class_5), Class_2 vira o nome do corredor (era Class_3), e
+            # Class_5 em si vira "NA".
+            out.append(row(GRUPO, NOME, c1=tipo, c2=terr,
+                           c3="NA", c4="NA", c5="NA",  # classes reorganizadas a pedido da equipe (11/09/2026)
                            unit=UNIDADE, territory=terr, year=year,
                            value=round(reg[k].get(year, 0.0), 5)))
     return out

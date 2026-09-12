@@ -24,7 +24,7 @@ RESUMO  = RESUMOS[67]
 ID    = 67
 NOME  = "Solar, wind and battery average annual capacity additions"
 COL2  = "Variable name"
-GRUPO = "Power"
+GRUPO = "Energy supply and use"    # era "Power" (pedido da equipe, 11/09/2026)
 FATOR = 1e-3
 SUPORTA_UF = True
 
@@ -51,7 +51,7 @@ def gerar(root: Path, por_uf: bool = False, **kw):
     out = []
     for c4, c5, terr in sorted(reg):
         for year in PERIODS.values():
-            out.append(row(GRUPO, NOME, c1="Energy", c2=C2, c3=C3, c4=c4, c5=c5,
+            out.append(row(GRUPO, NOME, c1=c4, c2=c5, c3=C3, c4="NA", c5="NA",  # classes reorganizadas a pedido da equipe (11/09/2026)
                            unit=unidade, territory=terr, year=year,
                            value=round(reg[(c4, c5, terr)].get(year, 0.0) * FATOR / div, 5)))
     return out

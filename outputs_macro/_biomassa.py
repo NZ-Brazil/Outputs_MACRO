@@ -21,27 +21,34 @@ FEEDSTOCK = {
     "Forestry_residue": ("Woody biomass",       "Forestry residues"),
     # 'Residue' é o nó AGREGADO que recebe as três palhas depois do
     # BiomassTransformation. Quem consome Residue não sabe de qual palha veio.
-    "Residue":          ("Herbaceous residues", "Aggregated residue"),
+    # Class_2 renomeado a pedido do David (09/09/2026): "Aggregated residue"
+    # -> "Herbaceous aggregated residue".
+    "Residue":          ("Herbaceous residues", "Herbaceous aggregated residue"),
     # entradas que não são biomassa
-    "Ethanol":          ("N/A",                 "Ethanol (secondary feedstock)"),
-    "CO2":              ("N/A",                 "Atmospheric CO2"),
+    "Ethanol":          ("NA",                 "Ethanol (secondary feedstock)"),
+    "CO2":              ("NA",                 "Atmospheric CO2"),
 }
 
 # família do resource_id -> (Class_3 conversão, Class_4 vetor energético)
 CONVERSAO = {
-    "BECCS_sugarcane_ethanol":          ("Sugarcane ethanol",          "Ethanol"),
-    "BECCS_sugarcane_ethanol_CCS":      ("Sugarcane ethanol with CCS", "Ethanol"),
-    "BECCS_corn_ethanol":               ("Corn ethanol",               "Ethanol"),
-    "BECCS_corn_ethanol_CCS":           ("Corn ethanol with CCS",      "Ethanol"),
+    "BECCS_sugarcane_ethanol":          ("1G ethanol",                 "Ethanol"),
+    # usinas de cana já existentes: mesma rota, mesmo rótulo — as duas linhas
+    # se somam sozinhas porque a var_19 agrega pela tupla de classes
+    # (pedido da equipe, 11/09/2026).
+    "BECCS_sugarcane_ethanol_existing": ("1G ethanol",              "Ethanol"),
+    "BECCS_sugarcane_ethanol_CCS":      ("1G ethanol with CCS",        "Ethanol"),
+    "BECCS_corn_ethanol":               ("1G ethanol",                 "Ethanol"),
+    "BECCS_corn_ethanol_existing":      ("1G ethanol",                 "Ethanol"),
+    "BECCS_corn_ethanol_CCS":           ("1G ethanol with CCS",        "Ethanol"),
     "BECCS_1G2G_sugarcane_ethanol":     ("1G2G ethanol",               "Ethanol"),
     "BECCS_1G2G_sugarcane_ethanol_CCS": ("1G2G ethanol with CCS",      "Ethanol"),
-    "BECCS_Lignocellulosic_ethanol":    ("Gen-2 ethanol",              "Ethanol"),
-    "BECCS_Lignocellulosic_ethanol_CCS":("Gen-2 ethanol with CCS",     "Ethanol"),
+    "BECCS_Lignocellulosic_ethanol":    ("2G ethanol",                 "Ethanol"),
+    "BECCS_Lignocellulosic_ethanol_CCS":("2G ethanol with CCS",        "Ethanol"),
     "Macauba_FAME":                     ("FAME",                       "Biodiesel (FAME)"),
     "Soybean_Biodiesel_large":          ("FAME",                       "Biodiesel (FAME)"),
     "Soybean_Biodiesel_large_existing": ("FAME",                       "Biodiesel (FAME)"),
-    "HEFA_macauba":                     ("HVO/HEFA",                   "Synthetic Diesel"),
-    "HEFA_soybean":                     ("HVO/HEFA",                   "Synthetic Diesel"),
+    "HEFA_macauba":                     ("HEFA",                       "Synthetic Diesel"),
+    "HEFA_soybean":                     ("HEFA",                       "Synthetic Diesel"),
     "BR_ATJ_ethanol":                   ("Ethanol-to-jet",             "Synthetic Jet (SAF)"),
     "BR_ATJ_Diesel":                    ("Ethanol-to-jet",             "Synthetic Diesel"),
     "biomass_wood_thermal_plant":       ("Biomass power",              "Electricity"),
@@ -64,8 +71,8 @@ CONVERSAO = {
 
 # ativos sem família útil no resource_id
 POR_TIPO = {
-    "BiomassTransformation": ("Residue collection", "N/A"),
-    "ElectricDAC":           ("Direct air capture", "N/A"),
+    "BiomassTransformation": ("Residue collection", "NA"),
+    "ElectricDAC":           ("Direct air capture", "NA"),
 }
 
 # ARESTA PRINCIPAL DE CADA ATIVO, em ordem de prioridade.
@@ -94,4 +101,4 @@ def familia(resource_id) -> str:
 
 def conversao(resource_id, resource_type):
     f = familia(resource_id)
-    return CONVERSAO.get(f) or POR_TIPO.get(str(resource_type)) or (f, "N/A")
+    return CONVERSAO.get(f) or POR_TIPO.get(str(resource_type)) or (f, "NA")

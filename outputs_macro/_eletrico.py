@@ -15,12 +15,12 @@ FONTE = {
     "VRE{Generic}":                (None, None),
     "MustRun":                     ("Hydropower", "Run-of-river"),
     "HydroRes":                    ("Hydropower", "Reservoir"),
-    "Battery":                     ("Battery storage", "N/A"),
+    "Battery":                     ("Battery storage", "NA"),
     "ThermalPower{NaturalGas}":    ("Natural gas", "Without CCS"),
     "ThermalPowerCCS{NaturalGas}": ("Natural gas", "With CCS"),
-    "ThermalPower{Coal}":          ("Coal", "N/A"),
-    "ThermalPower{Uranium}":       ("Nuclear", "N/A"),
-    "ThermalPower{Hydrogen}":      ("Hydrogen", "N/A"),
+    "ThermalPower{Coal}":          ("Coal", "NA"),
+    "ThermalPower{Uranium}":       ("Nuclear", "NA"),
+    "ThermalPower{Hydrogen}":      ("Hydrogen", "NA"),
     "BECCSEthanolv2":              ("Bioelectricity", "Cogeneration (ethanol plants)"),
     "BioGasifSNG":                 ("Bioelectricity", "Cogeneration (biomethane plants)"),
 }
@@ -41,7 +41,7 @@ def vre(fam: str):
     return ("Solar and wind", fam)
 
 
-def classificar(resource_type: str, resource_id: str, battery_label="N/A"):
+def classificar(resource_type: str, resource_id: str, battery_label="NA"):
     fam = re.sub(r"^BR_[A-Z]{2}_", "", str(resource_id))
     if resource_type == "VRE{Generic}":
         return vre(fam)
@@ -49,4 +49,4 @@ def classificar(resource_type: str, resource_id: str, battery_label="N/A"):
         return "Bioelectricity", BECCS_ELEC.get(fam, fam)
     if resource_type == "Battery":
         return "Battery storage", battery_label
-    return FONTE.get(resource_type, (resource_type, "N/A"))
+    return FONTE.get(resource_type, (resource_type, "NA"))
