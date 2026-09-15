@@ -11,9 +11,11 @@ diesel_BR, natgas_nonfossil_BR vs natgas_BR).
 
 CLASSES seguem o padrão da planilha ethanol_flows: produto, matéria-prima e
 tecnologia como dimensões separadas, com CCS embutido no nome da tecnologia.
-    Class_3 = produto      Class_4 = matéria-prima      Class_5 = tecnologia
+    Class_1 = produto      Class_2 = matéria-prima      Class_3 = tecnologia
+    Class_4 = Class_5 = NA
 Isso substitui a sub-categoria do SEEG que estava na Class_3, que só existia
-para dois dos oito produtos (ver nota).
+para dois dos oito produtos (ver nota). As três dimensões ficaram nas Class_3,
+4 e 5 até 15/09/2026, quando a equipe pediu para subi-las duas posições.
 
 Produção BRUTA: não desconta reuso interno (etanol -> ATJ, H2 -> sintéticos e
 termelétrica).
@@ -31,9 +33,11 @@ ID    = 65
 NOME  = "Biofuels, synthesized fuels and hydrogen production by technology"
 COL2  = "Variable name"
 # Revisão do David (09/09/2026): Variable_group vira "Energy supply and use"
-# (era "Non-fossil end-use fuels (including biofuels)"); o valor antigo migra
-# para a Class_1 (era "Energy") — ver GRUPO_ANTIGO abaixo.
-GRUPO_ANTIGO = "Non-fossil end-use fuels (including biofuels)"
+# (era "Non-fossil end-use fuels (including biofuels)"); o valor antigo passou a
+# sair na Class_1. Em 15/09/2026 a equipe subiu as três dimensões duas posições
+# e esse rótulo fixo DEIXOU DE SAIR — fica aqui só como registro do que havia
+# antes, para quem for comparar com uma planilha velha.
+GRUPO_ANTIGO = "Non-fossil end-use fuels (including biofuels)"   # não sai mais
 GRUPO = "Energy supply and use"
 UNIDADE = "GWh"
 FATOR   = 1e-3          # o modelo grava MWh
@@ -124,10 +128,18 @@ def gerar(root: Path, por_uf: bool = False, **kw):
     ordem = list(PRODUTO.values())
     out = []
     for k in sorted(reg, key=lambda x: (ordem.index(x[0]), x[1], x[2], x[3])):
-        prod, c4, c5, terr = k
+        prod, materia, tecnologia, terr = k
         for year in PERIODS.values():
-            out.append(row(GRUPO, NOME, c1=GRUPO_ANTIGO, c2="Fuel production",
-                           c3=prod, c4=c4, c5=c5,
+            # AS TRÊS DIMENSÕES SUBIRAM DUAS POSIÇÕES (pedido da equipe,
+            # 15/09/2026): produto na Class_1, matéria-prima na Class_2,
+            # tecnologia na Class_3, e Class_4/Class_5 em "NA". Antes eram
+            # Class_3/4/5, com GRUPO_ANTIGO na Class_1 e "Fuel production" na
+            # Class_2 — os dois rótulos fixos saem da saída, porque o
+            # Variable_group já diz "Energy supply and use" e a variável já se
+            # chama "...production by technology". Nenhum valor muda; o que
+            # muda é em que coluna cada dimensão chega ao dashboard.
+            out.append(row(GRUPO, NOME, c1=prod, c2=materia, c3=tecnologia,
+                           c4="NA", c5="NA",
                            unit=UNIDADE, territory=terr, year=year,
                            value=round(reg[k].get(year, 0.0) * FATOR, 5)))
     return out

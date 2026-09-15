@@ -64,16 +64,30 @@ def gerar(root: Path, **kw):
     # "Electricity transmission" (11/09/2026). Antes desta agregação os dois
     # saíam como duas linhas com o MESMO Class_1 e o mesmo ano, o que quebra a
     # chave da plataforma — o valor total não muda, só deixa de vir partido.
-    por_ano, rotulos = {}, set()
+    por_ano, rotulos, sem_rotulo = {}, set(), set()
     for p, year in PERIODS.items():
         g = custos_por_tipo(root, p)
         d = {}
         for (t, c), v in g.items():
             if c != "Investment" or t == "Total" or t in DESCARTAR:
                 continue
+            if t not in ROTULO:
+                # O tipo cru vai para a saída para o valor não sumir, mas o
+                # nome do ativo do modelo não pode chegar ao dashboard. Isso já
+                # aconteceu: HydroRes, MustRun e OneWayTransmissionLink{Charcoal}
+                # apareceram numa rodada da plataforma e não nas nossas, porque
+                # aqui esses ativos não investiram. O aviso existe para o
+                # próximo caso ser visto na hora de rodar, e não semanas depois
+                # numa planilha da equipe.
+                sem_rotulo.add(t)
             d[ROTULO.get(t, t)] = d.get(ROTULO.get(t, t), 0.0) + v
         por_ano[year] = d
         rotulos |= set(d)
+
+    if sem_rotulo:
+        print(f"      [26] AVISO: {len(sem_rotulo)} tipo(s) de ativo sem rótulo "
+              f"em ROTULO — o nome cru vai sair na Class_1: "
+              + ", ".join(sorted(sem_rotulo)))
 
     out = []
     for rot in sorted(rotulos):

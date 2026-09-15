@@ -32,14 +32,22 @@ ID    = 66
 NOME  = "Power installed capacity"    # era "Installed capacity by type" (revisão do David, 09/09/2026)
 COL2  = "Variable name"
 GRUPO = "Energy supply and use"    # era "Power" (pedido da equipe, 11/09/2026)
-# Bacia na Class_3, sobrescrevendo o rótulo fixo "Electricity generation
-# (public service)" só nas linhas de hidrelétrica; Class_4 e Class_5 ficam
-# "NA". Pedido explícito da equipe em 12/09/2026, depois de olhar a saída: em
-# 11/09 eu tinha movido para Class_4 justamente para preservar o rótulo, mas a
-# equipe prefere a bacia na Class_3. ATENÇÃO: a id 68 (Power generation by
-# type) trata as MESMAS hidrelétricas e continua com a bacia na Class_4 — a
-# equipe conferiu e manteve. Ver comum.padronizar_territorio.
-CLASS_ESPACIAL = 3
+# Bacia na CLASS_4, preservando o rótulo fixo "Electricity generation (public
+# service)" na Class_3. Formato pedido pela equipe em 15/09/2026:
+#
+#     Hydropower / Reservoir ou Run-of-river / Electricity generation
+#     (public service) / <bacia> / NA
+#
+# HISTÓRICO, porque isto já foi e voltou: em 11/09 eu movi a bacia para a
+# Class_4 justamente para não apagar o rótulo fixo; em 12/09 a equipe pediu de
+# volta para a Class_3, o que apagava o rótulo só nas linhas de hidrelétrica; em
+# 15/09 a equipe descreveu o formato acima, que é o de 11/09. Se alguém quiser a
+# bacia na Class_3 de novo, o único lugar a mexer é esta constante — e o rótulo
+# volta a ser sobrescrito.
+#
+# Com isto a 66 volta a concordar com a id 68 (Power generation by type), que
+# trata as MESMAS hidrelétricas e nunca saiu da Class_4.
+CLASS_ESPACIAL = 4
 UNIDADE = "GW"
 FATOR   = 1e-3          # o modelo grava MW
 SUPORTA_UF = True

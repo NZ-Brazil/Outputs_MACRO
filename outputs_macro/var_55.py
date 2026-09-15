@@ -8,13 +8,25 @@ primária vem do SALDO LÍQUIDO dos nós de recurso (ver comum.saldo_nos). Solar
 eólica e fio d'água não têm nó de recurso: a energia primária delas é a própria
 geração.
 
-CLASSES seguem a matriz energética do BEN, não o SEEG:
+CLASSES — reorganizadas a pedido da equipe em 15/09/2026. A FONTE DESCEU PARA A
+CLASS_3 e a CLASS_2 passou a dizer PARA ONDE a energia primária vai:
+
     Class_1 = Renewable / Non-renewable
-    Class_2 = fonte do BEN (Crude oil, Natural gas, Mineral coal, Uranium,
-              Hydraulic, Wind, Solar, Sugarcane biomass, Firewood and
-              charcoal, Other renewables)
-    Class_3 = detalhe do MACRO dentro da fonte
-    Class_4, Class_5 = N/A
+    Class_2 = destino/família  (Refinery, Thermal power, Thermal power and H2
+              production, Hydraulic, Wind onshore, Wind offshore, Solar
+              rooftop, Solar utility-scale, Bioenergy)
+    Class_3 = a fonte        (Crude oil, Natural gas, Mineral coal, Uranium,
+              Hydraulic, Wind, Solar, e as sete matérias-primas de biomassa)
+    Class_4 = bacia hidrográfica, só na hidráulica (ver CLASS_ESPACIAL)
+    Class_5 = N/A
+
+O QUE ISSO MUDOU EM RELAÇÃO AO BEN. Até 15/09 a Class_2 era a fonte na
+nomenclatura do BEN, e as sete biomassas se distribuíam em três categorias
+dele — 'Sugarcane biomass', 'Firewood and charcoal' e 'Other renewables'.
+Essas três categorias NÃO SAEM MAIS: agora as sete entram como 'Bioenergy' na
+Class_2, com a matéria-prima na Class_3. Quem precisar da leitura BEN reagrupa
+a partir da Class_3, que é mais fina do que as categorias do BEN. Nenhum valor
+muda; a soma da variável é a mesma.
 
 SOJA FICA DE FORA: no BEN o óleo de soja é fonte SECUNDÁRIA, não primária.
 
@@ -28,14 +40,16 @@ import re
 from ._notas import NOTAS
 from ._resumos import RESUMOS
 from .comum import PERIODS, fluxos, saldo_nos, row, bacia, bacia_de_id
-from ._eletrico import vre
 
 NOTA   = NOTAS[55]
 RESUMO = RESUMOS[55]
 
 ID    = 55
 NOME  = "Primary energy supply by source"
-CLASS_ESPACIAL = 3   # bacia migra para Class_3; ver comum.padronizar_territorio
+# Bacia migra para a Class_4 (era Class_3 até 15/09/2026, quando a Class_3
+# passou a guardar a fonte e a hidráulica repetiu 'Hydraulic' nela). Ver
+# comum.padronizar_territorio.
+CLASS_ESPACIAL = 4
 COL2  = "Variable name"
 GRUPO = "Energy supply and use"
 
@@ -112,33 +126,40 @@ def pci_mwh_t(rotulo):
     return None if v is None else v * 1000.0 / KCAL_POR_MWH
 
 
-# padrão do nó -> (Class_1, Class_2 fonte BEN, Class_3 detalhe, unidade, fator,
+# padrão do nó -> (Class_1, Class_2 destino, Class_3 fonte, unidade, fator,
 #                  ESPACIAL)
 #
 # ESPACIAL diz se a fonte tem nó por estado. As que não têm saem SÓ na linha
 # nacional — não existe linha estadual delas, nem 'Não Alocado'. É o caso dos
 # fósseis e do urânio: no modelo eles são um ativo único do país. Ver a nota.
+#
+# O DESTINO DA CLASS_2 NOS NÃO-RENOVÁVEIS foi ditado pela equipe (15/09/2026) e
+# é uma descrição do uso, não um resultado do modelo: petróleo vai para o
+# refino, gás natural para termelétrica e produção de H2, carvão e urânio só
+# para termelétrica. Se o modelo passar a dar outro uso a uma dessas fontes,
+# ESTES RÓTULOS NÃO ACOMPANHAM SOZINHOS — têm que ser revistos aqui.
+BIOENERGIA = "Bioenergy"
 FONTES = [
     # diesel, gasolina e querosene NÃO entram aqui: são derivados, não energia
     # primária. Viram uma linha só de Crude oil, ver PETROLEO logo abaixo.
-    (r"natgas_fossil_BR$",   NREN, "Natural gas",  "NA",      "GWh", 1e-3, False),
+    (r"natgas_fossil_BR$",   NREN, "Thermal power and H2 production", "Natural gas",  "GWh", 1e-3, False),
     # nacional e importado somados: o BEN não separa na matriz e a plataforma
     # não pediu a origem. Os nós continuam dois no modelo.
-    (r"coal_BR$",            NREN, "Mineral coal", "NA",      "GWh", 1e-3, False),
-    (r"coal_imported$",      NREN, "Mineral coal", "NA",      "GWh", 1e-3, False),
-    (r"uranium_BR$",         NREN, "Uranium",      "NA",      "GWh", 1e-3, False),
-    (r"sugarcane_BR(_[A-Z]{2})?$",        REN, "Sugarcane biomass",     "Sugarcane",           "Mt", 1e-6, True),
+    (r"coal_BR$",            NREN, "Thermal power", "Mineral coal", "GWh", 1e-3, False),
+    (r"coal_imported$",      NREN, "Thermal power", "Mineral coal", "GWh", 1e-3, False),
+    (r"uranium_BR$",         NREN, "Thermal power", "Uranium",      "GWh", 1e-3, False),
+    (r"sugarcane_BR(_[A-Z]{2})?$",        REN, BIOENERGIA, "Sugarcane",           "Mt", 1e-6, True),
     # a palha de cana NÃO entra. O nó sugarcanestraw_BR tem saldo ZERO por
     # construção: a palha chega nele pela aresta de coproduto do colhedor, que
     # é passa-a-frente (entram 585,95 Mt de cana em 2050, saem as mesmas 585,95
     # mais 28,13 de palha). Pelo método do saldo ela não aparece de qualquer
     # jeito; contá-la exigiria ler o coproduct_edge. Decisão da equipe: fora.
-    (r"biomass_wood_BR(_[A-Z]{2})?$",     REN, "Firewood and charcoal", "Plantation forestry", "Mt", 1e-6, True),
-    (r"forestry_residue_BR(_[A-Z]{2})?$", REN, "Firewood and charcoal", "Forestry residues",   "Mt", 1e-6, True),
-    (r"corn_BR(_[A-Z]{2})?$",             REN, "Other renewables",      "Corn",                "Mt", 1e-6, True),
-    (r"cornstover_BR(_[A-Z]{2})?$",       REN, "Other renewables",      "Corn stover",         "Mt", 1e-6, True),
-    (r"ricestraw_BR(_[A-Z]{2})?$",        REN, "Other renewables",      "Rice straw",          "Mt", 1e-6, True),
-    (r"macauba_BR(_[A-Z]{2})?$",          REN, "Other renewables",      "Macauba",             "Mt", 1e-6, True),
+    (r"biomass_wood_BR(_[A-Z]{2})?$",     REN, BIOENERGIA, "Plantation forestry", "Mt", 1e-6, True),
+    (r"forestry_residue_BR(_[A-Z]{2})?$", REN, BIOENERGIA, "Forestry residues",   "Mt", 1e-6, True),
+    (r"corn_BR(_[A-Z]{2})?$",             REN, BIOENERGIA, "Corn",                "Mt", 1e-6, True),
+    (r"cornstover_BR(_[A-Z]{2})?$",       REN, BIOENERGIA, "Corn stover",         "Mt", 1e-6, True),
+    (r"ricestraw_BR(_[A-Z]{2})?$",        REN, BIOENERGIA, "Rice straw",          "Mt", 1e-6, True),
+    (r"macauba_BR(_[A-Z]{2})?$",          REN, BIOENERGIA, "Macauba",             "Mt", 1e-6, True),
     # soybean_BR fica FORA: fonte secundária no BEN (40,81 Mt em 2025, quase
     # zero depois, quando a macaúba assume o biodiesel).
 ]
@@ -169,19 +190,54 @@ PETROLEO = {
     r"gasoline_fossil_BR$": ("Gasoline", 0.231),
     r"jetfuel_fossil_BR$":  ("Jet fuel", 0.048),
 }
-C2_PETROLEO = "Crude oil"
+C3_PETROLEO = "Crude oil"
+C2_PETROLEO = "Refinery"
 
 SUPORTA_UF = True
 
 _UF_NO = re.compile(r"_BR_([A-Z]{2})$")
 
+# ---------------------------------------------------------------------------
+# EÓLICA E SOLAR — nomenclatura PRÓPRIA da id 55, de propósito.
+#
+# A equipe pediu (15/09/2026) 'Wind offshore' na Class_2 e 'Wind' na Class_3;
+# 'Solar rooftop' e 'Solar utility-scale' na Class_2 e 'Solar' na Class_3. As
+# ids 66, 67 e 68 usam _eletrico.vre(), que escreve 'Solar photovoltaic' +
+# 'Rooftop'. São convenções DIFERENTES para a mesma usina, e é assim que a
+# equipe quer: aqui é matriz de oferta primária, lá é parque gerador. Por isso
+# este mapa é local e não chama _eletrico — mexer lá não pode mudar isto aqui,
+# nem o contrário.
+VRE = {
+    "Solar":         ("Solar utility-scale", "Solar"),
+    "rooftop_pv":    ("Solar rooftop",       "Solar"),
+    "Wind_Onshore":  ("Wind onshore",        "Wind"),
+    "Wind_Offshore": ("Wind offshore",       "Wind"),
+}
+
+
+def _vre(fam: str):
+    """(Class_2, Class_3) a partir da família do resource_id. None se não bate."""
+    for prefixo, par in VRE.items():
+        if fam.startswith(prefixo):
+            return par
+    return None
+
+
+# Ordem de saída, pela Class_3 (a fonte). A biomassa segue a ordem que a equipe
+# escreveu em 15/09/2026. Fonte fora desta lista vai para o fim, e gerar()
+# avisa no terminal.
 ORDEM = ["Crude oil", "Natural gas", "Mineral coal", "Uranium",
-         "Hydraulic", "Wind", "Solar", "Sugarcane biomass",
-         "Firewood and charcoal", "Other renewables"]
+         "Hydraulic", "Wind", "Solar",
+         "Sugarcane", "Forestry residues", "Plantation forestry",
+         "Corn", "Corn stover", "Macauba", "Rice straw"]
+
+
+def _ordem(c3):
+    return ORDEM.index(c3) if c3 in ORDEM else len(ORDEM)
 
 
 def gerar(root: Path, por_uf: bool = False, **kw):
-    reg = {}
+    reg, sem_rotulo = {}, set()
 
     def por(k, year, valor):
         reg.setdefault(k, {}).setdefault(year, 0.0)
@@ -208,7 +264,7 @@ def gerar(root: Path, por_uf: bool = False, **kw):
             bruto = max((sum(val for no, val in s.items() if re.match(pat, str(no)))
                          / rend)
                         for pat, (_rot, rend) in PETROLEO.items())
-            por((NREN, C2_PETROLEO, "NA", "GWh", "BR"), year, bruto * 1e-3)
+            por((NREN, C2_PETROLEO, C3_PETROLEO, "GWh", "BR"), year, bruto * 1e-3)
 
         d = fluxos(root, p)
 
@@ -225,28 +281,46 @@ def gerar(root: Path, por_uf: bool = False, **kw):
                 if not str(no).startswith("hydro_source_"):
                     continue
                 b = bacia(str(no)[len("hydro_source_"):])
-                por((REN, "Hydraulic", "NA", "GWh", b), year, val * 1e-3)
+                # 'Hydraulic' REPETIDO na Class_2 e na Class_3 (equipe,
+                # 15/09/2026): a Class_3 é a fonte, e a fonte é a própria
+                # hidráulica. A bacia sai daqui na Class_4, pela
+                # CLASS_ESPACIAL — não a escreva aqui.
+                por((REN, "Hydraulic", "Hydraulic", "GWh", b), year, val * 1e-3)
             ror = d[(d.resource_type == "MustRun") & (d.value > 0)]
             for r in ror.itertuples():
                 b = bacia_de_id(r.resource_id)
-                por((REN, "Hydraulic", "NA", "GWh", b), year, float(r.value) * 1e-3)
+                por((REN, "Hydraulic", "Hydraulic", "GWh", b), year,
+                    float(r.value) * 1e-3)
 
         # solar e eólica: energia primária = geração (conteúdo físico, como o BEN)
         v = d[(d.resource_type == "VRE{Generic}") & (d.value > 0)]
         for r in v.itertuples():
             rid = str(r.resource_id)
-            fonte, det = vre(re.sub(r"^BR_[A-Z]{2}_", "", rid))
-            c2 = "Solar" if fonte.startswith("Solar") else "Wind"
+            fam = re.sub(r"^BR_[A-Z]{2}_", "", rid)
+            par = _vre(fam)
+            if par is None:
+                sem_rotulo.add(fam)
+                # sem rótulo: a família crua vai para as duas classes, para o
+                # valor não sumir, e o aviso abaixo denuncia.
+                par = (fam, fam)
+            c2, c3 = par
             terr = "BR"
             if por_uf:
                 m = re.match(r"^BR_([A-Z]{2})_", rid)
                 if not m:
                     continue
                 terr = m.group(1)
-            por((REN, c2, det, "GWh", terr), year, float(r.value) * 1e-3)
+            por((REN, c2, c3, "GWh", terr), year, float(r.value) * 1e-3)
+
+    if sem_rotulo:
+        print(f"      [55] AVISO: {len(sem_rotulo)} família(s) de solar/eólica "
+              f"fora do mapa VRE — o nome cru do ativo vai sair nas Class_2 e "
+              f"Class_3: " + ", ".join(sorted(sem_rotulo)))
 
     out = []
-    for k in sorted(reg, key=lambda x: (ORDEM.index(x[1]), x[2], x[4])):
+    # ordena pela FONTE (Class_3), depois pelo destino (Class_2) e pelo
+    # território. Era pela Class_2 até 15/09/2026, quando a fonte mudou de coluna.
+    for k in sorted(reg, key=lambda x: (_ordem(x[2]), x[1], x[4])):
         c1, c2, c3, un, terr = k
         pci = pci_mwh_t(c3) if (un == "Mt" and CONVERTER_BIOMASSA) else None
         for year in PERIODS.values():

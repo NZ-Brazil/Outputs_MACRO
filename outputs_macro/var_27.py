@@ -50,7 +50,8 @@ COL2  = "Variable name"
 GRUPO = "Energy supply and use"    # era "Economy" (revisão do David, 09/09/2026)
 UNIDADE = "US$"
 
-# type do costs_by_type -> Class_4 (portador), na mesma nomenclatura da id 56
+# type do costs_by_type -> Class_1 (portador), na mesma nomenclatura da id 56.
+# Era Class_4 até 15/09/2026.
 NOS = [
     ("Node{MacroEnergy.Diesel}",         "Diesel"),
     ("Node{MacroEnergy.Gasoline}",       "Gasoline"),
@@ -75,13 +76,19 @@ def gerar(root: Path, **kw):
         reg.setdefault(TOTAL, {})[year] = soma
 
     out = []
-    for c4 in [TOTAL] + [c for _, c in NOS]:
+    for portador in [TOTAL] + [c for _, c in NOS]:
         for year in PERIODS.values():
-            # Class_1, Class_2 e Class_3 repetem o nome da variável
-            # (pedido da equipe, 12/09/2026 — antes eram "Energy", "NA" e o
-            # nome). Class_4 continua com o combustível.
-            out.append(row(GRUPO, NOME, c1=NOME, c2=NOME, c3=NOME,
-                           c4=c4, c5="NA",
+            # O PORTADOR SUBIU PARA A CLASS_1 (pedido da equipe, 15/09/2026):
+            # é ele que abre a variável no dashboard, e a Class_1 é a primeira
+            # quebra que a plataforma oferece. A Class_4, que o trazia, fica
+            # "NA". Class_2 e Class_3 continuam repetindo o nome da variável,
+            # como a equipe definiu em 12/09/2026 — o pedido de 15/09 tratou só
+            # das Class_1 e Class_4, e a equipe confirmou manter as outras duas.
+            # (Antes de 12/09 as três eram "Energy", "NA" e o nome da variável;
+            # se você estiver olhando uma planilha com "Energy" na Class_1, ela
+            # é anterior a essa revisão.)
+            out.append(row(GRUPO, NOME, c1=portador, c2=NOME, c3=NOME,
+                           c4="NA", c5="NA",
                            unit=UNIDADE, territory="BR", year=year,
-                           value=round(reg[c4].get(year, 0.0), 5)))
+                           value=round(reg[portador].get(year, 0.0), 5)))
     return out

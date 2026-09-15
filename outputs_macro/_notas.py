@@ -34,17 +34,19 @@ sai do entregável — a linha nacional continua contando o valor dela.
 Qual Class recebe o recorte mudou com a reorganização de classes pedida pela
 equipe em 11/09/2026, porque ela ocupou slots que antes estavam livres:
 
-    id 55                Class_3 (bacia). Não mudou: a id 55 não entrou na
-                         reorganização e a Class_3 dela continua vazia.
-    id 66                Class_3 (bacia), por pedido da equipe (12/09/2026).
-                         A bacia sobrescreve o rótulo fixo 'Electricity
-                         generation (public service)' nas linhas de
-                         hidrelétrica; Class_4 e Class_5 ficam 'NA'.
-    id 68                Class_4 (bacia) — era Class_3. Aqui a Class_3 guarda
-                         o rótulo fixo e a bacia vai para o primeiro slot
-                         livre. As duas variáveis tratam as MESMAS
-                         hidrelétricas com convenções diferentes: a equipe
-                         conferiu a saída em 12/09/2026 e manteve assim.
+    id 55                Class_4 (bacia) — era Class_3 até 15/09/2026,
+                         quando a Class_3 passou a guardar a FONTE e a
+                         hidráulica repetiu 'Hydraulic' nela.
+    id 66                Class_4 (bacia). Foi e voltou: Class_4 em 11/09/2026,
+                         Class_3 em 12/09 (a bacia apagava o rótulo fixo
+                         'Electricity generation (public service)' só nas
+                         linhas de hidrelétrica), e de volta à Class_4 em
+                         15/09, quando a equipe descreveu o formato desejado
+                         com o rótulo preservado na Class_3.
+    id 68                Class_4 (bacia) — era Class_3. Aqui a Class_3 sempre
+                         guardou o rótulo fixo e a bacia foi para o primeiro
+                         slot livre. Desde 15/09/2026 as três variáveis de
+                         bacia (55, 66, 68) usam a MESMA coluna.
     id 70                Class_2 (corredor) — era Class_3. O nome do corredor
                          já é escrito em Class_2 pelo próprio gerar(), então a
                          migração aponta para o mesmo slot e só reescreve o
@@ -64,8 +66,8 @@ equipe em 11/09/2026, porque ela ocupou slots que antes estavam livres:
 
 ONDE O RECORTE É BACIA OU CORREDOR, NÃO HÁ LINHA NACIONAL — as partes somam o
 todo. Isso vale para a hidráulica das ids 55, 66 e 68 e para os corredores da
-id 70: a bacia ou o corredor está na Class_3, o Territory é BR, e não existe
-uma linha agregada junto. Somar tudo dá o número nacional certo.
+id 70: a bacia está na Class_4 (ids 55, 66, 68) ou o corredor na Class_2
+(id 70), o Territory é BR, e não existe uma linha agregada junto. Somar tudo dá o número nacional certo.
 
     id 55  hidráulica: 15 linhas de bacia, 392.767 GWh em 2050
     id 66  hidráulica: 29 linhas de bacia por tipo (reservatório / fio d'água)
@@ -397,8 +399,8 @@ NOTAS[0] = """LINHAS NACIONAIS E ESTADUAIS NO MESMO ARQUIVO (ids 55, 65, 66, 67,
 
 Essas variáveis saem com o total nacional (Territory = BR) E a quebra espacial
 no mesmo CSV — a 55 e a 69 tiveram o recorte por UF ligado em 02/09/2026, junto
-com a correção que moveu bacia/corredor para a Class_3 (ver a nota de
-Territory). Conferido: a soma das linhas espaciais bate com a linha BR em
+com a correção que tirou bacia/corredor do Territory e os pôs numa Class
+(ver a nota de Territory). Conferido: a soma das linhas espaciais bate com a linha BR em
 todos os anos, com diferença menor que 0,001.
 
 CONSEQUÊNCIA: somar a coluna Value sem filtrar Territory DOBRA o resultado.
@@ -409,8 +411,9 @@ A COLUNA TERRITORY TEM TRÊS TIPOS DE VALOR:
 
   Sigla de UF          AC, AL, ..., SP, TO — 27 unidades da federação.
   Nome de bacia        as 15 bacias hidrográficas do modelo (Paraná, Tocantins,
-                       São Francisco...), agora na Class_3 e não no Territory
-                       (ver a nota de Territory). As hidrelétricas não têm UF:
+                       São Francisco...), agora numa Class e não no Territory
+                       — Class_4 nas ids 55, 66 e 68 (ver a nota de
+                       Territory). As hidrelétricas não têm UF:
                        a zona delas no modelo é a bacia, e várias cruzam
                        divisas estaduais, então a discretização espacial delas
                        é por bacia mesmo. São 100,6 GW na id 66 e 392,8 TWh na
@@ -519,8 +522,13 @@ Node{MacroEnergy.JetFuel_Fossil} e Node{MacroEnergy.Diesel}.
     2045     36,0      4,9        4,7    13,5     59,0
     2050     25,5      1,5        3,5     8,6     39,0
 
-A linha 'Total' vem junto no arquivo, com Class_4 = 'Total'. Somar Value sem
-filtrar Class_4 dobra o resultado.
+A linha 'Total' vem junto no arquivo, com Class_1 = 'Total'. Somar Value sem
+filtrar Class_1 dobra o resultado.
+
+CLASSES (equipe, 15/09/2026): o PORTADOR está na Class_1 — era a Class_4 até
+essa data, e a Class_4 agora é 'NA'. Class_2 e Class_3 repetem o nome da
+variável, como a equipe definiu em 12/09/2026. Se você estiver olhando uma
+planilha com 'Energy' na Class_1, ela é anterior a 12/09/2026.
 
 VALOR DESCONTADO, como o da id 24: presente do quinquênio no ano-base, a 4,5%
 ao ano. Não anualizado.
@@ -560,14 +568,37 @@ como investimento em equipamento de uso final.
 
 NOTAS[55] = """id 55 — Primary energy supply by source
 
-AGREGAÇÃO COMO A MATRIZ ENERGÉTICA DO BEN, não como o SEEG:
+ESTRUTURA DE CLASSES reorganizada a pedido da equipe em 15/09/2026. A FONTE
+DESCEU PARA A CLASS_3; a CLASS_2 passou a dizer para onde a energia primária
+vai:
 
     Class_1  Renewable / Non-renewable
-    Class_2  fonte do BEN — Oil and oil products, Natural gas, Mineral coal,
-             Uranium, Hydraulic, Wind, Solar, Sugarcane biomass, Firewood and
-             charcoal, Other renewables
-    Class_3  detalhe do MACRO dentro da fonte, ou N/A quando a fonte não se
-             abre
+    Class_2  destino/família — Refinery (petróleo), Thermal power and H2
+             production (gás natural), Thermal power (carvão e urânio),
+             Hydraulic, Wind onshore, Wind offshore, Solar rooftop, Solar
+             utility-scale, Bioenergy
+    Class_3  a fonte — Crude oil, Natural gas, Mineral coal, Uranium,
+             Hydraulic (repetido), Wind, Solar, e as sete matérias-primas de
+             biomassa
+    Class_4  bacia hidrográfica, só na hidráulica
+    Class_5  N/A
+
+A AGREGAÇÃO DO BEN DEIXOU DE SAIR NA CLASS_2. Até 15/09 a Class_2 trazia a
+fonte na nomenclatura do BEN, e as sete biomassas se distribuíam em três
+categorias dele — 'Sugarcane biomass', 'Firewood and charcoal' e 'Other
+renewables'. Essas três não aparecem mais: agora as sete entram como
+'Bioenergy', com a matéria-prima na Class_3. Quem precisar da leitura BEN
+reagrupa a partir da Class_3, que é mais fina do que as categorias do BEN.
+Nenhum valor mudou — o critério de MEDIÇÃO continua o do BEN, o que mudou foi
+a rotulagem.
+
+O DESTINO DA CLASS_2 NOS NÃO-RENOVÁVEIS É UM RÓTULO FIXO, ditado pela equipe, e
+não um resultado do modelo. Se o MACRO passar a dar outro uso a uma dessas
+fontes, o rótulo não acompanha sozinho: tem que ser revisto no var_55.py.
+
+A NOMENCLATURA DE SOLAR E EÓLICA AQUI É DIFERENTE DA DAS ids 66/67/68, de
+propósito: lá são 'Solar photovoltaic' + 'Rooftop'; aqui são 'Solar rooftop' +
+'Solar'. Aqui é matriz de oferta primária, lá é parque gerador.
 
 RECORTE ESPACIAL (decidido em 01/09/2026): sai o nacional e o espacial no
 mesmo arquivo, mas só as fontes que têm unidade espacial no modelo ganham
@@ -587,7 +618,7 @@ localização — aqui essa ambiguidade não existe porque não há linha estadu
 Conferido: a soma das linhas espaciais bate com a linha BR em todas as fontes
 que têm recorte, diferença máxima de 3e-05 GWh.
 
-TRÊS FONTES SEM ABERTURA na Class_3, por decisão da equipe: carvão mineral
+TRÊS FONTES SEM ABERTURA ABAIXO DA FONTE, por decisão da equipe: carvão mineral
 (nacional e importado somados — o BEN não separa a origem na matriz e a
 plataforma não pediu), hidráulica (reservatório e fio d'água somados) e gás
 natural (só existe o fóssil no modelo, não há o que distinguir). Os nós
@@ -815,11 +846,20 @@ Quem identifica o produto é o nó de destino, que o modelo já separa do fóssi
 ESTRUTURA DE CLASSES segue o padrão da planilha ethanol_flows, com produto,
 matéria-prima e tecnologia como dimensões separadas:
 
-    Class_3 = produto        Hydrous ethanol, Biodiesel, Charcoal, Hydrogen...
-    Class_4 = matéria-prima  Sugarcane, Corn, Lignocellulosic, Macauba, Wood...
-    Class_5 = tecnologia     1G, 1G2G, 2G, FAME, HEFA, Alcohol-to-jet,
+    Class_1 = produto        Hydrous ethanol, Biodiesel, Charcoal, Hydrogen...
+    Class_2 = matéria-prima  Sugarcane, Corn, Lignocellulosic, Macauba, Wood...
+    Class_3 = tecnologia     1G, 1G2G, 2G, FAME, HEFA, Alcohol-to-jet,
                              Fischer-Tropsch, Gasification, Electrolysis...
                              com o CCS embutido no nome ('1G with CCS')
+    Class_4 = Class_5 = N/A
+
+As três dimensões ocuparam as Class_3, 4 e 5 até 15/09/2026, quando a equipe
+pediu para subi-las duas posições. Com isso saíram da saída os dois rótulos
+fixos que ocupavam as Class_1 e Class_2 ('Non-fossil end-use fuels (including
+biofuels)' e 'Fuel production') — o Variable_group já diz 'Energy supply and
+use' e o nome da variável já diz 'production by technology'. Se você estiver
+comparando com uma planilha que traz esses dois rótulos, ela é anterior a
+15/09/2026.
 
 Isso substituiu a sub-categoria do SEEG que ocupava a Class_3 na versão
 anterior. A troca vale a pena: a sub-categoria só existia para dois dos oito
