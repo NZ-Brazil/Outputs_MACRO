@@ -1,31 +1,31 @@
 Variable_group,Variable name,Class_1,Class_2,Class_3,Class_4,Class_5,Unit,Territory,Year,Value
-Energy supply and use,Demand side energy capital,Demand side energy capital,Demand side energy capital,Demand side energy capital,Total,NA,US$,BR,2025,246471089475.66486
-Energy supply and use,Demand side energy capital,Demand side energy capital,Demand side energy capital,Demand side energy capital,Total,NA,US$,BR,2030,173343352838.60126
-Energy supply and use,Demand side energy capital,Demand side energy capital,Demand side energy capital,Demand side energy capital,Total,NA,US$,BR,2035,120910432779.03156
-Energy supply and use,Demand side energy capital,Demand side energy capital,Demand side energy capital,Demand side energy capital,Total,NA,US$,BR,2040,86000237927.62186
-Energy supply and use,Demand side energy capital,Demand side energy capital,Demand side energy capital,Demand side energy capital,Total,NA,US$,BR,2045,59022298618.81378
-Energy supply and use,Demand side energy capital,Demand side energy capital,Demand side energy capital,Demand side energy capital,Total,NA,US$,BR,2050,39020045889.55713
-Energy supply and use,Demand side energy capital,Demand side energy capital,Demand side energy capital,Demand side energy capital,Diesel,NA,US$,BR,2025,154378054071.87967
-Energy supply and use,Demand side energy capital,Demand side energy capital,Demand side energy capital,Demand side energy capital,Diesel,NA,US$,BR,2030,100938730848.937
-Energy supply and use,Demand side energy capital,Demand side energy capital,Demand side energy capital,Demand side energy capital,Diesel,NA,US$,BR,2035,69490253743.6882
-Energy supply and use,Demand side energy capital,Demand side energy capital,Demand side energy capital,Demand side energy capital,Diesel,NA,US$,BR,2040,50342316676.09574
-Energy supply and use,Demand side energy capital,Demand side energy capital,Demand side energy capital,Demand side energy capital,Diesel,NA,US$,BR,2045,35971921171.73081
-Energy supply and use,Demand side energy capital,Demand side energy capital,Demand side energy capital,Demand side energy capital,Diesel,NA,US$,BR,2050,25544414934.71565
-Energy supply and use,Demand side energy capital,Demand side energy capital,Demand side energy capital,Demand side energy capital,Gasoline,NA,US$,BR,2025,42092394585.51344
-Energy supply and use,Demand side energy capital,Demand side energy capital,Demand side energy capital,Demand side energy capital,Gasoline,NA,US$,BR,2030,35011536031.89595
-Energy supply and use,Demand side energy capital,Demand side energy capital,Demand side energy capital,Demand side energy capital,Gasoline,NA,US$,BR,2035,23269644607.21443
-Energy supply and use,Demand side energy capital,Demand side energy capital,Demand side energy capital,Demand side energy capital,Gasoline,NA,US$,BR,2040,12560102255.16824
-Energy supply and use,Demand side energy capital,Demand side energy capital,Demand side energy capital,Demand side energy capital,Gasoline,NA,US$,BR,2045,4902314029.98457
-Energy supply and use,Demand side energy capital,Demand side energy capital,Demand side energy capital,Demand side energy capital,Gasoline,NA,US$,BR,2050,1455094866.88393
-Energy supply and use,Demand side energy capital,Demand side energy capital,Demand side energy capital,Demand side energy capital,Jet fuel,NA,US$,BR,2025,17139359243.73557
-Energy supply and use,Demand side energy capital,Demand side energy capital,Demand side energy capital,Demand side energy capital,Jet fuel,NA,US$,BR,2030,11653519988.47616
-Energy supply and use,Demand side energy capital,Demand side energy capital,Demand side energy capital,Demand side energy capital,Jet fuel,NA,US$,BR,2035,8383793593.86197
-Energy supply and use,Demand side energy capital,Demand side energy capital,Demand side energy capital,Demand side energy capital,Jet fuel,NA,US$,BR,2040,6245938315.80347
-Energy supply and use,Demand side energy capital,Demand side energy capital,Demand side energy capital,Demand side energy capital,Jet fuel,NA,US$,BR,2045,4666394697.92073
-Energy supply and use,Demand side energy capital,Demand side energy capital,Demand side energy capital,Demand side energy capital,Jet fuel,NA,US$,BR,2050,3468663132.38543
-Energy supply and use,Demand side energy capital,Demand side energy capital,Demand side energy capital,Demand side energy capital,Natural gas,NA,US$,BR,2025,32861281574.53615
-Energy supply and use,Demand side energy capital,Demand side energy capital,Demand side energy capital,Demand side energy capital,Natural gas,NA,US$,BR,2030,25739565969.29213
-Energy supply and use,Demand side energy capital,Demand side energy capital,Demand side energy capital,Demand side energy capital,Natural gas,NA,US$,BR,2035,19766740834.26694
-Energy supply and use,Demand side energy capital,Demand side energy capital,Demand side energy capital,Demand side energy capital,Natural gas,NA,US$,BR,2040,16851880680.55441
-Energy supply and use,Demand side energy capital,Demand side energy capital,Demand side energy capital,Demand side energy capital,Natural gas,NA,US$,BR,2045,13481668719.17768
-Energy supply and use,Demand side energy capital,Demand side energy capital,Demand side energy capital,Demand side energy capital,Natural gas,NA,US$,BR,2050,8551872955.57213
+Energy supply and use,Demand side energy capital,Total,Demand side energy capital,Demand side energy capital,NA,NA,US$,BR,2025,246471089475.66486
+Energy supply and use,Demand side energy capital,Total,Demand side energy capital,Demand side energy capital,NA,NA,US$,BR,2030,173343352838.60126
+Energy supply and use,Demand side energy capital,Total,Demand side energy capital,Demand side energy capital,NA,NA,US$,BR,2035,120910432779.03156
+Energy supply and use,Demand side energy capital,Total,Demand side energy capital,Demand side energy capital,NA,NA,US$,BR,2040,86000237927.62186
+Energy supply and use,Demand side energy capital,Total,Demand side energy capital,Demand side energy capital,NA,NA,US$,BR,2045,59022298618.81378
+Energy supply and use,Demand side energy capital,Total,Demand side energy capital,Demand side energy capital,NA,NA,US$,BR,2050,39020045889.55713
+Energy supply and use,Demand side energy capital,Diesel,Demand side energy capital,Demand side energy capital,NA,NA,US$,BR,2025,154378054071.87967
+Energy supply and use,Demand side energy capital,Diesel,Demand side energy capital,Demand side energy capital,NA,NA,US$,BR,2030,100938730848.937
+Energy supply and use,Demand side energy capital,Diesel,Demand side energy capital,Demand side energy capital,NA,NA,US$,BR,2035,69490253743.6882
+Energy supply and use,Demand side energy capital,Diesel,Demand side energy capital,Demand side energy capital,NA,NA,US$,BR,2040,50342316676.09574
+Energy supply and use,Demand side energy capital,Diesel,Demand side energy capital,Demand side energy capital,NA,NA,US$,BR,2045,35971921171.73081
+Energy supply and use,Demand side energy capital,Diesel,Demand side energy capital,Demand side energy capital,NA,NA,US$,BR,2050,25544414934.71565
+Energy supply and use,Demand side energy capital,Gasoline,Demand side energy capital,Demand side energy capital,NA,NA,US$,BR,2025,42092394585.51344
+Energy supply and use,Demand side energy capital,Gasoline,Demand side energy capital,Demand side energy capital,NA,NA,US$,BR,2030,35011536031.89595
+Energy supply and use,Demand side energy capital,Gasoline,Demand side energy capital,Demand side energy capital,NA,NA,US$,BR,2035,23269644607.21443
+Energy supply and use,Demand side energy capital,Gasoline,Demand side energy capital,Demand side energy capital,NA,NA,US$,BR,2040,12560102255.16824
+Energy supply and use,Demand side energy capital,Gasoline,Demand side energy capital,Demand side energy capital,NA,NA,US$,BR,2045,4902314029.98457
+Energy supply and use,Demand side energy capital,Gasoline,Demand side energy capital,Demand side energy capital,NA,NA,US$,BR,2050,1455094866.88393
+Energy supply and use,Demand side energy capital,Jet fuel,Demand side energy capital,Demand side energy capital,NA,NA,US$,BR,2025,17139359243.73557
+Energy supply and use,Demand side energy capital,Jet fuel,Demand side energy capital,Demand side energy capital,NA,NA,US$,BR,2030,11653519988.47616
+Energy supply and use,Demand side energy capital,Jet fuel,Demand side energy capital,Demand side energy capital,NA,NA,US$,BR,2035,8383793593.86197
+Energy supply and use,Demand side energy capital,Jet fuel,Demand side energy capital,Demand side energy capital,NA,NA,US$,BR,2040,6245938315.80347
+Energy supply and use,Demand side energy capital,Jet fuel,Demand side energy capital,Demand side energy capital,NA,NA,US$,BR,2045,4666394697.92073
+Energy supply and use,Demand side energy capital,Jet fuel,Demand side energy capital,Demand side energy capital,NA,NA,US$,BR,2050,3468663132.38543
+Energy supply and use,Demand side energy capital,Natural gas,Demand side energy capital,Demand side energy capital,NA,NA,US$,BR,2025,32861281574.53615
+Energy supply and use,Demand side energy capital,Natural gas,Demand side energy capital,Demand side energy capital,NA,NA,US$,BR,2030,25739565969.29213
+Energy supply and use,Demand side energy capital,Natural gas,Demand side energy capital,Demand side energy capital,NA,NA,US$,BR,2035,19766740834.26694
+Energy supply and use,Demand side energy capital,Natural gas,Demand side energy capital,Demand side energy capital,NA,NA,US$,BR,2040,16851880680.55441
+Energy supply and use,Demand side energy capital,Natural gas,Demand side energy capital,Demand side energy capital,NA,NA,US$,BR,2045,13481668719.17768
+Energy supply and use,Demand side energy capital,Natural gas,Demand side energy capital,Demand side energy capital,NA,NA,US$,BR,2050,8551872955.57213
