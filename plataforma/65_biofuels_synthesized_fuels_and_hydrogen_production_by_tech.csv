@@ -143,24 +143,18 @@ Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by te
 Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Renewable gasoline,Wood,Fischer-Tropsch,NA,NA,GWh,BR,2040,4.75368
 Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Renewable gasoline,Wood,Fischer-Tropsch,NA,NA,GWh,BR,2045,5.3082
 Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Renewable gasoline,Wood,Fischer-Tropsch,NA,NA,GWh,BR,2050,11.24272
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,BR,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,BR,2030,6.00406
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,BR,2035,8.52785
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,BR,2040,10.89277
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,BR,2045,13.31863
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,BR,2050,135.13394
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,BR,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,BR,2030,1.73218
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,BR,2035,3.07913
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,BR,2040,4.12413
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,BR,2045,5.327
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,BR,2050,51.16905
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,BR,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,BR,2030,1.82646
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,BR,2035,3.40732
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,BR,2040,5.08004
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,BR,2045,6.40128
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,BR,2050,67.99983
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,BR,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,BR,2030,1.73218
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,BR,2035,3.07913
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,BR,2040,4.12413
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,BR,2045,5.327
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,BR,2050,51.16905
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,BR,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,BR,2030,1.82646
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,BR,2035,3.40732
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,BR,2040,5.08004
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,BR,2045,6.40128
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,BR,2050,67.99983
 Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Hydrogen,Electricity,Electrolysis,NA,NA,GWh,BR,2025,469.89773
 Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Hydrogen,Electricity,Electrolysis,NA,NA,GWh,BR,2030,316.01659
 Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Hydrogen,Electricity,Electrolysis,NA,NA,GWh,BR,2035,149.89763
@@ -203,6 +197,12 @@ Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by te
 Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Hydrogen,Wood,Gasification with CCS,NA,NA,GWh,BR,2040,56.08376
 Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Hydrogen,Wood,Gasification with CCS,NA,NA,GWh,BR,2045,56.04569
 Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Hydrogen,Wood,Gasification with CCS,NA,NA,GWh,BR,2050,86.85714
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,BR,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,BR,2030,6.00406
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,BR,2035,8.52785
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,BR,2040,10.89277
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,BR,2045,13.31863
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,BR,2050,135.13394
 Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Hydrous ethanol,Corn,1G,NA,NA,GWh,BA,2025,0.34629
 Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Hydrous ethanol,Corn,1G,NA,NA,GWh,BA,2030,0.19654
 Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Hydrous ethanol,Corn,1G,NA,NA,GWh,BA,2035,0.16467
@@ -2891,480 +2891,318 @@ Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by te
 Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Renewable gasoline,Wood,Fischer-Tropsch,NA,NA,GWh,TO,2040,0.15725
 Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Renewable gasoline,Wood,Fischer-Tropsch,NA,NA,GWh,TO,2045,0.22897
 Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Renewable gasoline,Wood,Fischer-Tropsch,NA,NA,GWh,TO,2050,0.61824
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AC,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AC,2030,0.22158
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AC,2035,0.32093
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AC,2040,0.40061
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AC,2045,0.49726
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AC,2050,4.60003
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AL,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AL,2030,0.222
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AL,2035,0.31685
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AL,2040,0.40045
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AL,2045,0.49047
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AL,2050,4.68865
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AM,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AM,2030,0.21817
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AM,2035,0.30748
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AM,2040,0.38547
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AM,2045,0.47947
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AM,2050,4.37324
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AP,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AP,2030,0.22487
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AP,2035,0.32214
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AP,2040,0.40505
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AP,2045,0.50115
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AP,2050,4.95931
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,BA,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,BA,2030,0.22414
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,BA,2035,0.31429
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,BA,2040,0.40576
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,BA,2045,0.49331
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,BA,2050,4.8206
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,CE,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,CE,2030,0.22202
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,CE,2035,0.31283
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,CE,2040,0.40149
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,CE,2045,0.48897
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,CE,2050,4.83332
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,DF,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,DF,2030,0.22334
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,DF,2035,0.31996
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,DF,2040,0.40019
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,DF,2045,0.4978
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,DF,2050,4.55792
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,ES,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,ES,2030,0.21337
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,ES,2035,0.29986
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,ES,2040,0.378
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,ES,2045,0.47107
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,ES,2050,4.47898
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,GO,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,GO,2030,0.22388
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,GO,2035,0.31292
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,GO,2040,0.40336
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,GO,2045,0.49027
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,GO,2050,5.29244
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MA,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MA,2030,0.22505
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MA,2035,0.32032
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MA,2040,0.41495
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MA,2045,0.49937
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MA,2050,5.16056
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MG,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MG,2030,0.22023
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MG,2035,0.3075
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MG,2040,0.39776
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MG,2045,0.48125
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MG,2050,5.10878
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MS,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MS,2030,0.22506
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MS,2035,0.31881
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MS,2040,0.41083
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MS,2045,0.4997
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MS,2050,5.72882
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MT,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MT,2030,0.2221
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MT,2035,0.30977
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MT,2040,0.40376
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MT,2045,0.48733
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MT,2050,4.90313
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PA,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PA,2030,0.21978
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PA,2035,0.31315
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PA,2040,0.39818
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PA,2045,0.48644
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PA,2050,4.60959
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PB,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PB,2030,0.2248
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PB,2035,0.31898
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PB,2040,0.40545
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PB,2045,0.49441
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PB,2050,4.80734
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PE,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PE,2030,0.22519
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PE,2035,0.31885
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PE,2040,0.40734
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PE,2045,0.49759
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PE,2050,4.95931
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PI,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PI,2030,0.22727
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PI,2035,0.32369
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PI,2040,0.41531
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PI,2045,0.50509
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PI,2050,5.59998
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PR,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PR,2030,0.22103
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PR,2035,0.31055
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PR,2040,0.40226
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PR,2045,0.48963
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PR,2050,5.39617
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RJ,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RJ,2030,0.21374
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RJ,2035,0.30076
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RJ,2040,0.38814
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RJ,2045,0.48171
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RJ,2050,4.47238
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RN,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RN,2030,0.22593
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RN,2035,0.32391
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RN,2040,0.41582
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RN,2045,0.50512
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RN,2050,5.77812
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RO,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RO,2030,0.22334
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RO,2035,0.32277
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RO,2040,0.40673
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RO,2045,0.49747
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RO,2050,4.74626
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RR,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RR,2030,0.22528
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RR,2035,0.32252
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RR,2040,0.4058
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RR,2045,0.50258
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RR,2050,5.27798
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RS,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RS,2030,0.22063
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RS,2035,0.31379
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RS,2040,0.40303
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RS,2045,0.4933
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RS,2050,5.12597
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SC,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SC,2030,0.21894
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SC,2035,0.31123
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SC,2040,0.39906
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SC,2045,0.48651
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SC,2050,5.07476
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SE,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SE,2030,0.22426
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SE,2035,0.31986
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SE,2040,0.40558
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SE,2045,0.49803
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SE,2050,4.9855
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SP,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SP,2030,0.22033
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SP,2035,0.31709
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SP,2040,0.41203
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SP,2045,0.49692
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SP,2050,5.25098
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,TO,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,TO,2030,0.22773
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,TO,2035,0.32706
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,TO,2040,0.42034
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,TO,2045,0.50641
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,TO,2050,5.54382
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,AC,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,AC,2030,0.02757
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,AC,2035,0.04887
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,AC,2040,0.08225
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,AC,2045,0.11877
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,AC,2050,1.43207
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,AL,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,AL,2030,0.0229
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,AL,2035,0.03529
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,AL,2040,0.06028
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,AL,2045,0.08111
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,AL,2050,1.10572
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,AM,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,AM,2030,0.02111
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,AM,2035,0.03507
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,AM,2040,0.05917
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,AM,2045,0.08432
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,AM,2050,0.83681
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,BA,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,BA,2030,0.11069
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,BA,2035,0.20313
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,BA,2040,0.24644
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,BA,2045,0.33573
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,BA,2050,4.19113
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,CE,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,CE,2030,0.0413
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,CE,2035,0.07573
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,CE,2040,0.11517
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,CE,2045,0.1623
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,CE,2050,1.59116
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,DF,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,DF,2030,0.03125
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,DF,2035,0.05552
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,DF,2040,0.09466
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,DF,2045,0.1359
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,DF,2050,1.56965
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,ES,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,ES,2030,0.04691
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,ES,2035,0.08319
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,ES,2040,0.12359
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,ES,2045,0.16086
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,ES,2050,1.87559
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,GO,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,GO,2030,0.12704
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,GO,2035,0.21515
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,GO,2040,0.25678
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,GO,2045,0.33573
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,GO,2050,2.81788
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,MA,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,MA,2030,0.09601
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,MA,2035,0.17586
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,MA,2040,0.22337
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,MA,2045,0.28081
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,MA,2050,2.57799
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,MG,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,MG,2030,0.10065
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,MG,2035,0.18584
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,MG,2040,0.21384
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,MG,2045,0.27204
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,MG,2050,3.03521
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,MS,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,MS,2030,0.11941
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,MS,2035,0.19972
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,MS,2040,0.23893
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,MS,2045,0.32709
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,MS,2050,2.66536
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,MT,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,MT,2030,0.16665
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,MT,2035,0.30119
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,MT,2040,0.43647
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,MT,2045,0.50147
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,MT,2050,2.51419
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,PA,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,PA,2030,0.04494
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,PA,2035,0.07933
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,PA,2040,0.11108
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,PA,2045,0.13994
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,PA,2050,1.51591
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,PB,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,PB,2030,0.03851
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,PB,2035,0.06856
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,PB,2040,0.10527
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,PB,2045,0.1484
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,PB,2050,1.11014
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,PE,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,PE,2030,0.05986
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,PE,2035,0.08288
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,PE,2040,0.12511
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,PE,2045,0.16714
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,PE,2050,1.49545
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,PI,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,PI,2030,0.07929
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,PI,2035,0.13943
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,PI,2040,0.18242
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,PI,2045,0.21265
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,PI,2050,1.90951
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,PR,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,PR,2030,0.10011
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,PR,2035,0.18675
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,PR,2040,0.23327
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,PR,2045,0.28302
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,PR,2050,2.36422
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,RJ,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,RJ,2030,0.05372
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,RJ,2035,0.09049
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,RJ,2040,0.13418
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,RJ,2045,0.16475
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,RJ,2050,1.71535
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,RN,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,RN,2030,0.04228
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,RN,2035,0.07525
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,RN,2040,0.11404
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,RN,2045,0.1605
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,RN,2050,1.48353
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,RO,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,RO,2030,0.04481
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,RO,2035,0.07894
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,RO,2040,0.11127
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,RO,2045,0.14027
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,RO,2050,1.5179
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,RR,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,RR,2030,0.02732
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,RR,2035,0.04828
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,RR,2040,0.08249
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,RR,2045,0.11908
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,RR,2050,1.51235
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,RS,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,RS,2030,0.07015
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,RS,2035,0.11913
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,RS,2040,0.15417
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,RS,2045,0.17209
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,RS,2050,1.5413
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,SC,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,SC,2030,0.05189
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,SC,2035,0.09564
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,SC,2040,0.12944
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,SC,2045,0.15368
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,SC,2050,1.49804
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,SE,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,SE,2030,0.04961
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,SE,2035,0.09409
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,SE,2040,0.13488
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,SE,2045,0.16812
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,SE,2050,1.76039
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,SP,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,SP,2030,0.07733
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,SP,2035,0.15709
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,SP,2040,0.17097
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,SP,2045,0.26161
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,SP,2050,2.18812
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,TO,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,TO,2030,0.08087
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,TO,2035,0.1487
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,TO,2040,0.18458
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,TO,2045,0.23963
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification,NA,NA,GWh,TO,2050,3.34411
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,AC,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,AC,2030,0.02794
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,AC,2035,0.05278
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,AC,2040,0.0964
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,AC,2045,0.13749
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,AC,2050,1.38231
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,AL,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,AL,2030,0.02453
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,AL,2035,0.04152
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,AL,2040,0.07635
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,AL,2045,0.104
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,AL,2050,1.33383
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,AM,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,AM,2030,0.0204
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,AM,2035,0.03707
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,AM,2040,0.06442
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,AM,2045,0.08935
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,AM,2050,0.78582
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,BA,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,BA,2030,0.0882
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,BA,2035,0.17042
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,BA,2040,0.24089
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,BA,2045,0.26968
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,BA,2050,2.97474
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,CE,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,CE,2030,0.02972
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,CE,2035,0.05616
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,CE,2040,0.1014
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,CE,2045,0.15377
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,CE,2050,1.75794
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,DF,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,DF,2030,0.03289
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,DF,2035,0.05915
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,DF,2040,0.10959
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,DF,2045,0.15851
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,DF,2050,2.02011
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,ES,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,ES,2030,0.05339
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,ES,2035,0.0904
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,ES,2040,0.1569
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,ES,2045,0.20808
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,ES,2050,2.80773
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,GO,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,GO,2030,0.14813
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,GO,2035,0.27804
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,GO,2040,0.3878
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,GO,2045,0.45296
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,GO,2050,3.88777
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,MA,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,MA,2030,0.03225
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,MA,2035,0.0592
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,MA,2040,0.11281
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,MA,2045,0.16211
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,MA,2050,1.91308
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,MG,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,MG,2030,0.1357
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,MG,2035,0.26323
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,MG,2040,0.36354
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,MG,2045,0.37342
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,MG,2050,4.83095
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,MS,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,MS,2030,0.15491
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,MS,2035,0.29065
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,MS,2040,0.40805
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,MS,2045,0.515
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,MS,2050,4.74434
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,MT,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,MT,2030,0.13992
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,MT,2035,0.28595
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,MT,2040,0.37789
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,MT,2045,0.52152
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,MT,2050,8.19694
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,PA,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,PA,2030,0.0583
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,PA,2035,0.10012
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,PA,2040,0.15249
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,PA,2045,0.19163
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,PA,2050,1.64227
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,PB,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,PB,2030,0.03307
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,PB,2035,0.06045
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,PB,2040,0.1073
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,PB,2045,0.15831
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,PB,2050,1.30032
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,PE,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,PE,2030,0.04287
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,PE,2035,0.06542
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,PE,2040,0.11554
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,PE,2045,0.1738
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,PE,2050,1.68122
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,PI,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,PI,2030,0.03247
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,PI,2035,0.05876
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,PI,2040,0.11149
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,PI,2045,0.16511
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,PI,2050,1.94495
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,PR,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,PR,2030,0.14251
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,PR,2035,0.28585
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,PR,2040,0.39986
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,PR,2045,0.49165
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,PR,2050,3.91104
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,RJ,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,RJ,2030,0.04604
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,RJ,2035,0.07682
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,RJ,2040,0.13285
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,RJ,2045,0.17869
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,RJ,2050,1.72044
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,RN,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,RN,2030,0.03521
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,RN,2035,0.06366
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,RN,2040,0.11371
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,RN,2045,0.16834
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,RN,2050,1.72523
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,RO,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,RO,2030,0.058
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,RO,2035,0.09975
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,RO,2040,0.15377
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,RO,2045,0.19208
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,RO,2050,1.64339
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,RR,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,RR,2030,0.02781
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,RR,2035,0.05227
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,RR,2040,0.0968
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,RR,2045,0.13672
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,RR,2050,1.42726
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,RS,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,RS,2030,0.12396
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,RS,2035,0.22302
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,RS,2040,0.28279
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,RS,2045,0.28361
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,RS,2050,2.53494
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,SC,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,SC,2030,0.08075
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,SC,2035,0.14848
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,SC,2040,0.2031
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,SC,2045,0.23157
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,SC,2050,2.36476
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,SE,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,SE,2030,0.03524
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,SE,2035,0.06827
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,SE,2040,0.11962
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,SE,2045,0.18169
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,SE,2050,2.11506
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,SP,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,SP,2030,0.12942
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,SP,2035,0.24776
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,SP,2040,0.36015
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,SP,2045,0.43628
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,SP,2050,4.16048
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,TO,2025,0.0
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,TO,2030,0.09279
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,TO,2035,0.17211
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,TO,2040,0.23453
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,TO,2045,0.26591
-Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Biomethane,Residue,Gasification with CCS,NA,NA,GWh,TO,2050,3.19292
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,AC,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,AC,2030,0.02757
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,AC,2035,0.04887
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,AC,2040,0.08225
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,AC,2045,0.11877
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,AC,2050,1.43207
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,AL,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,AL,2030,0.0229
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,AL,2035,0.03529
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,AL,2040,0.06028
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,AL,2045,0.08111
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,AL,2050,1.10572
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,AM,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,AM,2030,0.02111
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,AM,2035,0.03507
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,AM,2040,0.05917
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,AM,2045,0.08432
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,AM,2050,0.83681
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,BA,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,BA,2030,0.11069
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,BA,2035,0.20313
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,BA,2040,0.24644
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,BA,2045,0.33573
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,BA,2050,4.19113
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,CE,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,CE,2030,0.0413
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,CE,2035,0.07573
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,CE,2040,0.11517
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,CE,2045,0.1623
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,CE,2050,1.59116
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,DF,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,DF,2030,0.03125
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,DF,2035,0.05552
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,DF,2040,0.09466
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,DF,2045,0.1359
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,DF,2050,1.56965
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,ES,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,ES,2030,0.04691
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,ES,2035,0.08319
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,ES,2040,0.12359
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,ES,2045,0.16086
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,ES,2050,1.87559
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,GO,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,GO,2030,0.12704
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,GO,2035,0.21515
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,GO,2040,0.25678
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,GO,2045,0.33573
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,GO,2050,2.81788
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,MA,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,MA,2030,0.09601
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,MA,2035,0.17586
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,MA,2040,0.22337
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,MA,2045,0.28081
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,MA,2050,2.57799
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,MG,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,MG,2030,0.10065
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,MG,2035,0.18584
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,MG,2040,0.21384
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,MG,2045,0.27204
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,MG,2050,3.03521
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,MS,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,MS,2030,0.11941
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,MS,2035,0.19972
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,MS,2040,0.23893
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,MS,2045,0.32709
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,MS,2050,2.66536
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,MT,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,MT,2030,0.16665
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,MT,2035,0.30119
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,MT,2040,0.43647
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,MT,2045,0.50147
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,MT,2050,2.51419
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,PA,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,PA,2030,0.04494
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,PA,2035,0.07933
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,PA,2040,0.11108
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,PA,2045,0.13994
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,PA,2050,1.51591
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,PB,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,PB,2030,0.03851
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,PB,2035,0.06856
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,PB,2040,0.10527
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,PB,2045,0.1484
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,PB,2050,1.11014
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,PE,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,PE,2030,0.05986
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,PE,2035,0.08288
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,PE,2040,0.12511
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,PE,2045,0.16714
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,PE,2050,1.49545
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,PI,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,PI,2030,0.07929
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,PI,2035,0.13943
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,PI,2040,0.18242
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,PI,2045,0.21265
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,PI,2050,1.90951
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,PR,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,PR,2030,0.10011
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,PR,2035,0.18675
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,PR,2040,0.23327
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,PR,2045,0.28302
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,PR,2050,2.36422
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,RJ,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,RJ,2030,0.05372
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,RJ,2035,0.09049
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,RJ,2040,0.13418
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,RJ,2045,0.16475
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,RJ,2050,1.71535
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,RN,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,RN,2030,0.04228
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,RN,2035,0.07525
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,RN,2040,0.11404
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,RN,2045,0.1605
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,RN,2050,1.48353
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,RO,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,RO,2030,0.04481
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,RO,2035,0.07894
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,RO,2040,0.11127
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,RO,2045,0.14027
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,RO,2050,1.5179
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,RR,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,RR,2030,0.02732
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,RR,2035,0.04828
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,RR,2040,0.08249
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,RR,2045,0.11908
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,RR,2050,1.51235
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,RS,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,RS,2030,0.07015
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,RS,2035,0.11913
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,RS,2040,0.15417
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,RS,2045,0.17209
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,RS,2050,1.5413
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,SC,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,SC,2030,0.05189
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,SC,2035,0.09564
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,SC,2040,0.12944
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,SC,2045,0.15368
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,SC,2050,1.49804
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,SE,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,SE,2030,0.04961
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,SE,2035,0.09409
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,SE,2040,0.13488
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,SE,2045,0.16812
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,SE,2050,1.76039
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,SP,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,SP,2030,0.07733
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,SP,2035,0.15709
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,SP,2040,0.17097
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,SP,2045,0.26161
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,SP,2050,2.18812
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,TO,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,TO,2030,0.08087
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,TO,2035,0.1487
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,TO,2040,0.18458
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,TO,2045,0.23963
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification,NA,NA,GWh,TO,2050,3.34411
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,AC,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,AC,2030,0.02794
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,AC,2035,0.05278
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,AC,2040,0.0964
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,AC,2045,0.13749
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,AC,2050,1.38231
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,AL,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,AL,2030,0.02453
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,AL,2035,0.04152
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,AL,2040,0.07635
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,AL,2045,0.104
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,AL,2050,1.33383
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,AM,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,AM,2030,0.0204
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,AM,2035,0.03707
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,AM,2040,0.06442
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,AM,2045,0.08935
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,AM,2050,0.78582
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,BA,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,BA,2030,0.0882
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,BA,2035,0.17042
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,BA,2040,0.24089
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,BA,2045,0.26968
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,BA,2050,2.97474
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,CE,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,CE,2030,0.02972
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,CE,2035,0.05616
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,CE,2040,0.1014
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,CE,2045,0.15377
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,CE,2050,1.75794
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,DF,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,DF,2030,0.03289
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,DF,2035,0.05915
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,DF,2040,0.10959
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,DF,2045,0.15851
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,DF,2050,2.02011
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,ES,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,ES,2030,0.05339
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,ES,2035,0.0904
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,ES,2040,0.1569
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,ES,2045,0.20808
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,ES,2050,2.80773
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,GO,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,GO,2030,0.14813
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,GO,2035,0.27804
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,GO,2040,0.3878
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,GO,2045,0.45296
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,GO,2050,3.88777
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,MA,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,MA,2030,0.03225
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,MA,2035,0.0592
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,MA,2040,0.11281
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,MA,2045,0.16211
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,MA,2050,1.91308
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,MG,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,MG,2030,0.1357
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,MG,2035,0.26323
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,MG,2040,0.36354
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,MG,2045,0.37342
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,MG,2050,4.83095
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,MS,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,MS,2030,0.15491
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,MS,2035,0.29065
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,MS,2040,0.40805
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,MS,2045,0.515
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,MS,2050,4.74434
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,MT,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,MT,2030,0.13992
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,MT,2035,0.28595
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,MT,2040,0.37789
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,MT,2045,0.52152
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,MT,2050,8.19694
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,PA,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,PA,2030,0.0583
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,PA,2035,0.10012
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,PA,2040,0.15249
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,PA,2045,0.19163
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,PA,2050,1.64227
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,PB,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,PB,2030,0.03307
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,PB,2035,0.06045
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,PB,2040,0.1073
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,PB,2045,0.15831
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,PB,2050,1.30032
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,PE,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,PE,2030,0.04287
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,PE,2035,0.06542
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,PE,2040,0.11554
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,PE,2045,0.1738
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,PE,2050,1.68122
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,PI,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,PI,2030,0.03247
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,PI,2035,0.05876
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,PI,2040,0.11149
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,PI,2045,0.16511
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,PI,2050,1.94495
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,PR,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,PR,2030,0.14251
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,PR,2035,0.28585
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,PR,2040,0.39986
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,PR,2045,0.49165
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,PR,2050,3.91104
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,RJ,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,RJ,2030,0.04604
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,RJ,2035,0.07682
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,RJ,2040,0.13285
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,RJ,2045,0.17869
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,RJ,2050,1.72044
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,RN,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,RN,2030,0.03521
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,RN,2035,0.06366
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,RN,2040,0.11371
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,RN,2045,0.16834
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,RN,2050,1.72523
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,RO,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,RO,2030,0.058
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,RO,2035,0.09975
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,RO,2040,0.15377
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,RO,2045,0.19208
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,RO,2050,1.64339
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,RR,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,RR,2030,0.02781
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,RR,2035,0.05227
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,RR,2040,0.0968
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,RR,2045,0.13672
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,RR,2050,1.42726
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,RS,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,RS,2030,0.12396
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,RS,2035,0.22302
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,RS,2040,0.28279
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,RS,2045,0.28361
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,RS,2050,2.53494
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,SC,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,SC,2030,0.08075
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,SC,2035,0.14848
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,SC,2040,0.2031
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,SC,2045,0.23157
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,SC,2050,2.36476
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,SE,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,SE,2030,0.03524
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,SE,2035,0.06827
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,SE,2040,0.11962
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,SE,2045,0.18169
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,SE,2050,2.11506
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,SP,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,SP,2030,0.12942
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,SP,2035,0.24776
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,SP,2040,0.36015
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,SP,2045,0.43628
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,SP,2050,4.16048
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,TO,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,TO,2030,0.09279
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,TO,2035,0.17211
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,TO,2040,0.23453
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,TO,2045,0.26591
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic natural gas,Residue,Gasification with CCS,NA,NA,GWh,TO,2050,3.19292
 Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Hydrogen,Electricity,Electrolysis,NA,NA,GWh,AC,2025,11.47497
 Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Hydrogen,Electricity,Electrolysis,NA,NA,GWh,AC,2030,2.24011
 Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Hydrogen,Electricity,Electrolysis,NA,NA,GWh,AC,2035,1.81764
@@ -4403,3 +4241,165 @@ Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by te
 Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Hydrogen,Wood,Gasification with CCS,NA,NA,GWh,TO,2040,2.79746
 Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Hydrogen,Wood,Gasification with CCS,NA,NA,GWh,TO,2045,2.63134
 Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Hydrogen,Wood,Gasification with CCS,NA,NA,GWh,TO,2050,2.33011
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AC,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AC,2030,0.22158
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AC,2035,0.32093
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AC,2040,0.40061
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AC,2045,0.49726
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AC,2050,4.60003
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AL,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AL,2030,0.222
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AL,2035,0.31685
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AL,2040,0.40045
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AL,2045,0.49047
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AL,2050,4.68865
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AM,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AM,2030,0.21817
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AM,2035,0.30748
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AM,2040,0.38547
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AM,2045,0.47947
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AM,2050,4.37324
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AP,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AP,2030,0.22487
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AP,2035,0.32214
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AP,2040,0.40505
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AP,2045,0.50115
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,AP,2050,4.95931
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,BA,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,BA,2030,0.22414
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,BA,2035,0.31429
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,BA,2040,0.40576
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,BA,2045,0.49331
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,BA,2050,4.8206
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,CE,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,CE,2030,0.22202
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,CE,2035,0.31283
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,CE,2040,0.40149
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,CE,2045,0.48897
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,CE,2050,4.83332
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,DF,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,DF,2030,0.22334
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,DF,2035,0.31996
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,DF,2040,0.40019
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,DF,2045,0.4978
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,DF,2050,4.55792
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,ES,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,ES,2030,0.21337
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,ES,2035,0.29986
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,ES,2040,0.378
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,ES,2045,0.47107
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,ES,2050,4.47898
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,GO,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,GO,2030,0.22388
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,GO,2035,0.31292
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,GO,2040,0.40336
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,GO,2045,0.49027
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,GO,2050,5.29244
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MA,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MA,2030,0.22505
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MA,2035,0.32032
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MA,2040,0.41495
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MA,2045,0.49937
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MA,2050,5.16056
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MG,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MG,2030,0.22023
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MG,2035,0.3075
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MG,2040,0.39776
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MG,2045,0.48125
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MG,2050,5.10878
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MS,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MS,2030,0.22506
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MS,2035,0.31881
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MS,2040,0.41083
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MS,2045,0.4997
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MS,2050,5.72882
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MT,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MT,2030,0.2221
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MT,2035,0.30977
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MT,2040,0.40376
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MT,2045,0.48733
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,MT,2050,4.90313
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PA,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PA,2030,0.21978
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PA,2035,0.31315
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PA,2040,0.39818
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PA,2045,0.48644
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PA,2050,4.60959
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PB,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PB,2030,0.2248
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PB,2035,0.31898
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PB,2040,0.40545
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PB,2045,0.49441
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PB,2050,4.80734
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PE,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PE,2030,0.22519
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PE,2035,0.31885
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PE,2040,0.40734
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PE,2045,0.49759
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PE,2050,4.95931
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PI,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PI,2030,0.22727
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PI,2035,0.32369
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PI,2040,0.41531
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PI,2045,0.50509
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PI,2050,5.59998
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PR,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PR,2030,0.22103
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PR,2035,0.31055
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PR,2040,0.40226
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PR,2045,0.48963
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,PR,2050,5.39617
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RJ,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RJ,2030,0.21374
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RJ,2035,0.30076
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RJ,2040,0.38814
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RJ,2045,0.48171
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RJ,2050,4.47238
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RN,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RN,2030,0.22593
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RN,2035,0.32391
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RN,2040,0.41582
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RN,2045,0.50512
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RN,2050,5.77812
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RO,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RO,2030,0.22334
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RO,2035,0.32277
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RO,2040,0.40673
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RO,2045,0.49747
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RO,2050,4.74626
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RR,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RR,2030,0.22528
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RR,2035,0.32252
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RR,2040,0.4058
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RR,2045,0.50258
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RR,2050,5.27798
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RS,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RS,2030,0.22063
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RS,2035,0.31379
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RS,2040,0.40303
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RS,2045,0.4933
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,RS,2050,5.12597
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SC,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SC,2030,0.21894
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SC,2035,0.31123
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SC,2040,0.39906
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SC,2045,0.48651
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SC,2050,5.07476
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SE,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SE,2030,0.22426
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SE,2035,0.31986
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SE,2040,0.40558
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SE,2045,0.49803
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SE,2050,4.9855
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SP,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SP,2030,0.22033
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SP,2035,0.31709
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SP,2040,0.41203
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SP,2045,0.49692
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,SP,2050,5.25098
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,TO,2025,0.0
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,TO,2030,0.22773
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,TO,2035,0.32706
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,TO,2040,0.42034
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,TO,2045,0.50641
+Energy supply and use,"Biofuels, synthesized fuels and hydrogen production by technology",Synthetic methane,CO2 and hydrogen,Methanation (e-fuel),NA,NA,GWh,TO,2050,5.54382

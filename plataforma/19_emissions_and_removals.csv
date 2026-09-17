@@ -1,169 +1,61 @@
 Variable_group,Emissions_or_removals,Class_1,Class_2,Class_3,Class_4,Class_5,Unit,Territory,Year,Value
-Emissions,Removals,Energy,Corn,1G ethanol,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-109865502.12371
-Emissions,Removals,Energy,Corn,1G ethanol,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-65686411.22318
-Emissions,Removals,Energy,Corn,1G ethanol,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-21025856.6244
-Emissions,Removals,Energy,Corn,1G ethanol,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-4728861.6655
-Emissions,Removals,Energy,Corn,1G ethanol,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-4008288.74782
-Emissions,Removals,Energy,Corn,1G ethanol,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-3742849.12078
-Emissions,Removals,Energy,Corn,1G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-20337.96651
-Emissions,Removals,Energy,Corn,1G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-24600.27834
-Emissions,Removals,Energy,Corn,1G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-25496.53868
-Emissions,Removals,Energy,Corn,1G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-22144.14123
-Emissions,Removals,Energy,Corn,1G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-21143.88345
-Emissions,Removals,Energy,Corn,1G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-26012.13805
-Emissions,Removals,Energy,Macauba,FAME,Biodiesel (FAME),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-0.0
-Emissions,Removals,Energy,Macauba,FAME,Biodiesel (FAME),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-85664991.99512
-Emissions,Removals,Energy,Macauba,FAME,Biodiesel (FAME),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-112220102.96598
-Emissions,Removals,Energy,Macauba,FAME,Biodiesel (FAME),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-116691455.82925
-Emissions,Removals,Energy,Macauba,FAME,Biodiesel (FAME),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-119722706.19538
-Emissions,Removals,Energy,Macauba,FAME,Biodiesel (FAME),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-122050503.30895
-Emissions,Removals,Energy,Macauba,HEFA,Synthetic Diesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-0.0
-Emissions,Removals,Energy,Macauba,HEFA,Synthetic Diesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-3613.89744
-Emissions,Removals,Energy,Macauba,HEFA,Synthetic Diesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-4776.28701
-Emissions,Removals,Energy,Macauba,HEFA,Synthetic Diesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-5547.01554
-Emissions,Removals,Energy,Macauba,HEFA,Synthetic Diesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-5822.81239
-Emissions,Removals,Energy,Macauba,HEFA,Synthetic Diesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-47384.41631
-Emissions,Removals,Energy,Soybean,FAME,Biodiesel (FAME),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-65824443.73927
-Emissions,Removals,Energy,Soybean,FAME,Biodiesel (FAME),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-8951.19551
-Emissions,Removals,Energy,Soybean,FAME,Biodiesel (FAME),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-15241.81667
-Emissions,Removals,Energy,Soybean,FAME,Biodiesel (FAME),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-16944.33009
-Emissions,Removals,Energy,Soybean,FAME,Biodiesel (FAME),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-16341.78223
-Emissions,Removals,Energy,Soybean,FAME,Biodiesel (FAME),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-84496.92898
-Emissions,Removals,Energy,Soybean,HEFA,Synthetic Diesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-0.0
-Emissions,Removals,Energy,Soybean,HEFA,Synthetic Diesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-1980.0097
-Emissions,Removals,Energy,Soybean,HEFA,Synthetic Diesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-2632.47179
-Emissions,Removals,Energy,Soybean,HEFA,Synthetic Diesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-3055.3399
-Emissions,Removals,Energy,Soybean,HEFA,Synthetic Diesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-3272.95387
-Emissions,Removals,Energy,Soybean,HEFA,Synthetic Diesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-27975.61477
-Emissions,Removals,Energy,Sugarcane,1G ethanol,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-23564961.90072
-Emissions,Removals,Energy,Sugarcane,1G ethanol,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-56280974.86902
-Emissions,Removals,Energy,Sugarcane,1G ethanol,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-54085620.70902
-Emissions,Removals,Energy,Sugarcane,1G ethanol,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-57548401.27664
-Emissions,Removals,Energy,Sugarcane,1G ethanol,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-76417797.36488
-Emissions,Removals,Energy,Sugarcane,1G ethanol,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-7746860.10881
-Emissions,Removals,Energy,Sugarcane,1G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-78786.68006
-Emissions,Removals,Energy,Sugarcane,1G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-275701.53877
-Emissions,Removals,Energy,Sugarcane,1G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-243412680.93636
-Emissions,Removals,Energy,Sugarcane,1G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-463199364.70223
-Emissions,Removals,Energy,Sugarcane,1G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-675389117.74413
-Emissions,Removals,Energy,Sugarcane,1G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-904837471.9283
-Emissions,Removals,Energy,Sugarcane,1G2G ethanol,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-171374.98462
-Emissions,Removals,Energy,Sugarcane,1G2G ethanol,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-259779.09086
-Emissions,Removals,Energy,Sugarcane,1G2G ethanol,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-299266.21306
-Emissions,Removals,Energy,Sugarcane,1G2G ethanol,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-288370.31551
-Emissions,Removals,Energy,Sugarcane,1G2G ethanol,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-277700.45588
-Emissions,Removals,Energy,Sugarcane,1G2G ethanol,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-150212.73252
-Emissions,Removals,Energy,Sugarcane,1G2G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-62858.61383
-Emissions,Removals,Energy,Sugarcane,1G2G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-156415.51938
-Emissions,Removals,Energy,Sugarcane,1G2G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-184206.80854
-Emissions,Removals,Energy,Sugarcane,1G2G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-182148.5029
-Emissions,Removals,Energy,Sugarcane,1G2G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-178502.91592
-Emissions,Removals,Energy,Sugarcane,1G2G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-180400.73766
-Emissions,Removals,Energy,Corn stover,Residue collection,NA,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-3272232.66566
-Emissions,Removals,Energy,Corn stover,Residue collection,NA,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-2857099.95106
-Emissions,Removals,Energy,Corn stover,Residue collection,NA,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-1966701.96071
-Emissions,Removals,Energy,Corn stover,Residue collection,NA,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-568351.35352
-Emissions,Removals,Energy,Corn stover,Residue collection,NA,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-768138.29306
-Emissions,Removals,Energy,Corn stover,Residue collection,NA,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-3405778.2204
-Emissions,Removals,Energy,Herbaceous aggregated residue,2G ethanol,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-77561.14344
-Emissions,Removals,Energy,Herbaceous aggregated residue,2G ethanol,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-116983.58323
-Emissions,Removals,Energy,Herbaceous aggregated residue,2G ethanol,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-121115.86994
-Emissions,Removals,Energy,Herbaceous aggregated residue,2G ethanol,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-118449.35513
-Emissions,Removals,Energy,Herbaceous aggregated residue,2G ethanol,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-118266.8183
-Emissions,Removals,Energy,Herbaceous aggregated residue,2G ethanol,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-61885.8939
-Emissions,Removals,Energy,Herbaceous aggregated residue,2G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-19850.27439
-Emissions,Removals,Energy,Herbaceous aggregated residue,2G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-39242.34927
-Emissions,Removals,Energy,Herbaceous aggregated residue,2G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-43223.98255
-Emissions,Removals,Energy,Herbaceous aggregated residue,2G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-42112.70016
-Emissions,Removals,Energy,Herbaceous aggregated residue,2G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-41888.01099
-Emissions,Removals,Energy,Herbaceous aggregated residue,2G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-64984.21124
-Emissions,Removals,Energy,Herbaceous aggregated residue,Gasification H2,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-24057.67787
-Emissions,Removals,Energy,Herbaceous aggregated residue,Gasification H2,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-37684.43309
-Emissions,Removals,Energy,Herbaceous aggregated residue,Gasification H2,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-43032.45685
-Emissions,Removals,Energy,Herbaceous aggregated residue,Gasification H2,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-42237.21791
-Emissions,Removals,Energy,Herbaceous aggregated residue,Gasification H2,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-42246.92878
-Emissions,Removals,Energy,Herbaceous aggregated residue,Gasification H2,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-112131.08662
-Emissions,Removals,Energy,Herbaceous aggregated residue,Gasification H2 with CCS,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-18248.7428
-Emissions,Removals,Energy,Herbaceous aggregated residue,Gasification H2 with CCS,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-30351.23995
-Emissions,Removals,Energy,Herbaceous aggregated residue,Gasification H2 with CCS,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-35661.82573
-Emissions,Removals,Energy,Herbaceous aggregated residue,Gasification H2 with CCS,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-35345.84579
-Emissions,Removals,Energy,Herbaceous aggregated residue,Gasification H2 with CCS,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-47234.23201
-Emissions,Removals,Energy,Herbaceous aggregated residue,Gasification H2 with CCS,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-2806641.62404
-Emissions,Removals,Energy,Herbaceous aggregated residue,Gasification SNG,Methane,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-0.0
-Emissions,Removals,Energy,Herbaceous aggregated residue,Gasification SNG,Methane,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-1101.52451
-Emissions,Removals,Energy,Herbaceous aggregated residue,Gasification SNG,Methane,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-1958.07376
-Emissions,Removals,Energy,Herbaceous aggregated residue,Gasification SNG,Methane,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-2622.60864
-Emissions,Removals,Energy,Herbaceous aggregated residue,Gasification SNG,Methane,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-3387.53459
-Emissions,Removals,Energy,Herbaceous aggregated residue,Gasification SNG,Methane,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-32539.34127
-Emissions,Removals,Energy,Herbaceous aggregated residue,Gasification SNG with CCS,Methane,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-0.0
-Emissions,Removals,Energy,Herbaceous aggregated residue,Gasification SNG with CCS,Methane,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-1161.4818
-Emissions,Removals,Energy,Herbaceous aggregated residue,Gasification SNG with CCS,Methane,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-2166.77426
-Emissions,Removals,Energy,Herbaceous aggregated residue,Gasification SNG with CCS,Methane,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-3230.48934
-Emissions,Removals,Energy,Herbaceous aggregated residue,Gasification SNG with CCS,Methane,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-4070.69221
-Emissions,Removals,Energy,Herbaceous aggregated residue,Gasification SNG with CCS,Methane,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-43242.3379
-Emissions,Removals,Energy,Rice straw,Residue collection,NA,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-78552.97715
-Emissions,Removals,Energy,Rice straw,Residue collection,NA,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-73978.68119
-Emissions,Removals,Energy,Rice straw,Residue collection,NA,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-52143.03411
-Emissions,Removals,Energy,Rice straw,Residue collection,NA,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-50105.8288
-Emissions,Removals,Energy,Rice straw,Residue collection,NA,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-51710.32496
-Emissions,Removals,Energy,Rice straw,Residue collection,NA,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-271431.41506
-Emissions,Removals,Energy,Sugarcane straw,Residue collection,NA,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-1146143.41654
-Emissions,Removals,Energy,Sugarcane straw,Residue collection,NA,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-2708685.64585
-Emissions,Removals,Energy,Sugarcane straw,Residue collection,NA,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-14272908.12283
-Emissions,Removals,Energy,Sugarcane straw,Residue collection,NA,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-24989070.24516
-Emissions,Removals,Energy,Sugarcane straw,Residue collection,NA,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-36080116.98717
-Emissions,Removals,Energy,Sugarcane straw,Residue collection,NA,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-43799254.12043
-Emissions,Removals,Energy,Forestry residues,Charcoal kiln,Charcoal,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-38628.55148
-Emissions,Removals,Energy,Forestry residues,Charcoal kiln,Charcoal,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-4147.47676
-Emissions,Removals,Energy,Forestry residues,Charcoal kiln,Charcoal,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-5505.15952
-Emissions,Removals,Energy,Forestry residues,Charcoal kiln,Charcoal,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-9685.42407
-Emissions,Removals,Energy,Forestry residues,Charcoal kiln,Charcoal,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-12643.86031
-Emissions,Removals,Energy,Forestry residues,Charcoal kiln,Charcoal,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-81611.61985
-Emissions,Removals,Energy,Plantation forestry,Biomass power,Electricity,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-420840.44816
-Emissions,Removals,Energy,Plantation forestry,Biomass power,Electricity,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-57851850.50389
-Emissions,Removals,Energy,Plantation forestry,Biomass power,Electricity,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-70203199.72702
-Emissions,Removals,Energy,Plantation forestry,Biomass power,Electricity,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-182545359.0417
-Emissions,Removals,Energy,Plantation forestry,Biomass power,Electricity,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-205288484.34433
-Emissions,Removals,Energy,Plantation forestry,Biomass power,Electricity,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-213960751.04935
-Emissions,Removals,Energy,Plantation forestry,Biomass power with CCS,Electricity,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-32235.58421
-Emissions,Removals,Energy,Plantation forestry,Biomass power with CCS,Electricity,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-46390.50743
-Emissions,Removals,Energy,Plantation forestry,Biomass power with CCS,Electricity,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-57138.61044
-Emissions,Removals,Energy,Plantation forestry,Biomass power with CCS,Electricity,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-58149.33506
-Emissions,Removals,Energy,Plantation forestry,Biomass power with CCS,Electricity,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-57845.41406
-Emissions,Removals,Energy,Plantation forestry,Biomass power with CCS,Electricity,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-16840945.25934
-Emissions,Removals,Energy,Plantation forestry,Charcoal kiln,Charcoal,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-29997781.59997
-Emissions,Removals,Energy,Plantation forestry,Charcoal kiln,Charcoal,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-30150632.94612
-Emissions,Removals,Energy,Plantation forestry,Charcoal kiln,Charcoal,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-30086155.37788
-Emissions,Removals,Energy,Plantation forestry,Charcoal kiln,Charcoal,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-29959374.52334
-Emissions,Removals,Energy,Plantation forestry,Charcoal kiln,Charcoal,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-28869411.7643
-Emissions,Removals,Energy,Plantation forestry,Charcoal kiln,Charcoal,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-27482010.64306
-Emissions,Removals,Energy,Plantation forestry,Gasification H2,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-26617.64486
-Emissions,Removals,Energy,Plantation forestry,Gasification H2,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-34454.04514
-Emissions,Removals,Energy,Plantation forestry,Gasification H2,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-36988.27896
-Emissions,Removals,Energy,Plantation forestry,Gasification H2,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-36458.46521
-Emissions,Removals,Energy,Plantation forestry,Gasification H2,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-36122.51354
-Emissions,Removals,Energy,Plantation forestry,Gasification H2,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-38074.59471
-Emissions,Removals,Energy,Plantation forestry,Gasification H2 with CCS,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-18493.09031
-Emissions,Removals,Energy,Plantation forestry,Gasification H2 with CCS,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-26376.67757
-Emissions,Removals,Energy,Plantation forestry,Gasification H2 with CCS,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-29051.27845
-Emissions,Removals,Energy,Plantation forestry,Gasification H2 with CCS,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-28186.61311
-Emissions,Removals,Energy,Plantation forestry,Gasification H2 with CCS,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-28167.47874
-Emissions,Removals,Energy,Plantation forestry,Gasification H2 with CCS,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-43652.71977
-Emissions,Removals,Energy,Atmospheric CO2,Direct air capture,NA,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-3131.39805
-Emissions,Removals,Energy,Atmospheric CO2,Direct air capture,NA,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-32108.79766
-Emissions,Removals,Energy,Atmospheric CO2,Direct air capture,NA,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-34703.87777
-Emissions,Removals,Energy,Atmospheric CO2,Direct air capture,NA,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-39717.45003
-Emissions,Removals,Energy,Atmospheric CO2,Direct air capture,NA,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-43840.95787
-Emissions,Removals,Energy,Atmospheric CO2,Direct air capture,NA,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-85712.48676
-Emissions,Removals,Energy,Ethanol (secondary feedstock),Ethanol-to-jet,Synthetic Diesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-7808.53449
-Emissions,Removals,Energy,Ethanol (secondary feedstock),Ethanol-to-jet,Synthetic Diesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-199.21218
-Emissions,Removals,Energy,Ethanol (secondary feedstock),Ethanol-to-jet,Synthetic Diesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-656.56555
-Emissions,Removals,Energy,Ethanol (secondary feedstock),Ethanol-to-jet,Synthetic Diesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-692.18063
-Emissions,Removals,Energy,Ethanol (secondary feedstock),Ethanol-to-jet,Synthetic Diesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-560.91332
-Emissions,Removals,Energy,Ethanol (secondary feedstock),Ethanol-to-jet,Synthetic Diesel,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-2194.40322
-Emissions,Removals,Energy,Ethanol (secondary feedstock),Ethanol-to-jet,Synthetic Jet (SAF),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-284.28501
-Emissions,Removals,Energy,Ethanol (secondary feedstock),Ethanol-to-jet,Synthetic Jet (SAF),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-443421.49046
-Emissions,Removals,Energy,Ethanol (secondary feedstock),Ethanol-to-jet,Synthetic Jet (SAF),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-1270766.5874
-Emissions,Removals,Energy,Ethanol (secondary feedstock),Ethanol-to-jet,Synthetic Jet (SAF),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-1671473.39575
-Emissions,Removals,Energy,Ethanol (secondary feedstock),Ethanol-to-jet,Synthetic Jet (SAF),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-1720184.97919
-Emissions,Removals,Energy,Ethanol (secondary feedstock),Ethanol-to-jet,Synthetic Jet (SAF),CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-1761168.64343
+Emissions,Removal by CCS only,Energy,Corn,1G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-14396.81508
+Emissions,Removal by CCS only,Energy,Corn,1G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-17414.01521
+Emissions,Removal by CCS only,Energy,Corn,1G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-18048.4589
+Emissions,Removal by CCS only,Energy,Corn,1G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-15675.36785
+Emissions,Removal by CCS only,Energy,Corn,1G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-14967.30659
+Emissions,Removal by CCS only,Energy,Corn,1G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-18413.44075
+Emissions,Removal by CCS only,Energy,Sugarcane,1G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-42993.86097
+Emissions,Removal by CCS only,Energy,Sugarcane,1G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-150450.22353
+Emissions,Removal by CCS only,Energy,Sugarcane,1G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-132830206.24653
+Emissions,Removal by CCS only,Energy,Sugarcane,1G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-252767714.93571
+Emissions,Removal by CCS only,Energy,Sugarcane,1G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-368559581.45447
+Emissions,Removal by CCS only,Energy,Sugarcane,1G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-493769459.97011
+Emissions,Removal by CCS only,Energy,Sugarcane,1G2G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-34301.92136
+Emissions,Removal by CCS only,Energy,Sugarcane,1G2G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-85355.88869
+Emissions,Removal by CCS only,Energy,Sugarcane,1G2G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-100521.58448
+Emissions,Removal by CCS only,Energy,Sugarcane,1G2G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-99398.36788
+Emissions,Removal by CCS only,Energy,Sugarcane,1G2G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-97408.97248
+Emissions,Removal by CCS only,Energy,Sugarcane,1G2G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-98444.61307
+Emissions,Removal by CCS only,Energy,Herbaceous aggregated residue,2G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-13900.28842
+Emissions,Removal by CCS only,Energy,Herbaceous aggregated residue,2G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-27479.71955
+Emissions,Removal by CCS only,Energy,Herbaceous aggregated residue,2G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-30267.88508
+Emissions,Removal by CCS only,Energy,Herbaceous aggregated residue,2G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-29489.7021
+Emissions,Removal by CCS only,Energy,Herbaceous aggregated residue,2G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-29332.362
+Emissions,Removal by CCS only,Energy,Herbaceous aggregated residue,2G ethanol with CCS,Ethanol,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-45505.63188
+Emissions,Removal by CCS only,Energy,Herbaceous aggregated residue,Biomass power with CCS,Electricity,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-24775.50552
+Emissions,Removal by CCS only,Energy,Herbaceous aggregated residue,Biomass power with CCS,Electricity,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-35401.37658
+Emissions,Removal by CCS only,Energy,Herbaceous aggregated residue,Biomass power with CCS,Electricity,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-52131.18831
+Emissions,Removal by CCS only,Energy,Herbaceous aggregated residue,Biomass power with CCS,Electricity,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-50872.84366
+Emissions,Removal by CCS only,Energy,Herbaceous aggregated residue,Biomass power with CCS,Electricity,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-47551.029
+Emissions,Removal by CCS only,Energy,Herbaceous aggregated residue,Biomass power with CCS,Electricity,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-4271469.42167
+Emissions,Removal by CCS only,Energy,Herbaceous aggregated residue,Gasification H2 with CCS,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-18248.7428
+Emissions,Removal by CCS only,Energy,Herbaceous aggregated residue,Gasification H2 with CCS,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-30351.23995
+Emissions,Removal by CCS only,Energy,Herbaceous aggregated residue,Gasification H2 with CCS,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-35661.82573
+Emissions,Removal by CCS only,Energy,Herbaceous aggregated residue,Gasification H2 with CCS,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-35345.84579
+Emissions,Removal by CCS only,Energy,Herbaceous aggregated residue,Gasification H2 with CCS,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-47234.23201
+Emissions,Removal by CCS only,Energy,Herbaceous aggregated residue,Gasification H2 with CCS,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-2806641.62404
+Emissions,Removal by CCS only,Energy,Herbaceous aggregated residue,Gasification SNG with CCS,Methane,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-0.0
+Emissions,Removal by CCS only,Energy,Herbaceous aggregated residue,Gasification SNG with CCS,Methane,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-633.67107
+Emissions,Removal by CCS only,Energy,Herbaceous aggregated residue,Gasification SNG with CCS,Methane,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-1182.12973
+Emissions,Removal by CCS only,Energy,Herbaceous aggregated residue,Gasification SNG with CCS,Methane,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-1762.46209
+Emissions,Removal by CCS only,Energy,Herbaceous aggregated residue,Gasification SNG with CCS,Methane,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-2220.85262
+Emissions,Removal by CCS only,Energy,Herbaceous aggregated residue,Gasification SNG with CCS,Methane,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-23591.77613
+Emissions,Removal by CCS only,Energy,Plantation forestry,Biomass power with CCS,Electricity,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-29028.57808
+Emissions,Removal by CCS only,Energy,Plantation forestry,Biomass power with CCS,Electricity,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-41775.27723
+Emissions,Removal by CCS only,Energy,Plantation forestry,Biomass power with CCS,Electricity,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-51454.08887
+Emissions,Removal by CCS only,Energy,Plantation forestry,Biomass power with CCS,Electricity,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-52364.26001
+Emissions,Removal by CCS only,Energy,Plantation forestry,Biomass power with CCS,Electricity,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-52090.57505
+Emissions,Removal by CCS only,Energy,Plantation forestry,Biomass power with CCS,Electricity,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-15165498.20209
+Emissions,Removal by CCS only,Energy,Plantation forestry,Gasification H2 with CCS,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-18493.09031
+Emissions,Removal by CCS only,Energy,Plantation forestry,Gasification H2 with CCS,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-26376.67757
+Emissions,Removal by CCS only,Energy,Plantation forestry,Gasification H2 with CCS,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-29051.27845
+Emissions,Removal by CCS only,Energy,Plantation forestry,Gasification H2 with CCS,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-28186.61311
+Emissions,Removal by CCS only,Energy,Plantation forestry,Gasification H2 with CCS,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-28167.47874
+Emissions,Removal by CCS only,Energy,Plantation forestry,Gasification H2 with CCS,Hydrogen,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-43652.71977
+Emissions,Removal by CCS only,Energy,Atmospheric CO2,Direct air capture,NA,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2025,-3131.39805
+Emissions,Removal by CCS only,Energy,Atmospheric CO2,Direct air capture,NA,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2030,-32108.79766
+Emissions,Removal by CCS only,Energy,Atmospheric CO2,Direct air capture,NA,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2035,-34703.87777
+Emissions,Removal by CCS only,Energy,Atmospheric CO2,Direct air capture,NA,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2040,-39717.45003
+Emissions,Removal by CCS only,Energy,Atmospheric CO2,Direct air capture,NA,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2045,-43840.95787
+Emissions,Removal by CCS only,Energy,Atmospheric CO2,Direct air capture,NA,CO2e GWP100-AR5,tCO2e GWP100-AR5,BR,2050,-85712.48676
