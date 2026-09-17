@@ -19,7 +19,8 @@ PERIODS = {p: START_YEAR + PERIOD_LENGTH * (p - 1) for p in range(1, N_PERIODS +
 COLS = ["Variable_group", "COL2", "Class_1", "Class_2", "Class_3", "Class_4",
         "Class_5", "Unit", "Territory", "Year", "Value"]
 
-# --- duas convenções de pasta: o arquivo já entregue e a rodada viva -----------
+# --- três convenções de pasta: o arquivo já entregue, a rodada viva, e o -----
+# --- cenário rodado direto do projeto vivo com nome de pasta "results" -------
 #
 # O outputs_macro nasceu apontado para um arquivo arquivado (results_001_original_run,
 # extraído de um zip que duplicava o nome do projeto): ali --root já era a própria
@@ -30,17 +31,28 @@ COLS = ["Variable_group", "COL2", "Class_1", "Class_2", "Class_3", "Class_4",
 # results_period_N não é duplicado, e o annual_flows fica em
 # results_001/annual_aggregation/, não em flows_annual/.
 #
-# As funções abaixo tentam a forma viva primeiro e caem para a antiga se não
+# Desde 16/09/2026: alguns cenários (ex.: scenario 2) rodam o run_full_pipeline.py
+# com a pasta de resultados chamada "results" em vez de "results_001" — mesma
+# estrutura da rodada viva (annual_aggregation dentro dela), só o nome da
+# subpasta que muda. RESULTS_RUN_CANDIDATOS cobre os nomes conhecidos, na ordem
+# em que são tentados.
+#
+# As funções abaixo tentam as formas vivas primeiro e caem para a antiga se não
 # acharem — não precisa dizer qual é qual na linha de comando.
-RESULTS_RUN = "results_001"          # nome da subpasta da rodada, dentro de --root
+RESULTS_RUN = "results_001"          # nome mais comum da subpasta da rodada, dentro de --root
+RESULTS_RUN_CANDIDATOS = (RESULTS_RUN, "results")  # ordem de tentativa
 _INPUTS_REL_ANTIGA = Path("MacroEnergy.jl-NZB_S0/MacroEnergy.jl-NZB_S0/S0")
 
 
 def _pasta_resultados(root: Path) -> Path:
     """root pode já ser a pasta de resultados (arquivo antigo) ou a pasta do
-    projeto, com a rodada numa subpasta RESULTS_RUN (projeto vivo)."""
-    com_subpasta = root / RESULTS_RUN
-    return com_subpasta if com_subpasta.is_dir() else root
+    projeto, com a rodada numa subpasta (projeto vivo — ver
+    RESULTS_RUN_CANDIDATOS para os nomes conhecidos dessa subpasta)."""
+    for nome in RESULTS_RUN_CANDIDATOS:
+        candidata = root / nome
+        if candidata.is_dir():
+            return candidata
+    return root
 
 
 def inputs_dir(root: Path) -> Path:

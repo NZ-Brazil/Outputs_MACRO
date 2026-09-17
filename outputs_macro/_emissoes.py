@@ -53,6 +53,10 @@ FONTE_COMBUSTIVEL = {
     "renewable_diesel_BR":   (False, "Renewable diesel"),
     "gasoline_renewable_BR": (False, "Renewable gasoline"),
     "jetfuel_SAF_BR":        (False, "Sustainable aviation fuel"),
+    "charcoal_BR":           (False, "Charcoal"),  # gap encontrado 17/09/2026: sem
+                                                     # entrada, BR_Charcoal_Downstream
+                                                     # caia no fallback (True, "NA")
+                                                     # e ficava fossil por omissao
 }
 
 # upstream fóssil -> (Class_3 sub-categoria SEEG, Class_4 produto)
@@ -70,7 +74,7 @@ CONVERSAO = {
     "BECCSCharcoal":        (C2_FUEL, "Charcoal production", "Charcoal"),
     "BECCSHydrogen":        (C2_FUEL, "NA",                 "Hydrogen"),
     "BECCSATJ":             (C2_FUEL, "NA",                 "Sustainable aviation fuel"),
-    "BioGasifSNG":          (C2_FUEL, "NA",                 "Biomethane"),
+    "BioGasifSNG":          (C2_FUEL, "NA",                 "Synthetic natural gas"),
     "FischerTropsch":       (C2_FUEL, "NA",                 "Renewable diesel"),
     "HEFA":                 (C2_FUEL, "NA",                 "Renewable diesel"),
     "SyntheticLiquidFuels": (C2_FUEL, "NA",                 "Synthetic liquid fuels"),

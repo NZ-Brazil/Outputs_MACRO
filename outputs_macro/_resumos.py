@@ -11,25 +11,24 @@ RESUMOS = {}
 RESUMOS[18] = (
     "Emissões de CO2 do sistema energético mais um bloco exógeno que cobre "
     "indústria, resíduos e agropecuária. Soma dos fluxos positivos que entram "
-    "no nó de emissões, classificados em fósseis e biogênicos pelo nó de origem "
-    "do combustível. Segue a convenção do MACRO, que conta a combustão de "
-    "biomassa como emissão — o SEEG não conta. Class_5 é o gás; a marcação "
-    "fóssil/biogênico está no Class_4 (a lista está no LEIA-ME). A leitura SEEG "
-    "não é um filtro nesta variável: é a emissão fóssil daqui menos o CO2 "
-    "estocado da id 73."
+    "no nó de emissões, excluindo a combustão de origem biomássica (Class_4 em "
+    "E.BIOGENICO_CLASS4). Desde 16/09/2026 esta variável já sai líquida da "
+    "combustão de biomassa, que antes se cancelava com a id 19 — some com a "
+    "id 19 (Removal by CCS only) para o líquido do sistema. Class_5 é o gás; a "
+    "lista de rótulos biogênicos está no LEIA-ME."
 )
 
 RESUMOS[19] = (
-    "Remoções de CO2, iguais à absorção bruta de carbono pela biomassa mais a "
-    "captura direta do ar, ligadas à matéria-prima que as originou. As classes "
-    "seguem o diagrama de rotas da equipe — família e tipo de matéria-prima, "
-    "conversão e vetor energético — porque o SEEG é uma taxonomia de emissão e "
-    "não tem galho para remoção. A captação é registrada no ativo de conversão, "
-    "que a calcula como o co2_content do ativo vezes o fluxo da sua aresta "
-    "principal — então vai inteira para a matéria-prima dessa aresta, e a lenha "
-    "queimada como co-insumo de processo não capta nada. Não é o CO2 estocado "
-    "em reservatório (id 73), que é uma parcela desta — somar as duas conta o "
-    "mesmo carbono duas vezes."
+    "Removal by CCS only: CO2 efetivamente capturado e enviado para "
+    "armazenamento por rotas biogênicas e por captura direta do ar, ligado à "
+    "matéria-prima que o originou. Desde 16/09/2026 deixou de ser a absorção "
+    "bruta da biomassa (co2_content) e passou a medir a captura (capture_rate) "
+    "— rota sem CCS sai com valor zero, e o CCS fóssil fica de fora porque já "
+    "é líquido na id 18. As classes seguem o diagrama de rotas da equipe, "
+    "porque o SEEG é uma taxonomia de emissão e não tem galho para remoção. "
+    "Mede quase a mesma coisa que o CO2 estocado por bacia (id 73), vista de "
+    "outro ponto da rede — captação na origem aqui, injeção no reservatório "
+    "lá; os dois só divergem pelo tanto capturado em CCS fóssil."
 )
 
 RESUMOS[24] = (

@@ -1488,9 +1488,9 @@ faz contabilidade de ciclo cheio, então a plataforma não previu o corte. Ele
 continua recuperável linha a linha, sem ambiguidade:
 
     id 18   pelo Class_4. É combustão de biomassa quando o rótulo é um destes:
-            Biodiesel, Bioelectricity, Biomethane, Charcoal, Ethanol, Hydrogen,
+            Biodiesel, Bioelectricity, Charcoal, Ethanol, Hydrogen,
             Renewable diesel, Renewable gasoline, Residue, Sustainable aviation
-            fuel, Synthetic methane. Todo o resto é fóssil. Conferido: o
+            fuel, Synthetic methane, Synthetic natural gas. Todo o resto é fóssil. Conferido: o
             Class_4 determina o corte em 100% das linhas.
 
     id 19   pelo Class_1. As três famílias de biomassa — Primary crops,

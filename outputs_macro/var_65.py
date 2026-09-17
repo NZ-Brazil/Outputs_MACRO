@@ -56,8 +56,25 @@ PRODUTO = {
     "renewable_diesel":   "Renewable diesel",
     "jetfuel_SAF":        "Sustainable aviation fuel",
     "gasoline_renewable": "Renewable gasoline",
-    "natgas_nonfossil":   "Biomethane",
+    "natgas_nonfossil":   "Synthetic natural gas",   # era "Biomethane"; ver abaixo
     "h2":                 "Hydrogen",
+}
+
+# O natgas_nonfossil_BR recebe DUAS rotas diferentes, e o nó de destino sozinho
+# não distingue as duas:
+#
+#     BioGasifSNG          biometano de gaseificação de biomassa
+#     SyntheticNaturalGas  e-metano, feito de CO2 capturado + hidrogênio
+#
+# Então quem decide o produto aqui é o TIPO DO ATIVO, não o nó. Os rótulos são
+# exatamente os que a id 18 usa na Class_4 (ver _emissoes.CONVERSAO), a pedido
+# da equipe em 17/09/2026: até então a id 65 chamava as duas rotas de
+# "Biomethane" e a id 18 já as separava, e as duas variáveis discordavam sobre
+# o nome do mesmo ativo. Mexer nos dois lugares ao mesmo tempo é a única forma
+# de não trocar uma divergência por outra.
+PRODUTO_POR_TIPO = {
+    "BioGasifSNG":         "Synthetic natural gas",
+    "SyntheticNaturalGas": "Synthetic methane",
 }
 
 # família do resource_id -> (Class_4 matéria-prima, Class_5 tecnologia)
@@ -118,6 +135,9 @@ def gerar(root: Path, por_uf: bool = False, **kw):
             prod = _produto(r.node_out)
             if prod is None:
                 continue
+            # o tipo do ativo tem prioridade sobre o nó de destino, para as
+            # rotas que compartilham nó (ver PRODUTO_POR_TIPO)
+            prod = PRODUTO_POR_TIPO.get(str(r.resource_type), prod)
             fam = re.sub(r"^BR_[A-Z]{2}_", "", str(r.resource_id))
             c4, c5 = ROTA.get(fam) or ROTA.get(r.resource_type) or ("NA", fam)
             terr = uf_de(r.resource_id) if por_uf else "BR"
@@ -125,9 +145,14 @@ def gerar(root: Path, por_uf: bool = False, **kw):
             reg.setdefault(k, {}).setdefault(year, 0.0)
             reg[k][year] += float(r.value)
 
+    # ordem de saída: os produtos do PRODUTO, mais os do PRODUTO_POR_TIPO que
+    # não aparecem lá (o "Synthetic methane" é só do e-metano). Produto fora
+    # das duas listas vai para o fim, em vez de derrubar a variável.
     ordem = list(PRODUTO.values())
+    ordem += [v for v in PRODUTO_POR_TIPO.values() if v not in ordem]
+    pos = lambda x: ordem.index(x) if x in ordem else len(ordem)
     out = []
-    for k in sorted(reg, key=lambda x: (ordem.index(x[0]), x[1], x[2], x[3])):
+    for k in sorted(reg, key=lambda x: (pos(x[0]), x[1], x[2], x[3])):
         prod, materia, tecnologia, terr = k
         for year in PERIODS.values():
             # AS TRÊS DIMENSÕES SUBIRAM DUAS POSIÇÕES (pedido da equipe,
